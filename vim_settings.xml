@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1561503258947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" timestamp="1561503336843">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" timestamp="1561504250392">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="31" column="15" />
+        <mark key="[" line="65" column="54" />
+        <mark key="]" line="65" column="65" />
+        <mark key="^" line="65" column="65" />
+        <mark key="." line="65" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -25,6 +25,9 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
+      <register name=":" type="4">
+        <text>reg</text>
+      </register>
       <register name="-" type="4">
         <text>Controller</text>
       </register>
@@ -34,14 +37,18 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-cmd />
+      <history-cmd>
+        <entry>reg</entry>
+        <entry>actions</entry>
+        <entry>e testFile.java</entry>
+      </history-cmd>
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
