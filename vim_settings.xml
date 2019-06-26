@@ -6,23 +6,31 @@
       <file name="/Dummy.txt" timestamp="1561503258947">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" timestamp="1561504250392">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="65" column="54" />
-        <mark key="]" line="65" column="65" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" timestamp="1561524441095">
+        <mark key="'" line="33" column="36" />
+        <mark key="[" line="44" column="51" />
+        <mark key="]" line="44" column="54" />
         <mark key="^" line="65" column="65" />
-        <mark key="." line="65" column="65" />
+        <mark key="." line="44" column="57" />
       </file>
     </filemarks>
     <jumps>
       <jump line="28" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
       <jump line="38" column="10" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
+      <jump line="44" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
+      <jump line="33" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
+      <register name="0" type="4">
+        <text>long</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRpb25EdG9NYXJzaGFsbGVyID0gdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>long</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name=":" type="4">
@@ -38,9 +46,9 @@
     </search>
     <history>
       <history-cmd>
-        <entry>reg</entry>
         <entry>actions</entry>
         <entry>e testFile.java</entry>
+        <entry>reg</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
