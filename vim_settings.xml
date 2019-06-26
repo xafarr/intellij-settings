@@ -49,6 +49,7 @@
         <entry>actions</entry>
         <entry>e testFile.java</entry>
         <entry>reg</entry>
+        <entry>ls</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
