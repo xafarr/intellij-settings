@@ -11,12 +11,24 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561876736546">
+        <mark key="'" line="708" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="4" />
+        <mark key="." line="127" column="4" />
+        <mark key="^" line="99" column="17" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="28" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
       <jump line="38" column="10" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
       <jump line="44" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
       <jump line="33" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
+      <jump line="153" column="17" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="89" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="680" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="708" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -47,24 +59,34 @@
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name=":" type="4">
-        <text>set showmode</text>
+        <text>set hls</text>
       </register>
       <register name="-" type="4">
         <text>Controller</text>
       </register>
+      <register name="/" type="4">
+        <text>_REVISE</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>_REVISE</last-search>
+      <last-offset />
+      <last-pattern>_REVISE</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>_EDIT_ACTION_REVISE</entry>
+        <entry>_REVISE</entry>
+      </history-search>
       <history-cmd>
         <entry>actions</entry>
         <entry>e testFile.java</entry>
         <entry>reg</entry>
         <entry>ls</entry>
         <entry>set showmode</entry>
+        <entry>set hls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -75,6 +97,27 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
