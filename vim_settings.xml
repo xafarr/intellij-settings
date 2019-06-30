@@ -11,12 +11,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561876736546">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561877294769">
         <mark key="'" line="708" column="0" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="4" />
-        <mark key="." line="127" column="4" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="82" />
         <mark key="^" line="99" column="17" />
+        <mark key="." line="137" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -59,7 +59,7 @@
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name=":" type="4">
-        <text>set hls</text>
+        <text>set nu!</text>
       </register>
       <register name="-" type="4">
         <text>Controller</text>
@@ -73,7 +73,7 @@
       <last-offset />
       <last-pattern>_REVISE</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -86,7 +86,16 @@
         <entry>reg</entry>
         <entry>ls</entry>
         <entry>set showmode</entry>
+        <entry>m .-2</entry>
+        <entry>m .+1</entry>
         <entry>set hls</entry>
+        <entry>set hls?</entry>
+        <entry>list</entry>
+        <entry>set list</entry>
+        <entry>set list?</entry>
+        <entry>set nu rnu</entry>
+        <entry>set rnu!</entry>
+        <entry>set nu!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
