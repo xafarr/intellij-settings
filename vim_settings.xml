@@ -11,7 +11,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561879238446">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561879499289">
         <mark key="'" line="153" column="29" />
         <mark key="[" line="153" column="29" />
         <mark key="]" line="153" column="28" />
@@ -28,6 +28,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="708" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="211" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="97" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="89" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="153" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
     </jumps>
@@ -60,7 +61,7 @@
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name=":" type="4">
-        <text>so ~/.ideavimrc</text>
+        <text>set rnu!</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -74,7 +75,7 @@
       <last-offset />
       <last-pattern>_REVISE</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -82,10 +83,6 @@
         <entry>_REVISE</entry>
       </history-search>
       <history-cmd>
-        <entry>actions</entry>
-        <entry>e testFile.java</entry>
-        <entry>reg</entry>
-        <entry>ls</entry>
         <entry>set showmode</entry>
         <entry>m .-2</entry>
         <entry>m .+1</entry>
@@ -94,11 +91,18 @@
         <entry>set list</entry>
         <entry>set list?</entry>
         <entry>set nu rnu</entry>
-        <entry>set rnu!</entry>
         <entry>set nu!</entry>
         <entry>set hls!</entry>
         <entry>set hls?</entry>
         <entry>so ~/.ideavimrc</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>reg /</entry>
+        <entry>reg 0</entry>
+        <entry>set list! list?</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
+        <entry>set rnu!</entry>
+        <entry>echo mapleader</entry>
       </history-cmd>
       <history-expr />
       <history-input />
