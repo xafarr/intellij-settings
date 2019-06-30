@@ -11,12 +11,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561878431675">
-        <mark key="'" line="89" column="40" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="82" />
-        <mark key="^" line="99" column="17" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561879238446">
+        <mark key="'" line="153" column="29" />
+        <mark key="[" line="153" column="29" />
+        <mark key="]" line="153" column="28" />
+        <mark key="^" line="153" column="28" />
+        <mark key="." line="153" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -28,8 +28,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="708" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="211" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="153" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="89" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="153" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -38,8 +38,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cg==</text>
@@ -60,10 +60,10 @@
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name=":" type="4">
-        <text>set hls?</text>
+        <text>so ~/.ideavimrc</text>
       </register>
       <register name="-" type="4">
-        <text>Controller</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>_REVISE</text>
@@ -96,9 +96,9 @@
         <entry>set nu rnu</entry>
         <entry>set rnu!</entry>
         <entry>set nu!</entry>
-        <entry>so ~/.ideavimrc</entry>
         <entry>set hls!</entry>
         <entry>set hls?</entry>
+        <entry>so ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
