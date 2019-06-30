@@ -11,12 +11,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561879499289">
-        <mark key="'" line="153" column="29" />
-        <mark key="[" line="153" column="29" />
-        <mark key="]" line="153" column="28" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561882490643">
+        <mark key="'" line="505" column="66" />
+        <mark key="[" line="304" column="12" />
+        <mark key="]" line="304" column="18" />
         <mark key="^" line="153" column="28" />
-        <mark key="." line="153" column="28" />
+        <mark key="." line="304" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -30,50 +30,67 @@
       <jump line="211" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="97" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="89" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="153" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="153" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="134" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="136" column="58" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="133" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="306" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="505" column="66" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>long</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cgo=</text>
+      <register name="a" type="4">
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="&quot;" type="4">
         <text>_</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQcm9qZWN0RmllbGRzQ29udHJvbGxlcihQcm9qZWN0RmllbGRzU2VydmljZSBwcm9qZWN0RmllbGRzU2VydmljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyIHByb2plY3RGaWVsZER0b01hcnNoYWxsZXIsIFZhbGlkYXRpb25EdG9NYXJzaGFsbGVyIHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyKSB7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGRzU2VydmljZSA9IHByb2plY3RGaWVsZHNTZXJ2aWNlOwogICAgICAgIHRoaXMucHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciA9IHByb2plY3RGaWVsZER0b01hcnNoYWxsZXI7CiAgICAgICAgdGhpcy52YWxpZGF0aW9uRHRvTWFyc2hhbGxlciA9IHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyOwogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHVibGljIFByb2plY3RGaWVsZHNDb250cm9sbGVyKFByb2plY3RGaWVsZHNTZXJ2aWNlIHByb2plY3RGaWVsZHNTZXJ2aWNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXIpIHsKICAgICAgICB0aGlzLnByb2plY3RGaWVsZHNTZXJ2aWNlID0gcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyID0gcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgICAgICB0aGlzLnZhbGlkYXRpb25EdG9NYXJzaGFsbGVyID0gdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7CiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">cHVibGljIFByb2plY3RGaWVsZHNDb250cm9sbGVyKFByb2plY3RGaWVsZHNTZXJ2aWNlIHByb2plY3RGaWVsZHNTZXJ2aWNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXIpIHsKICAgICAgICB0aGlzLnByb2plY3RGaWVsZHNTZXJ2aWNlID0gcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyID0gcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgICAgICB0aGlzLnZhbGlkYXRpb25EdG9NYXJzaGFsbGVyID0gdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnZhbGlkYXRpb25EdG9NYXJzaGFsbGVyID0gdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
-      </register>
-      <register name=":" type="4">
-        <text>set rnu!</text>
+      <register name="*" type="4">
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>_REVISE</text>
+        <text>action</text>
+      </register>
+      <register name="0" type="4">
+        <text>long</text>
+      </register>
+      <register name="1" type="4">
+        <text>()</text>
+      </register>
+      <register name="2" type="4">
+        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
+      </register>
+      <register name="3" type="4">
+        <text>()</text>
+      </register>
+      <register name="4" type="4">
+        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBQcm9qZWN0RmllbGRzQ29udHJvbGxlcihQcm9qZWN0RmllbGRzU2VydmljZSBwcm9qZWN0RmllbGRzU2VydmljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyIHByb2plY3RGaWVsZER0b01hcnNoYWxsZXIsIFZhbGlkYXRpb25EdG9NYXJzaGFsbGVyIHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyKSB7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGRzU2VydmljZSA9IHByb2plY3RGaWVsZHNTZXJ2aWNlOwogICAgICAgIHRoaXMucHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciA9IHByb2plY3RGaWVsZER0b01hcnNoYWxsZXI7CiAgICAgICAgdGhpcy52YWxpZGF0aW9uRHRvTWFyc2hhbGxlciA9IHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyOwogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHVibGljIFByb2plY3RGaWVsZHNDb250cm9sbGVyKFByb2plY3RGaWVsZHNTZXJ2aWNlIHByb2plY3RGaWVsZHNTZXJ2aWNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXIpIHsKICAgICAgICB0aGlzLnByb2plY3RGaWVsZHNTZXJ2aWNlID0gcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyID0gcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgICAgICB0aGlzLnZhbGlkYXRpb25EdG9NYXJzaGFsbGVyID0gdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7CiAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">cHVibGljIFByb2plY3RGaWVsZHNDb250cm9sbGVyKFByb2plY3RGaWVsZHNTZXJ2aWNlIHByb2plY3RGaWVsZHNTZXJ2aWNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXIpIHsKICAgICAgICB0aGlzLnByb2plY3RGaWVsZHNTZXJ2aWNlID0gcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyID0gcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgICAgICB0aGlzLnZhbGlkYXRpb25EdG9NYXJzaGFsbGVyID0gdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7CiAgICB9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>_REVISE</last-search>
+      <last-search>action</last-search>
       <last-offset />
-      <last-pattern>_REVISE</last-pattern>
+      <last-pattern>action</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -81,28 +98,32 @@
       <history-search>
         <entry>_EDIT_ACTION_REVISE</entry>
         <entry>_REVISE</entry>
+        <entry>doperform</entry>
+        <entry>_EDIT</entry>
+        <entry>actionRe</entry>
+        <entry>action</entry>
       </history-search>
       <history-cmd>
-        <entry>set showmode</entry>
-        <entry>m .-2</entry>
-        <entry>m .+1</entry>
-        <entry>set hls</entry>
-        <entry>list</entry>
-        <entry>set list</entry>
         <entry>set list?</entry>
         <entry>set nu rnu</entry>
         <entry>set nu!</entry>
-        <entry>set hls!</entry>
         <entry>set hls?</entry>
         <entry>so ~/.ideavimrc</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>reg /</entry>
         <entry>reg 0</entry>
+        <entry>echo mapleader</entry>
+        <entry>reg \</entry>
+        <entry>reg /</entry>
+        <entry>reg 8</entry>
+        <entry>reg a</entry>
         <entry>set list! list?</entry>
+        <entry>set hls!</entry>
+        <entry>set hsl!</entry>
+        <entry>set hls</entry>
+        <entry>set nohls</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>set rnu!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
-        <entry>set rnu!</entry>
-        <entry>echo mapleader</entry>
       </history-cmd>
       <history-expr />
       <history-input />
