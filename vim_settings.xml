@@ -11,8 +11,8 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561877294769">
-        <mark key="'" line="708" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561878431675">
+        <mark key="'" line="89" column="40" />
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="82" />
         <mark key="^" line="99" column="17" />
@@ -24,11 +24,12 @@
       <jump line="38" column="10" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
       <jump line="44" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
       <jump line="33" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
-      <jump line="153" column="17" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="89" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="680" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="708" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="211" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="153" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="89" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -59,7 +60,7 @@
         <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name=":" type="4">
-        <text>set nu!</text>
+        <text>set hls?</text>
       </register>
       <register name="-" type="4">
         <text>Controller</text>
@@ -73,7 +74,7 @@
       <last-offset />
       <last-pattern>_REVISE</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -89,13 +90,15 @@
         <entry>m .-2</entry>
         <entry>m .+1</entry>
         <entry>set hls</entry>
-        <entry>set hls?</entry>
         <entry>list</entry>
         <entry>set list</entry>
         <entry>set list?</entry>
         <entry>set nu rnu</entry>
         <entry>set rnu!</entry>
         <entry>set nu!</entry>
+        <entry>so ~/.ideavimrc</entry>
+        <entry>set hls!</entry>
+        <entry>set hls?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
