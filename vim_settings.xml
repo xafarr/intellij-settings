@@ -21,13 +21,18 @@
         <mark key="^" line="153" column="28" />
         <mark key="." line="304" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1561969759545" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562021888834">
+        <mark key="'" line="769" column="121" />
+        <mark key="[" line="769" column="14" />
+        <mark key="]" line="769" column="52" />
+        <mark key="." line="769" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1561975769276">
         <mark key="'" line="3" column="102" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentMenuBuilder.java" timestamp="1562017339745">
-        <mark key="[" line="96" column="19" />
-        <mark key="]" line="96" column="50" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentMenuBuilder.java" timestamp="1562021744520">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" timestamp="1561970394591">
         <mark key="'" line="152" column="30" />
@@ -41,11 +46,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" timestamp="1561704721988">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" timestamp="1561974932264">
         <mark key="'" line="24" column="27" />
         <mark key="[" line="39" column="9" />
@@ -53,7 +53,6 @@
         <mark key="." line="39" column="17" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1562017763502" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1561959937553">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="15" />
@@ -73,10 +72,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1561976313789">
-        <mark key="[" line="2341" column="20" />
-        <mark key="]" line="2341" column="52" />
-        <mark key="." line="2341" column="20" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562023483889">
+        <mark key="'" line="2370" column="19" />
+        <mark key="[" line="2343" column="0" />
+        <mark key="]" line="2343" column="51" />
+        <mark key="." line="2343" column="0" />
+        <mark key="^" line="2346" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1561973864279">
         <mark key="[" line="0" column="0" />
@@ -84,13 +85,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/i18n/I18nFunctions.java" timestamp="1562017043019" />
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
-      <jump line="38" column="10" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
-      <jump line="44" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
-      <jump line="33" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
-      <jump line="680" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="708" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="211" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="97" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="153" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
@@ -176,6 +170,21 @@
       <jump line="26" column="10" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
       <jump line="29" column="5" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
+      <jump line="769" column="121" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" />
+      <jump line="1506" column="52" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
+      <jump line="2545" column="67" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
+      <jump line="2345" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2347" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2362" column="90" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2374" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2379" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2395" column="128" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2397" column="10" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2470" column="50" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2488" column="45" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2503" column="121" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2511" column="116" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2369" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -188,34 +197,34 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>BeforeMethod</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>BeforeMethod</text>
+        <text>acx</text>
       </register>
-      <register name="0" type="4">
-        <text>/EditControlledDoc?EDIT_ACTION=1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2FkU3RyID0gYWN4LmdldFJlc291cmNlUGF0aChsb2FkU3RyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="3" type="4">
-        <text>/en_AU_DOC/document/supersede/index.html</text>
-      </register>
-      <register name="4" type="4">
-        <text />
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZFN0ciA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBwcm9qZWN0SWQgKyAiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgZG9jSWQ7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="5" type="4">
+        <text>/en_AU_DOC/document/supersede/index.html</text>
+      </register>
+      <register name="6" type="4">
+        <text />
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
         <text>()</text>
@@ -224,17 +233,17 @@
         <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>set hls!</text>
       </register>
     </registers>
     <search>
-      <last-search>BeforeMethod</last-search>
+      <last-search>acx</last-search>
       <last-offset />
-      <last-pattern>BeforeMethod</last-pattern>
+      <last-pattern>acx</last-pattern>
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -251,6 +260,10 @@
         <entry>supersede</entry>
         <entry>upload</entry>
         <entry>BeforeMethod</entry>
+        <entry>EditControlledDoc?E</entry>
+        <entry>document</entry>
+        <entry encoding="base64">XDxkb2N1bWVudA==</entry>
+        <entry>acx</entry>
       </history-search>
       <history-cmd>
         <entry>echo mapleader</entry>
@@ -268,11 +281,11 @@
         <entry>%s/upload/supersede/g</entry>
         <entry>set hls</entry>
         <entry>set hls?</entry>
-        <entry>set hls!</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set rnu!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
+        <entry>set hls!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
