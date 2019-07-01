@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1561960410074" />
       <file name="/Dummy.txt" timestamp="1561936539701">
         <mark key="[" line="0" column="0" />
       </file>
@@ -11,7 +12,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561950394975">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561961441535">
         <mark key="'" line="89" column="40" />
         <mark key="[" line="304" column="12" />
         <mark key="]" line="304" column="18" />
@@ -19,6 +20,7 @@
         <mark key="." line="304" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1561951350859" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/controlleddoc/js/controlleddoc.js" timestamp="1561961493141" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1561959937553">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="15" />
@@ -26,7 +28,7 @@
         <mark key="." line="32" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1561952446476" />
-      <file name="/fragment.java" timestamp="1561959481536">
+      <file name="/fragment.java" timestamp="1561960408852">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
