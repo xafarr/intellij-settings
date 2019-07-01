@@ -21,6 +21,7 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1561951350859" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/controlleddoc/js/controlleddoc.js" timestamp="1561961493141" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/parsers/ControlledDocCreateFormParser.java" timestamp="1561962539280" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1561959937553">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="15" />
