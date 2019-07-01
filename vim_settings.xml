@@ -6,11 +6,6 @@
       <file name="/Dummy.txt" timestamp="1561969890295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" timestamp="1561704721988">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1561961441535">
         <mark key="'" line="89" column="40" />
         <mark key="[" line="304" column="12" />
@@ -18,13 +13,39 @@
         <mark key="^" line="153" column="28" />
         <mark key="." line="304" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1561969759545" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" timestamp="1561970394591">
+        <mark key="'" line="152" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentUrlBuilder.java" timestamp="1561971329914">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" timestamp="1561704721988">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1561970742285" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1561959937553">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="15" />
         <mark key="^" line="32" column="15" />
         <mark key="." line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1561969759545" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1561971513090">
+        <mark key="[" line="242" column="65" />
+        <mark key="]" line="242" column="83" />
+        <mark key="." line="242" column="83" />
+        <mark key="^" line="242" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/SupersedeUrlBuilder.java" timestamp="1561971556108">
+        <mark key="'" line="6" column="5" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="38" />
+      </file>
       <file name="/fragment.java" timestamp="1561960408852">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,6 +68,66 @@
       <jump line="505" column="66" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="522" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="89" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
+      <jump line="151" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="148" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="146" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="145" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="142" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="140" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="139" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="136" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="134" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="133" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="130" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="128" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="127" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="124" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="122" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="121" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="118" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="116" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="115" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="111" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="110" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="109" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="108" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="107" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="106" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="105" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="101" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="97" column="25" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="89" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="78" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="74" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="70" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="66" column="23" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="58" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="53" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="48" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="40" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="344" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="340" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="208" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="204" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="202" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="201" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="196" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="185" column="61" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="178" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="176" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="175" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="172" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="170" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="169" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="166" column="41" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="164" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="163" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="160" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="158" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="157" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="154" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="152" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
+      <jump line="3" column="5" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/SupersedeUrlBuilder.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -59,37 +140,37 @@
         <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>getDocumentUploadUrlInAngularJs</text>
       </register>
       <register name="/" type="4">
-        <text>_REVISE</text>
+        <text>DOCU</text>
       </register>
-      <register name="0" type="4">
-        <text>long</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSJkb2N1bWVudFVybEJ1aWxkZXIiIGNsYXNzPSJjb20uYWNvbmV4Lm1lbnUuZG9tYWluLkRvY3VtZW50VXJsQnVpbGRlciIvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
-      </register>
-      <register name="3" type="4">
         <text>()</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="4">
         <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cgo=</text>
+      <register name="4" type="4">
+        <text>()</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQcm9qZWN0RmllbGRzQ29udHJvbGxlcihQcm9qZWN0RmllbGRzU2VydmljZSBwcm9qZWN0RmllbGRzU2VydmljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyIHByb2plY3RGaWVsZER0b01hcnNoYWxsZXIsIFZhbGlkYXRpb25EdG9NYXJzaGFsbGVyIHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyKSB7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGRzU2VydmljZSA9IHByb2plY3RGaWVsZHNTZXJ2aWNlOwogICAgICAgIHRoaXMucHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciA9IHByb2plY3RGaWVsZER0b01hcnNoYWxsZXI7CiAgICAgICAgdGhpcy52YWxpZGF0aW9uRHRvTWFyc2hhbGxlciA9IHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHVibGljIFByb2plY3RGaWVsZHNDb250cm9sbGVyKFByb2plY3RGaWVsZHNTZXJ2aWNlIHByb2plY3RGaWVsZHNTZXJ2aWNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXIpIHsKICAgICAgICB0aGlzLnByb2plY3RGaWVsZHNTZXJ2aWNlID0gcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyID0gcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgICAgICB0aGlzLnZhbGlkYXRpb25EdG9NYXJzaGFsbGVyID0gdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBQcm9qZWN0RmllbGRzQ29udHJvbGxlcihQcm9qZWN0RmllbGRzU2VydmljZSBwcm9qZWN0RmllbGRzU2VydmljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyIHByb2plY3RGaWVsZER0b01hcnNoYWxsZXIsIFZhbGlkYXRpb25EdG9NYXJzaGFsbGVyIHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyKSB7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGRzU2VydmljZSA9IHByb2plY3RGaWVsZHNTZXJ2aWNlOwogICAgICAgIHRoaXMucHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciA9IHByb2plY3RGaWVsZER0b01hcnNoYWxsZXI7CiAgICAgICAgdGhpcy52YWxpZGF0aW9uRHRvTWFyc2hhbGxlciA9IHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">cHVibGljIFByb2plY3RGaWVsZHNDb250cm9sbGVyKFByb2plY3RGaWVsZHNTZXJ2aWNlIHByb2plY3RGaWVsZHNTZXJ2aWNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXIpIHsKICAgICAgICB0aGlzLnByb2plY3RGaWVsZHNTZXJ2aWNlID0gcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyID0gcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgICAgICB0aGlzLnZhbGlkYXRpb25EdG9NYXJzaGFsbGVyID0gdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7CiAgICB9Cg==</text>
@@ -99,9 +180,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_REVISE</last-search>
+      <last-search>DOCU</last-search>
       <last-offset />
-      <last-pattern>_REVISE</last-pattern>
+      <last-pattern>DOCU</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -113,6 +194,10 @@
         <entry>actionRe</entry>
         <entry>action</entry>
         <entry>_REVISE</entry>
+        <entry>textmenu</entry>
+        <entry>menubuilder</entry>
+        <entry>supersede</entry>
+        <entry>DOCU</entry>
       </history-search>
       <history-cmd>
         <entry>set nu!</entry>
