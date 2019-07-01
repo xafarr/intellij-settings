@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" timestamp="1561974703374">
-        <mark key="'" line="19" column="96" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" timestamp="1562017210976">
+        <mark key="'" line="10" column="0" />
         <mark key="j" line="19" column="49" />
-        <mark key="[" line="17" column="59" />
-        <mark key="]" line="17" column="60" />
-        <mark key="." line="17" column="60" />
-        <mark key="^" line="41" column="39" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="10" />
+        <mark key="." line="29" column="10" />
+        <mark key="^" line="29" column="10" />
       </file>
       <file name="/Dummy.txt" timestamp="1561969890295">
         <mark key="[" line="0" column="0" />
@@ -25,10 +25,15 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1561975769276">
         <mark key="'" line="3" column="102" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentMenuBuilder.java" timestamp="1562017339745">
+        <mark key="[" line="96" column="19" />
+        <mark key="]" line="96" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" timestamp="1561970394591">
         <mark key="'" line="152" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/DocumentUrlBuilderTest.java" timestamp="1561973838881">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/DocumentUrlBuilderTest.java" timestamp="1562016542502">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="43" column="4" />
       </file>
@@ -48,7 +53,7 @@
         <mark key="." line="39" column="17" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1561970742285" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1562017763502" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1561959937553">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="15" />
@@ -76,6 +81,7 @@
       <file name="/fragment.java" timestamp="1561973864279">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/i18n/I18nFunctions.java" timestamp="1562017043019" />
     </filemarks>
     <jumps>
       <jump line="28" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/private-api-project-fields/src/main/java/com/aconex/privateapi/projectfields/ProjectFieldsController.java" />
@@ -164,6 +170,12 @@
       <jump line="7" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
       <jump line="10" column="26" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
       <jump line="3" column="102" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/DocumentUrlBuilderTest.java" />
+      <jump line="24" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
+      <jump line="26" column="10" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
+      <jump line="29" column="5" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -176,49 +188,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>upload</text>
+        <text>BeforeMethod</text>
       </register>
       <register name="/" type="4">
-        <text>upload</text>
+        <text>BeforeMethod</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">RWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiY=</text>
+        <text>/EditControlledDoc?EDIT_ACTION=1</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>/en_AU_DOC/document/supersede/index.html</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="3" type="4">
+        <text>/en_AU_DOC/document/supersede/index.html</text>
+      </register>
+      <register name="4" type="4">
         <text />
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>()</text>
-      </register>
       <register name="6" type="4">
-        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
+        <text>()</text>
       </register>
       <register name="7" type="4">
-        <text>()</text>
-      </register>
-      <register name="8" type="4">
         <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cgo=</text>
+      <register name="8" type="4">
+        <text>()</text>
+      </register>
+      <register name="9" type="4">
+        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>set rnu!</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>upload</last-search>
+      <last-search>BeforeMethod</last-search>
       <last-offset />
-      <last-pattern>upload</last-pattern>
+      <last-pattern>BeforeMethod</last-pattern>
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
@@ -238,6 +250,7 @@
         <entry>DocumentUrlBuilder</entry>
         <entry>supersede</entry>
         <entry>upload</entry>
+        <entry>BeforeMethod</entry>
       </history-search>
       <history-cmd>
         <entry>echo mapleader</entry>
@@ -256,10 +269,10 @@
         <entry>set hls</entry>
         <entry>set hls?</entry>
         <entry>set hls!</entry>
-        <entry>let @/=''</entry>
-        <entry>noh</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set rnu!</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />

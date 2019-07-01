@@ -1,4 +1,8 @@
 <keymap version="1" name="Custom Mac Keymap" parent="Mac OS X 10.5+">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
+  <action id="JupyterInsertCellAboveAction" />
   <action id="Maven.ExecuteGoal">
     <keyboard-shortcut first-keystroke="ctrl meta m" />
   </action>
