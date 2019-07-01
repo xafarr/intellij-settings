@@ -53,6 +53,13 @@
         <mark key="." line="39" column="17" />
         <mark key="^" line="39" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1562024580378">
+        <mark key="'" line="49" column="58" />
+        <mark key="[" line="2364" column="38" />
+        <mark key="]" line="2364" column="44" />
+        <mark key="." line="2364" column="44" />
+        <mark key="^" line="2364" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1561959937553">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="15" />
@@ -72,10 +79,10 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562023483889">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562024506119">
         <mark key="'" line="2370" column="19" />
-        <mark key="[" line="2343" column="0" />
-        <mark key="]" line="2343" column="51" />
+        <mark key="[" line="2339" column="0" />
+        <mark key="]" line="2348" column="41" />
         <mark key="." line="2343" column="0" />
         <mark key="^" line="2346" column="8" />
       </file>
@@ -85,7 +92,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/i18n/I18nFunctions.java" timestamp="1562017043019" />
     </filemarks>
     <jumps>
-      <jump line="211" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="97" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="153" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="134" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
@@ -185,6 +191,7 @@
       <jump line="2503" column="121" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="2511" column="116" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="2369" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="49" column="58" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -200,46 +207,46 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>acx</text>
+        <text>editDoc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkU3RyID0gYWN4LmdldFJlc291cmNlUGF0aChsb2FkU3RyKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBhY3gubG9hZGVyLnNob3coKTsKCSAgICB2YXIgZm9ybSA9IGRvY3VtZW50LmZvcm1zWzBdOwoJICAgIGlmIChpc05ldykgewoJICAgICAgICBsb2FkU3RyID0gImRvY3VtZW50L3N1cGVyc2VkZS9pbmRleC5odG1sP0NvbnRyb2xsZWREb2N1bWVudF9wcm9qZWN0SUQ9Iitwcm9qZWN0SWQrIiZDb250cm9sbGVkRG9jdW1lbnRfSUQ9Iitkb2NJZDsKICAgICAgICAgICAgbG9hZFN0ciA9IGFjeC5nZXRSZXNvdXJjZVBhdGgobG9hZFN0cik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgbG9hZFN0ciA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBwcm9qZWN0SWQgKyAiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgZG9jSWQ7CiAgICAgICAgfQoJICAgIGxvYWRTdHIgPSBsb2FkU3RyICsgIiY8JT0gRG9jQ29udHJvbENvbnN0YW50cy5fRlJPTV9QQUdFICU+PSIgKyBwYWdlUmV0dXJuVXJsOwogICAgCWRvY3VtZW50LmxvY2F0aW9uLnJlcGxhY2UobG9hZFN0cik=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBhY3gubG9hZGVyLnNob3coKTsKCSAgICB2YXIgZm9ybSA9IGRvY3VtZW50LmZvcm1zWzBdOwogICAgCWxvYWRTdHIgPSAiL0VkaXRDb250cm9sbGVkRG9jP0VESVRfQUNUSU9OPTImQ29udHJvbGxlZERvY3VtZW50X3Byb2plY3RJRD0iK3Byb2plY3RJZCsiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iK2RvY0lkOwoJICAgIGxvYWRTdHIgPSBsb2FkU3RyICsgIiY8JT0gRG9jQ29udHJvbENvbnN0YW50cy5fRlJPTV9QQUdFICU+PSIgKyBwYWdlUmV0dXJuVXJsOwogICAgCWRvY3VtZW50LmxvY2F0aW9uLnJlcGxhY2UobG9hZFN0cik=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZFN0ciA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBwcm9qZWN0SWQgKyAiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgZG9jSWQ7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="5" type="4">
-        <text>/en_AU_DOC/document/supersede/index.html</text>
-      </register>
-      <register name="6" type="4">
-        <text />
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>()</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZFN0ciA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBwcm9qZWN0SWQgKyAiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgZG9jSWQ7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="6" type="4">
+        <text>/en_AU_DOC/document/supersede/index.html</text>
+      </register>
+      <register name="7" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
+        <text>()</text>
       </register>
       <register name=":" type="4">
-        <text>set hls!</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search>acx</last-search>
+      <last-search>editDoc</last-search>
       <last-offset />
-      <last-pattern>acx</last-pattern>
+      <last-pattern>editDoc</last-pattern>
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
@@ -264,9 +271,9 @@
         <entry>document</entry>
         <entry encoding="base64">XDxkb2N1bWVudA==</entry>
         <entry>acx</entry>
+        <entry>editDoc</entry>
       </history-search>
       <history-cmd>
-        <entry>echo mapleader</entry>
         <entry>reg \</entry>
         <entry>reg /</entry>
         <entry>reg 8</entry>
@@ -286,6 +293,7 @@
         <entry>let @/=''</entry>
         <entry>noh</entry>
         <entry>set hls!</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -320,6 +328,21 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
