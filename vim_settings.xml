@@ -3,6 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" timestamp="1561974703374">
+        <mark key="'" line="19" column="96" />
+        <mark key="j" line="19" column="49" />
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="60" />
+        <mark key="." line="17" column="60" />
+        <mark key="^" line="41" column="39" />
+      </file>
       <file name="/Dummy.txt" timestamp="1561969890295">
         <mark key="[" line="0" column="0" />
       </file>
@@ -14,10 +22,16 @@
         <mark key="." line="304" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1561969759545" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1561975769276">
+        <mark key="'" line="3" column="102" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" timestamp="1561970394591">
         <mark key="'" line="152" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/DocumentUrlBuilderTest.java" timestamp="1561971601945" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/DocumentUrlBuilderTest.java" timestamp="1561973838881">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="43" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentUrlBuilder.java" timestamp="1561971329914">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="5" />
@@ -26,6 +40,13 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" timestamp="1561974932264">
+        <mark key="'" line="24" column="27" />
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="39" column="17" />
+        <mark key="." line="39" column="17" />
+        <mark key="^" line="39" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1561970742285" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1561959937553">
@@ -47,7 +68,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="/fragment.java" timestamp="1561960408852">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1561976313789">
+        <mark key="[" line="2341" column="20" />
+        <mark key="]" line="2341" column="52" />
+        <mark key="." line="2341" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1561973864279">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -129,63 +155,74 @@
       <jump line="154" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="152" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="3" column="5" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/SupersedeUrlBuilder.java" />
+      <jump line="19" column="96" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" />
+      <jump line="31" column="17" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" />
+      <jump line="24" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" />
+      <jump line="11" column="26" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
+      <jump line="4" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
+      <jump line="7" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
+      <jump line="10" column="26" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
+      <jump line="3" column="102" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text encoding="base64">U1VQRVJTRURFX1VQTE9BRF9VUkwg</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>getDocumentUploadUrlInAngularJs</text>
+        <text>upload</text>
       </register>
       <register name="/" type="4">
-        <text>DOCU</text>
+        <text>upload</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJkb2N1bWVudFVybEJ1aWxkZXIiIGNsYXNzPSJjb20uYWNvbmV4Lm1lbnUuZG9tYWluLkRvY3VtZW50VXJsQnVpbGRlciIvPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">RWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiY=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>()</text>
+        <text>/en_AU_DOC/document/supersede/index.html</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
+        <text />
       </register>
-      <register name="4" type="4">
-        <text>()</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
+        <text>()</text>
+      </register>
+      <register name="6" type="4">
         <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cgo=</text>
+      <register name="7" type="4">
+        <text>()</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQcm9qZWN0RmllbGRzQ29udHJvbGxlcihQcm9qZWN0RmllbGRzU2VydmljZSBwcm9qZWN0RmllbGRzU2VydmljZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyIHByb2plY3RGaWVsZER0b01hcnNoYWxsZXIsIFZhbGlkYXRpb25EdG9NYXJzaGFsbGVyIHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyKSB7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGRzU2VydmljZSA9IHByb2plY3RGaWVsZHNTZXJ2aWNlOwogICAgICAgIHRoaXMucHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciA9IHByb2plY3RGaWVsZER0b01hcnNoYWxsZXI7CiAgICAgICAgdGhpcy52YWxpZGF0aW9uRHRvTWFyc2hhbGxlciA9IHZhbGlkYXRpb25EdG9NYXJzaGFsbGVyOwogICAgfQo=</text>
+      <register name="8" type="4">
+        <text>&quot;checkstyle:CyclomaticComplexity&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIFByb2plY3RGaWVsZHNDb250cm9sbGVyKFByb2plY3RGaWVsZHNTZXJ2aWNlIHByb2plY3RGaWVsZHNTZXJ2aWNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlciwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXIpIHsKICAgICAgICB0aGlzLnByb2plY3RGaWVsZHNTZXJ2aWNlID0gcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICAgICAgdGhpcy5wcm9qZWN0RmllbGREdG9NYXJzaGFsbGVyID0gcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgICAgICB0aGlzLnZhbGlkYXRpb25EdG9NYXJzaGFsbGVyID0gdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJvamVjdEZpZWxkc1NlcnZpY2UgcHJvamVjdEZpZWxkc1NlcnZpY2U7CiAgICBwcml2YXRlIGZpbmFsIFByb2plY3RGaWVsZER0b01hcnNoYWxsZXIgcHJvamVjdEZpZWxkRHRvTWFyc2hhbGxlcjsKICAgIHByaXZhdGUgZmluYWwgVmFsaWRhdGlvbkR0b01hcnNoYWxsZXIgdmFsaWRhdGlvbkR0b01hcnNoYWxsZXI7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu!</text>
       </register>
     </registers>
     <search>
-      <last-search>DOCU</last-search>
+      <last-search>upload</last-search>
       <last-offset />
-      <last-pattern>DOCU</last-pattern>
+      <last-pattern>upload</last-pattern>
+      <last-replace>supersede</last-replace>
+      <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -197,29 +234,31 @@
         <entry>_REVISE</entry>
         <entry>textmenu</entry>
         <entry>menubuilder</entry>
-        <entry>supersede</entry>
         <entry>DOCU</entry>
+        <entry>DocumentUrlBuilder</entry>
+        <entry>supersede</entry>
+        <entry>upload</entry>
       </history-search>
       <history-cmd>
-        <entry>set nu!</entry>
-        <entry>set hls?</entry>
-        <entry>so ~/.ideavimrc</entry>
-        <entry>reg 0</entry>
         <entry>echo mapleader</entry>
         <entry>reg \</entry>
         <entry>reg /</entry>
         <entry>reg 8</entry>
         <entry>reg a</entry>
         <entry>set list! list?</entry>
-        <entry>set hls!</entry>
         <entry>set hsl!</entry>
-        <entry>set hls</entry>
         <entry>set nohls</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>let @/=''</entry>
-        <entry>noh</entry>
         <entry>blame</entry>
         <entry>Gblame</entry>
+        <entry>s/DocumentUrlBuilder/SupersedeUrlBuilder/g</entry>
+        <entry>hls</entry>
+        <entry>%s/upload/supersede/g</entry>
+        <entry>set hls</entry>
+        <entry>set hls?</entry>
+        <entry>set hls!</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>set rnu!</entry>
       </history-cmd>
       <history-expr />
@@ -252,6 +291,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
