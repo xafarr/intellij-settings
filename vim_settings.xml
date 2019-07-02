@@ -21,10 +21,10 @@
         <mark key="^" line="153" column="28" />
         <mark key="." line="304" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562024888827">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
         <mark key="'" line="769" column="121" />
-        <mark key="[" line="769" column="14" />
-        <mark key="]" line="769" column="51" />
+        <mark key="[" line="724" column="14" />
+        <mark key="]" line="724" column="41" />
         <mark key="." line="769" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1561975769276">
@@ -210,8 +210,8 @@
       <register name="/" type="4">
         <text>supersed</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkU3RyID0gYWN4LmdldFJlc291cmNlUGF0aChsb2FkU3RyKTsKCSAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IGxvYWRTdHI7Cg==</text>
+      <register name="0" type="4">
+        <text>documentPreviewFeatureSwitch</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2FkU3RyID0gYWN4LmdldFJlc291cmNlUGF0aChsb2FkU3RyKTsK</text>
@@ -241,7 +241,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set hls?</text>
       </register>
     </registers>
     <search>
@@ -251,7 +251,7 @@
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -287,16 +287,16 @@
         <entry>hls</entry>
         <entry>%s/upload/supersede/g</entry>
         <entry>set hls</entry>
-        <entry>set hls?</entry>
         <entry>set rnu!</entry>
-        <entry>let @/=''</entry>
-        <entry>noh</entry>
         <entry>set hls!</entry>
         <entry>reg</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>wq</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>w</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
+        <entry>set hls?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
