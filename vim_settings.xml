@@ -21,10 +21,10 @@
         <mark key="^" line="153" column="28" />
         <mark key="." line="304" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562021888834">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562024888827">
         <mark key="'" line="769" column="121" />
         <mark key="[" line="769" column="14" />
-        <mark key="]" line="769" column="52" />
+        <mark key="]" line="769" column="51" />
         <mark key="." line="769" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1561975769276">
@@ -33,6 +33,13 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentMenuBuilder.java" timestamp="1562021744520">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="20" column="63" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1562025915463">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" timestamp="1561970394591">
         <mark key="'" line="152" column="30" />
@@ -53,18 +60,12 @@
         <mark key="." line="39" column="17" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1562024580378">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1562025038101">
         <mark key="'" line="49" column="58" />
-        <mark key="[" line="2364" column="38" />
-        <mark key="]" line="2364" column="44" />
-        <mark key="." line="2364" column="44" />
-        <mark key="^" line="2364" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1561959937553">
-        <mark key="[" line="32" column="16" />
-        <mark key="]" line="32" column="15" />
-        <mark key="^" line="32" column="15" />
-        <mark key="." line="32" column="15" />
+        <mark key="[" line="2667" column="56" />
+        <mark key="]" line="2667" column="27" />
+        <mark key="^" line="2667" column="27" />
+        <mark key="." line="2667" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1561971513090">
         <mark key="[" line="242" column="65" />
@@ -79,12 +80,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562024506119">
-        <mark key="'" line="2370" column="19" />
-        <mark key="[" line="2339" column="0" />
-        <mark key="]" line="2348" column="41" />
-        <mark key="." line="2343" column="0" />
-        <mark key="^" line="2346" column="8" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562025985163">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2349" column="4" />
+        <mark key="]" line="2350" column="0" />
+        <mark key="." line="2350" column="0" />
+        <mark key="^" line="2350" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1561973864279">
         <mark key="[" line="0" column="0" />
@@ -92,12 +93,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/i18n/I18nFunctions.java" timestamp="1562017043019" />
     </filemarks>
     <jumps>
-      <jump line="97" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="153" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="134" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="136" column="58" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="133" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="306" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="505" column="66" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="522" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="89" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
@@ -192,6 +187,12 @@
       <jump line="2511" column="116" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="2369" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="49" column="58" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
+      <jump line="2339" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2366" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2363" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="2342" column="42" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -204,49 +205,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>document</text>
       </register>
       <register name="/" type="4">
-        <text>editDoc</text>
+        <text>expandta</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBhY3gubG9hZGVyLnNob3coKTsKCSAgICB2YXIgZm9ybSA9IGRvY3VtZW50LmZvcm1zWzBdOwoJICAgIGlmIChpc05ldykgewoJICAgICAgICBsb2FkU3RyID0gImRvY3VtZW50L3N1cGVyc2VkZS9pbmRleC5odG1sP0NvbnRyb2xsZWREb2N1bWVudF9wcm9qZWN0SUQ9Iitwcm9qZWN0SWQrIiZDb250cm9sbGVkRG9jdW1lbnRfSUQ9Iitkb2NJZDsKICAgICAgICAgICAgbG9hZFN0ciA9IGFjeC5nZXRSZXNvdXJjZVBhdGgobG9hZFN0cik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgbG9hZFN0ciA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBwcm9qZWN0SWQgKyAiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgZG9jSWQ7CiAgICAgICAgfQoJICAgIGxvYWRTdHIgPSBsb2FkU3RyICsgIiY8JT0gRG9jQ29udHJvbENvbnN0YW50cy5fRlJPTV9QQUdFICU+PSIgKyBwYWdlUmV0dXJuVXJsOwogICAgCWRvY3VtZW50LmxvY2F0aW9uLnJlcGxhY2UobG9hZFN0cik=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CSAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IGxvYWRTdHI7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgaXNOZXdQYWdlID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmVhdHVyZVN3aXRjaDppc0VuYWJsZWQgZmVhdHVyZVN3aXRjaD0iZG9jdW1lbnRVcGxvYWRJbkFuZ3VsYXJKc0ZlYXR1cmVTd2l0Y2giPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzTmV3UGFnZSA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2ZlYXR1cmVTd2l0Y2g6aXNFbmFibGVkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXJzZWRlRG9jdW1lbnQoaXNOZXdQYWdlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICBhY3gubG9hZGVyLnNob3coKTsKCSAgICB2YXIgZm9ybSA9IGRvY3VtZW50LmZvcm1zWzBdOwogICAgCWxvYWRTdHIgPSAiL0VkaXRDb250cm9sbGVkRG9jP0VESVRfQUNUSU9OPTImQ29udHJvbGxlZERvY3VtZW50X3Byb2plY3RJRD0iK3Byb2plY3RJZCsiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iK2RvY0lkOwoJICAgIGxvYWRTdHIgPSBsb2FkU3RyICsgIiY8JT0gRG9jQ29udHJvbENvbnN0YW50cy5fRlJPTV9QQUdFICU+PSIgKyBwYWdlUmV0dXJuVXJsOwogICAgCWRvY3VtZW50LmxvY2F0aW9uLnJlcGxhY2UobG9hZFN0cik=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZFN0ciA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBwcm9qZWN0SWQgKyAiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgZG9jSWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZFN0ciA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBwcm9qZWN0SWQgKyAiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgZG9jSWQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/en_AU_DOC/document/supersede/index.html</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text />
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>()</text>
-      </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
-      <last-search>editDoc</last-search>
+      <last-search>expandta</last-search>
       <last-offset />
-      <last-pattern>editDoc</last-pattern>
+      <last-pattern>expandta</last-pattern>
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
@@ -254,7 +255,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_EDIT_ACTION_REVISE</entry>
         <entry>doperform</entry>
         <entry>_EDIT</entry>
         <entry>actionRe</entry>
@@ -272,11 +272,11 @@
         <entry encoding="base64">XDxkb2N1bWVudA==</entry>
         <entry>acx</entry>
         <entry>editDoc</entry>
+        <entry>supersedeDocument</entry>
+        <entry>index.html</entry>
+        <entry>expandta</entry>
       </history-search>
       <history-cmd>
-        <entry>reg \</entry>
-        <entry>reg /</entry>
-        <entry>reg 8</entry>
         <entry>reg a</entry>
         <entry>set list! list?</entry>
         <entry>set hsl!</entry>
@@ -288,12 +288,15 @@
         <entry>%s/upload/supersede/g</entry>
         <entry>set hls</entry>
         <entry>set hls?</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>set rnu!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
         <entry>set hls!</entry>
         <entry>reg</entry>
+        <entry>w</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>wq</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
