@@ -11,7 +11,7 @@
         <mark key="." line="29" column="10" />
         <mark key="^" line="29" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562038696540">
+      <file name="/Dummy.txt" timestamp="1562040724881">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1562030857520">
@@ -93,7 +93,6 @@
       <file name="/fragment.java" timestamp="1562030780974">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/i18n/I18nFunctions.java" timestamp="1562017043019" />
     </filemarks>
     <jumps>
       <jump line="140" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -254,7 +253,7 @@
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
