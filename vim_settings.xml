@@ -14,7 +14,7 @@
       <file name="/Dummy.txt" timestamp="1562040724881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1562030857520">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1562045069029">
         <mark key="'" line="89" column="40" />
         <mark key="[" line="412" column="26" />
         <mark key="]" line="412" column="46" />
@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562044204414" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
         <mark key="'" line="769" column="121" />
         <mark key="[" line="724" column="14" />
@@ -90,7 +91,11 @@
         <mark key="." line="2348" column="0" />
         <mark key="^" line="2349" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1562030780974">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562045037773">
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="93" column="67" />
+      </file>
+      <file name="/fragment.java" timestamp="1562043992397">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -213,7 +218,7 @@
         <text>reviseAction</text>
       </register>
       <register name="0" type="4">
-        <text>supersedeFieldBuilder</text>
+        <text>getControlledDocumentFromRegisterType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2FkU3RyID0gYWN4LmdldFJlc291cmNlUGF0aChsb2FkU3RyKTsK</text>
