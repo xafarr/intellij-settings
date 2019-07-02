@@ -60,12 +60,12 @@
         <mark key="." line="39" column="17" />
         <mark key="^" line="39" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1562025038101">
-        <mark key="'" line="49" column="58" />
-        <mark key="[" line="2667" column="56" />
-        <mark key="]" line="2667" column="27" />
-        <mark key="^" line="2667" column="27" />
-        <mark key="." line="2667" column="27" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1562027154616">
+        <mark key="'" line="2403" column="26" />
+        <mark key="[" line="2374" column="0" />
+        <mark key="]" line="2374" column="0" />
+        <mark key="^" line="2367" column="20" />
+        <mark key="." line="2374" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1561971513090">
         <mark key="[" line="242" column="65" />
@@ -80,12 +80,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562025985163">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562026984294">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2349" column="4" />
-        <mark key="]" line="2350" column="0" />
-        <mark key="." line="2350" column="0" />
-        <mark key="^" line="2350" column="0" />
+        <mark key="[" line="2348" column="0" />
+        <mark key="]" line="2348" column="0" />
+        <mark key="." line="2348" column="0" />
+        <mark key="^" line="2349" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1561973864279">
         <mark key="[" line="0" column="0" />
@@ -93,12 +93,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/i18n/I18nFunctions.java" timestamp="1562017043019" />
     </filemarks>
     <jumps>
-      <jump line="505" column="66" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="522" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="89" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
-      <jump line="151" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="148" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="146" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="145" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="142" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="140" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -193,6 +187,12 @@
       <jump line="2342" column="42" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="2404" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
+      <jump line="2394" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
+      <jump line="2384" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
+      <jump line="2380" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
+      <jump line="2386" column="62" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
+      <jump line="2403" column="26" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -208,54 +208,53 @@
         <text>document</text>
       </register>
       <register name="/" type="4">
-        <text>expandta</text>
+        <text>supersed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IGxvYWRTdHI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkU3RyID0gYWN4LmdldFJlc291cmNlUGF0aChsb2FkU3RyKTsKCSAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IGxvYWRTdHI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgaXNOZXdQYWdlID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmVhdHVyZVN3aXRjaDppc0VuYWJsZWQgZmVhdHVyZVN3aXRjaD0iZG9jdW1lbnRVcGxvYWRJbkFuZ3VsYXJKc0ZlYXR1cmVTd2l0Y2giPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzTmV3UGFnZSA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2ZlYXR1cmVTd2l0Y2g6aXNFbmFibGVkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXJzZWRlRG9jdW1lbnQoaXNOZXdQYWdlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkU3RyID0gYWN4LmdldFJlc291cmNlUGF0aChsb2FkU3RyKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBhY3gubG9hZGVyLnNob3coKTsKCSAgICB2YXIgZm9ybSA9IGRvY3VtZW50LmZvcm1zWzBdOwogICAgCWxvYWRTdHIgPSAiL0VkaXRDb250cm9sbGVkRG9jP0VESVRfQUNUSU9OPTImQ29udHJvbGxlZERvY3VtZW50X3Byb2plY3RJRD0iK3Byb2plY3RJZCsiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iK2RvY0lkOwoJICAgIGxvYWRTdHIgPSBsb2FkU3RyICsgIiY8JT0gRG9jQ29udHJvbENvbnN0YW50cy5fRlJPTV9QQUdFICU+PSIgKyBwYWdlUmV0dXJuVXJsOwogICAgCWRvY3VtZW50LmxvY2F0aW9uLnJlcGxhY2UobG9hZFN0cik=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAlkb2N1bWVudC5sb2NhdGlvbi5yZXBsYWNlKGxvYWRTdHIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAl3aW5kb3cubG9jYXRpb24ucmVwbGFjZShsb2FkU3RyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZFN0ciA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBwcm9qZWN0SWQgKyAiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgZG9jSWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgaXNOZXdQYWdlID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmVhdHVyZVN3aXRjaDppc0VuYWJsZWQgZmVhdHVyZVN3aXRjaD0iZG9jdW1lbnRVcGxvYWRJbkFuZ3VsYXJKc0ZlYXR1cmVTd2l0Y2giPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlzTmV3UGFnZSA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2ZlYXR1cmVTd2l0Y2g6aXNFbmFibGVkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VwZXJzZWRlRG9jdW1lbnQoaXNOZXdQYWdlKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBhY3gubG9hZGVyLnNob3coKTsKCSAgICB2YXIgZm9ybSA9IGRvY3VtZW50LmZvcm1zWzBdOwogICAgCWxvYWRTdHIgPSAiL0VkaXRDb250cm9sbGVkRG9jP0VESVRfQUNUSU9OPTImQ29udHJvbGxlZERvY3VtZW50X3Byb2plY3RJRD0iK3Byb2plY3RJZCsiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iK2RvY0lkOwoJICAgIGxvYWRTdHIgPSBsb2FkU3RyICsgIiY8JT0gRG9jQ29udHJvbENvbnN0YW50cy5fRlJPTV9QQUdFICU+PSIgKyBwYWdlUmV0dXJuVXJsOwogICAgCWRvY3VtZW50LmxvY2F0aW9uLnJlcGxhY2UobG9hZFN0cik=</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;&quot;</text>
-      </register>
-      <register name="7" type="4">
-        <text>/en_AU_DOC/document/supersede/index.html</text>
-      </register>
-      <register name="8" type="4">
-        <text />
-      </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZFN0ciA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBwcm9qZWN0SWQgKyAiJkNvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgZG9jSWQ7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy50ZXN0bmcuYW5ub3RhdGlvbnMuQmVmb3JlTWV0aG9kOwo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>&quot;&quot;</text>
+      </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>expandta</last-search>
+      <last-search>supersed</last-search>
       <last-offset />
-      <last-pattern>expandta</last-pattern>
+      <last-pattern>supersed</last-pattern>
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>doperform</entry>
         <entry>_EDIT</entry>
         <entry>actionRe</entry>
         <entry>action</entry>
@@ -275,6 +274,7 @@
         <entry>supersedeDocument</entry>
         <entry>index.html</entry>
         <entry>expandta</entry>
+        <entry>supersed</entry>
       </history-search>
       <history-cmd>
         <entry>reg a</entry>
@@ -293,10 +293,10 @@
         <entry>noh</entry>
         <entry>set hls!</entry>
         <entry>reg</entry>
-        <entry>w</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>wq</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
