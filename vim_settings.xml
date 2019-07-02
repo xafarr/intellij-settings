@@ -3,23 +3,56 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" timestamp="1562017210976">
-        <mark key="'" line="10" column="0" />
-        <mark key="j" line="19" column="49" />
-        <mark key="[" line="29" column="5" />
-        <mark key="]" line="29" column="10" />
-        <mark key="." line="29" column="10" />
-        <mark key="^" line="29" column="10" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562040724881">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1562046099114">
         <mark key="'" line="89" column="40" />
         <mark key="[" line="412" column="26" />
         <mark key="]" line="412" column="46" />
         <mark key="^" line="412" column="25" />
         <mark key="." line="412" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
+        <mark key="'" line="769" column="121" />
+        <mark key="[" line="724" column="14" />
+        <mark key="]" line="724" column="41" />
+        <mark key="." line="769" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/index.html" timestamp="1562067408037">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentUrlBuilder.java" timestamp="1561971329914">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562050504901">
+        <mark key="'" line="32" column="46" />
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1562031291445">
+        <mark key="[" line="340" column="14" />
+        <mark key="]" line="340" column="34" />
+        <mark key="." line="242" column="83" />
+        <mark key="^" line="242" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/_module.js" timestamp="1562069633831">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562050615487">
+        <mark key="[" line="62" column="141" />
+        <mark key="]" line="62" column="7" />
+        <mark key="." line="62" column="7" />
+        <mark key="^" line="62" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/styles.less" timestamp="1562068482431">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562040724881">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
@@ -31,18 +64,11 @@
         <mark key="." line="37" column="62" />
         <mark key="^" line="37" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
-        <mark key="'" line="769" column="121" />
-        <mark key="[" line="724" column="14" />
-        <mark key="]" line="724" column="41" />
-        <mark key="." line="769" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1562056708097">
-        <mark key="'" line="3" column="102" />
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="47" />
-        <mark key="." line="11" column="47" />
-        <mark key="^" line="11" column="47" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1562069690455">
+        <mark key="'" line="7" column="88" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentMenuBuilder.java" timestamp="1562021744520">
         <mark key="[" line="20" column="26" />
@@ -58,18 +84,17 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" timestamp="1561970394591">
         <mark key="'" line="152" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/DocumentUrlBuilderTest.java" timestamp="1562016542502">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="43" column="4" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" timestamp="1562068162339">
+        <mark key="'" line="106" column="33" />
+        <mark key="[" line="104" column="27" />
+        <mark key="]" line="104" column="35" />
+        <mark key="." line="104" column="35" />
+        <mark key="^" line="104" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/index.html" timestamp="1562056763073">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentUrlBuilder.java" timestamp="1561971329914">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="10" column="5" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/styles.less" timestamp="1562068493949">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" timestamp="1562056784339">
         <mark key="'" line="24" column="27" />
@@ -85,29 +110,12 @@
         <mark key="^" line="2367" column="20" />
         <mark key="." line="2374" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562050504901">
-        <mark key="'" line="32" column="46" />
-        <mark key="[" line="32" column="63" />
-        <mark key="]" line="33" column="15" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1562031291445">
-        <mark key="[" line="340" column="14" />
-        <mark key="]" line="340" column="34" />
-        <mark key="." line="242" column="83" />
-        <mark key="^" line="242" column="83" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/SupersedeUrlBuilder.java" timestamp="1561971556108">
         <mark key="'" line="6" column="5" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/_module.js" timestamp="1562056677688">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562026984294">
         <mark key="'" line="0" column="0" />
@@ -116,26 +124,11 @@
         <mark key="." line="2348" column="0" />
         <mark key="^" line="2349" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562050615487">
-        <mark key="[" line="62" column="141" />
-        <mark key="]" line="62" column="7" />
-        <mark key="." line="62" column="7" />
-        <mark key="^" line="62" column="7" />
-      </file>
       <file name="/fragment.java" timestamp="1562045775821">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="134" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="133" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="130" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="128" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="127" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="124" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="122" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="121" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="118" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="116" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="115" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -227,6 +220,15 @@
       <jump line="12" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" />
       <jump line="27" column="43" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" />
       <jump line="32" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
+      <jump line="51" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
+      <jump line="104" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
+      <jump line="109" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
+      <jump line="62" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
+      <jump line="82" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
+      <jump line="103" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
+      <jump line="106" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
+      <jump line="8" column="88" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -239,53 +241,53 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Integer</text>
+        <text>'acx.document.upload.services'</text>
       </register>
       <register name="/" type="4">
-        <text>isNew</text>
+        <text>upload</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxhY3gtdXBsb2FkLWZvcm0vPgo=</text>
+        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQuc2VydmljZXMnLAoJCQknYWN4LmRvY3VtZW50LnVwbG9hZC5kaXJlY3RpdmVzJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQuZGlyZWN0aXZlcycsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIAogICAgICogQHBhcmFtIHByb2plY3RJZAogICAgICogQHBhcmFtIGRvY3VtZW50VHlwZUlkCiAgICAgKiBAcGFyYW0gdGV4dENvbnRleHQKICAgICAqIEBwYXJhbSByZWdpc3RlclR5cGUKICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQnCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvZGVmYXVsdCIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgQFJlc3BvbnNlU3RhdHVzKEh0dHBTdGF0dXMuT0spCiAgICBAUmVzcG9uc2VCb2R5CiAgICBwdWJsaWMgRG9jdW1lbnRGb3JtRHRvIGdldERlZmF1bHREb2N1bWVudEZvcm0oQFBhdGhWYXJpYWJsZSBMb25nIHByb2plY3RJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0Q29udGV4dCB0ZXh0Q29udGV4dCkgewogICAgICAgIHJldHVybiBkb2N1bWVudEZvcm1TZXJ2aWNlLmdldERvY3VtZW50Rm9ybUZvcihwcm9qZWN0SWQsCiAgICAgICAgICAgICAgICBERUZBVUxUX0RPQ1VNRU5UX1RZUEVfSUQsCiAgICAgICAgICAgICAgICB0ZXh0Q29udGV4dCwKICAgICAgICAgICAgICAgIFJlZ2lzdGVyVHlwZS5ET0MpOwogICAgfQo=</text>
+        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQuc2VydmljZXMnLAoJCQknYWN4LmRvY3VtZW50LnVwbG9hZC5kaXJlY3RpdmVzJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZG9jdW1lbnRGb3JtU2VydmljZS5nZXREb2N1bWVudEZvcm1Gb3IocHJvamVjdElkLAogICAgICAgICAgICAgICAgZG9jdW1lbnRUeXBlSWQsCiAgICAgICAgICAgICAgICB0ZXh0Q29udGV4dCwKICAgICAgICAgICAgICAgIFJlZ2lzdGVyVHlwZS5ET0MpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX0RPQ1VNRU5UX1RZUEVfSUQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAqIAogICAgICogQHBhcmFtIHByb2plY3RJZAogICAgICogQHBhcmFtIGRvY3VtZW50VHlwZUlkCiAgICAgKiBAcGFyYW0gdGV4dENvbnRleHQKICAgICAqIEBwYXJhbSByZWdpc3RlclR5cGUKICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkU3RyID0gYWN4LmdldFJlc291cmNlUGF0aChsb2FkU3RyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAlkb2N1bWVudC5sb2NhdGlvbi5yZXBsYWNlKGxvYWRTdHIpCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvZGVmYXVsdCIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgQFJlc3BvbnNlU3RhdHVzKEh0dHBTdGF0dXMuT0spCiAgICBAUmVzcG9uc2VCb2R5CiAgICBwdWJsaWMgRG9jdW1lbnRGb3JtRHRvIGdldERlZmF1bHREb2N1bWVudEZvcm0oQFBhdGhWYXJpYWJsZSBMb25nIHByb2plY3RJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUZXh0Q29udGV4dCB0ZXh0Q29udGV4dCkgewogICAgICAgIHJldHVybiBkb2N1bWVudEZvcm1TZXJ2aWNlLmdldERvY3VtZW50Rm9ybUZvcihwcm9qZWN0SWQsCiAgICAgICAgICAgICAgICBERUZBVUxUX0RPQ1VNRU5UX1RZUEVfSUQsCiAgICAgICAgICAgICAgICB0ZXh0Q29udGV4dCwKICAgICAgICAgICAgICAgIFJlZ2lzdGVyVHlwZS5ET0MpOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAl3aW5kb3cubG9jYXRpb24ucmVwbGFjZShsb2FkU3RyKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZG9jdW1lbnRGb3JtU2VydmljZS5nZXREb2N1bWVudEZvcm1Gb3IocHJvamVjdElkLAogICAgICAgICAgICAgICAgZG9jdW1lbnRUeXBlSWQsCiAgICAgICAgICAgICAgICB0ZXh0Q29udGV4dCwKICAgICAgICAgICAgICAgIFJlZ2lzdGVyVHlwZS5ET0MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isNew</last-search>
+      <last-search>upload</last-search>
       <last-offset />
-      <last-pattern>isNew</last-pattern>
+      <last-pattern>upload</last-pattern>
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -295,7 +297,6 @@
         <entry>DOCU</entry>
         <entry>DocumentUrlBuilder</entry>
         <entry>supersede</entry>
-        <entry>upload</entry>
         <entry>BeforeMethod</entry>
         <entry>EditControlledDoc?E</entry>
         <entry>document</entry>
@@ -309,6 +310,7 @@
         <entry>reviseAction</entry>
         <entry>uplo</entry>
         <entry>isNew</entry>
+        <entry>upload</entry>
       </history-search>
       <history-cmd>
         <entry>reg a</entry>
@@ -321,15 +323,15 @@
         <entry>hls</entry>
         <entry>%s/upload/supersede/g</entry>
         <entry>set hls</entry>
-        <entry>set rnu!</entry>
         <entry>set hls!</entry>
         <entry>reg</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>wq</entry>
+        <entry>set hls?</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>set rnu!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
-        <entry>set hls?</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
