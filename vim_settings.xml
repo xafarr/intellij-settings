@@ -24,12 +24,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562047327373">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562050464048">
         <mark key="'" line="27" column="43" />
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="32" />
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="62" />
+        <mark key="." line="37" column="62" />
+        <mark key="^" line="37" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
         <mark key="'" line="769" column="121" />
@@ -77,11 +77,12 @@
         <mark key="^" line="2367" column="20" />
         <mark key="." line="2374" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562046979611">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562050504901">
+        <mark key="'" line="32" column="46" />
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="33" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1562031291445">
         <mark key="[" line="340" column="14" />
@@ -103,16 +104,17 @@
         <mark key="." line="2348" column="0" />
         <mark key="^" line="2349" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562045037773">
-        <mark key="[" line="98" column="31" />
-        <mark key="]" line="98" column="67" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562050615487">
+        <mark key="[" line="62" column="141" />
+        <mark key="]" line="62" column="7" />
+        <mark key="." line="62" column="7" />
+        <mark key="^" line="62" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1562045775821">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="136" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="134" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="133" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -212,6 +214,7 @@
       <jump line="17" column="11" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" />
       <jump line="27" column="43" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" />
+      <jump line="32" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -224,10 +227,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>upload</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
-        <text>uplo</text>
+        <text>isNew</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogPHA+CiAgICAgKiBUaGlzIG1ldGhvZCByZXR1cm5zIENvbnRyb2xsZWREb2NFZGl0UGFnZSBvYmplY3Qgd2hpY2ggc2VydmVzIGFzIHNjaGVtYQogICAgICogdG8gbG9hZCBmaWVsZHMgZm9yIGRvY3VtZW50IHVwbG9hZCBhbmd1bGFyIHBhZ2UKICAgICAqIDwvcD4KICAgICAqCiAgICAgKiBAcGFyYW0gcHJvamVjdElkICAgICAgcHJvamVjdCBpZAogICAgICogQHBhcmFtIGRvY3VtZW50VHlwZUlkIGlkIG9mIGRvY3VtZW50IHR5cGUKICAgICAqIEBwYXJhbSB0ZXh0Q29udGV4dCAgICBjdXJyZW50IGxvY2FsZQogICAgICogQHBhcmFtIHJlZ2lzdGVyVHlwZSAgIHJlZ2lzdGVyIHR5cGUgKGUuZy4gRG9jdW1lbnQgUmVnaXN0ZXIsIEFzc2V0IFJlZ2lzdGVyKQogICAgICogQHJldHVybiBEb2N1bWVudEZvcm1EdG8K</text>
@@ -260,13 +263,13 @@
         <text encoding="base64">ICAgIAl3aW5kb3cubG9jYXRpb24ucmVwbGFjZShsb2FkU3RyKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>set hls?</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>uplo</last-search>
+      <last-search>isNew</last-search>
       <last-offset />
-      <last-pattern>uplo</last-pattern>
+      <last-pattern>isNew</last-pattern>
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
@@ -274,7 +277,6 @@
     </search>
     <history>
       <history-search>
-        <entry>action</entry>
         <entry>_REVISE</entry>
         <entry>textmenu</entry>
         <entry>menubuilder</entry>
@@ -294,6 +296,7 @@
         <entry>supersed</entry>
         <entry>reviseAction</entry>
         <entry>uplo</entry>
+        <entry>isNew</entry>
       </history-search>
       <history-cmd>
         <entry>reg a</entry>
@@ -312,10 +315,10 @@
         <entry>e ~/.ideavimrc</entry>
         <entry>wq</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>w</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
         <entry>set hls?</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
