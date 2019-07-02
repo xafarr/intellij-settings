@@ -21,6 +21,9 @@
         <mark key="^" line="412" column="25" />
         <mark key="." line="412" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
+        <mark key="'" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
         <mark key="'" line="769" column="121" />
         <mark key="[" line="724" column="14" />
@@ -93,8 +96,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/i18n/I18nFunctions.java" timestamp="1562017043019" />
     </filemarks>
     <jumps>
-      <jump line="145" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="142" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="140" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="139" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="136" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -193,6 +194,8 @@
       <jump line="2380" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
       <jump line="2386" column="62" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
       <jump line="2403" column="26" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
+      <jump line="17" column="11" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
