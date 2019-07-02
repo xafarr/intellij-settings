@@ -208,7 +208,7 @@
         <text>document</text>
       </register>
       <register name="/" type="4">
-        <text>supersed</text>
+        <text>reviseAction</text>
       </register>
       <register name="0" type="4">
         <text>supersedeFieldBuilder</text>
@@ -245,17 +245,16 @@
       </register>
     </registers>
     <search>
-      <last-search>supersed</last-search>
+      <last-search>reviseAction</last-search>
       <last-offset />
-      <last-pattern>supersed</last-pattern>
+      <last-pattern>reviseAction</last-pattern>
       <last-replace>supersede</last-replace>
       <last-substitute>upload</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>_EDIT</entry>
         <entry>actionRe</entry>
         <entry>action</entry>
         <entry>_REVISE</entry>
@@ -275,6 +274,7 @@
         <entry>index.html</entry>
         <entry>expandta</entry>
         <entry>supersed</entry>
+        <entry>reviseAction</entry>
       </history-search>
       <history-cmd>
         <entry>reg a</entry>
