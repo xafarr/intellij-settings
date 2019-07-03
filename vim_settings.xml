@@ -126,10 +126,10 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleSelectField/singleSelectField.tpl.html" timestamp="1562135498838">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleSelectField/singleSelectField.tpl.html" timestamp="1562136097061">
         <mark key="[" line="8" column="80" />
         <mark key="]" line="8" column="80" />
-        <mark key="^" line="8" column="96" />
+        <mark key="^" line="8" column="80" />
         <mark key="." line="8" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" timestamp="1562119364794">
@@ -338,7 +338,7 @@
         <text encoding="base64">ICAgICAgICBhZGREb2NzSW5TdXBwbGllckRvY1RvUmVxdWVzdChyZXEsIENvbGxlY3Rpb25VdGlscy51bm1vZGlmaWFibGVMaXN0KGNEb2MpKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>m .-2</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -392,8 +392,8 @@
         <entry>s/Upload/Supersede/g</entry>
         <entry>%s/Upload/Supersede/g</entry>
         <entry>%s/UploadFormService/SupersedeFormService/g</entry>
-        <entry>w</entry>
         <entry>m .-2</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
