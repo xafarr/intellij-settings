@@ -3,12 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1562046099114">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1562120296730">
         <mark key="'" line="89" column="40" />
-        <mark key="[" line="412" column="26" />
-        <mark key="]" line="412" column="46" />
+        <mark key="[" line="335" column="0" />
+        <mark key="]" line="335" column="97" />
         <mark key="^" line="412" column="25" />
         <mark key="." line="412" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocNew_en.properties" timestamp="1562118765845">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/index.html" timestamp="1562070600420">
         <mark key="[" line="25" column="0" />
@@ -39,6 +43,12 @@
         <mark key="." line="242" column="83" />
         <mark key="^" line="242" column="83" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562119004977">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="139" />
+        <mark key="." line="5" column="57" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.js" timestamp="1562113348430">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="28" />
@@ -51,22 +61,24 @@
         <mark key="." line="363" column="14" />
         <mark key="^" line="363" column="100" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/ControlledDocEdit.jsp" timestamp="1562118996953">
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/_module.js" timestamp="1562115542025">
         <mark key="[" line="3" column="55" />
         <mark key="]" line="3" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562050615487">
-        <mark key="[" line="62" column="141" />
-        <mark key="]" line="62" column="7" />
-        <mark key="." line="62" column="7" />
-        <mark key="^" line="62" column="7" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562120388379">
+        <mark key="'" line="64" column="18" />
+        <mark key="[" line="68" column="80" />
+        <mark key="]" line="68" column="80" />
+        <mark key="." line="68" column="80" />
+        <mark key="^" line="68" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/styles.less" timestamp="1562068482431">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562040724881">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562050464048">
         <mark key="'" line="27" column="43" />
@@ -75,6 +87,7 @@
         <mark key="." line="37" column="62" />
         <mark key="^" line="37" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" timestamp="1562118832153" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562118081601">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="12" />
@@ -113,12 +126,12 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" timestamp="1562070615465">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" timestamp="1562119364794">
         <mark key="'" line="24" column="27" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="50" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="41" column="17" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="40" />
+        <mark key="." line="49" column="40" />
+        <mark key="^" line="49" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1562110169152">
         <mark key="'" line="2403" column="26" />
@@ -141,14 +154,15 @@
         <mark key="." line="2348" column="0" />
         <mark key="^" line="2349" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1562045775821">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/services/UploadFormService.js" timestamp="1562116935654">
         <mark key="[" line="8" column="61" />
         <mark key="]" line="8" column="61" />
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" timestamp="1562119294473">
+        <mark key="[" line="6" column="121" />
+        <mark key="]" line="6" column="142" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.tpl.html" timestamp="1562113557979">
         <mark key="[" line="12" column="12" />
@@ -158,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="111" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="110" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="109" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -258,55 +271,59 @@
       <jump line="8" column="88" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" />
       <jump line="10" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="63" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidG5TdXBlcnNlZGVEb2N1bWVudC50ZXh0LAo=</text>
       </register>
       <register name="&quot;" type="4">
         <text encoding="base64">U1VQRVJTRURFX1VQTE9BRF9VUkwg</text>
       </register>
-      <register name="*" type="4">
-        <text>&quot;&quot;</text>
+      <register name="b" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidG5TdXBlcnNlZGVEb2N1bWVudC50b29sdGlwLAo=</text>
+      </register>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidG5TdXBlcnNlZGVEb2N1bWVudC50b29sdGlwLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>documentFormController</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>UploadFormService</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxiZWFuIGlkPSJkb2N1bWVudEZvcm1Db250cm9sbGVyIiBjbGFzcz0iY29tLmFjb25leC5kb2N1bWVudGZvcm0uRG9jdW1lbnRGb3JtQ29udHJvbGxlciI+CiAgICAgICAgPGNvbnN0cnVjdG9yLWFyZyByZWY9ImRvY3VtZW50Rm9ybVNlcnZpY2UiLz4KICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNEb2MgPSBDb250cm9sbGVkRG9jQk9GYWN0b3J5LmdldFNlYXJjaGFibGVCTygpLmJ5SWQoaWQpLmNyZWF0ZU5vbkZsdXNoaW5nQ29weSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coX3F1ZXJ5UGFyYW1zKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC5zdXJzZWRlLnRlbXBsYXRlcycsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQuZGlydGl2ZXMnLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CTxzY3JpcHQgc3JjPSIuLi91cGxvYWQvYW5ndWxhci5qcyI+PC9zY3JpcHQ+Cgk8c2NyaXB0IHNyYz0iLi4vdXBsb2FkL3RlbXBsYXRlcy5qcyI+PC9zY3JpcHQ+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQuZGlyZWN0aXZlcycsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQk8YnV0dG9uIHRpdGxlPSJ7eyA6OididG5VcGxvYWREb2N1bWVudC50b29sdGlwJyB8IGkxOG4gfX0iIGNsYXNzPSJhdWlCdXR0b24gcHJpbWFyeSIgbmctY2xpY2s9InNhdmUoKSI+UmVnaXN0ZXI8L2J1dHRvbj4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQk8c3Bhbj5SZWdpc3RlciBEb2N1bWVudDwvc3Bhbj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coX3F1ZXJ5UGFyYW1zKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC5zdXJzZWRlLnRlbXBsYXRlcycsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQuZGlydGl2ZXMnLAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQnCg==</text>
+        <text encoding="base64">CTxzY3JpcHQgc3JjPSIuLi91cGxvYWQvYW5ndWxhci5qcyI+PC9zY3JpcHQ+Cgk8c2NyaXB0IHNyYz0iLi4vdXBsb2FkL3RlbXBsYXRlcy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQuc2VydmljZXMnLAoJCQknYWN4LmRvY3VtZW50LnVwbG9hZC5kaXJlY3RpdmVzJwo=</text>
+        <text encoding="base64">CQkJJ2FjeC5kb2N1bWVudC51cGxvYWQuZGlyZWN0aXZlcycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/UploadFormService/SupersedeFormService/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -357,11 +374,11 @@
         <entry>let @/=''</entry>
         <entry>noh</entry>
         <entry>reg</entry>
-        <entry>w</entry>
         <entry>%y</entry>
         <entry>s/Upload/Supersede/g</entry>
         <entry>%s/Upload/Supersede/g</entry>
         <entry>%s/UploadFormService/SupersedeFormService/g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
