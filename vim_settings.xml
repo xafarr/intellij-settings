@@ -33,12 +33,12 @@
         <mark key="]" line="724" column="41" />
         <mark key="." line="769" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1562110177891">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1562112369827">
         <mark key="'" line="6" column="88" />
-        <mark key="[" line="20" column="85" />
-        <mark key="]" line="20" column="85" />
-        <mark key="^" line="20" column="55" />
-        <mark key="." line="20" column="57" />
+        <mark key="[" line="22" column="64" />
+        <mark key="]" line="22" column="64" />
+        <mark key="^" line="22" column="64" />
+        <mark key="." line="22" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentMenuBuilder.java" timestamp="1562021744520">
         <mark key="[" line="20" column="26" />
@@ -244,7 +244,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>projectId</text>
+        <text>ControlledDocument_projcectId</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
