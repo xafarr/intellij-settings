@@ -29,12 +29,12 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="16" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562152917434">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="42" column="50" />
-        <mark key="]" line="42" column="51" />
-        <mark key="." line="42" column="51" />
-        <mark key="^" line="42" column="51" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562155913578">
+        <mark key="'" line="33" column="55" />
+        <mark key="[" line="50" column="24" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
+        <mark key="^" line="50" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1562031291445">
         <mark key="[" line="340" column="14" />
@@ -42,10 +42,11 @@
         <mark key="." line="242" column="83" />
         <mark key="^" line="242" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562152749581">
-        <mark key="[" line="40" column="78" />
-        <mark key="]" line="40" column="91" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562156929336">
+        <mark key="[" line="39" column="73" />
+        <mark key="]" line="39" column="91" />
+        <mark key="." line="39" column="91" />
+        <mark key="^" line="39" column="91" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.js" timestamp="1562113348430">
         <mark key="[" line="5" column="28" />
@@ -74,7 +75,8 @@
         <mark key="." line="89" column="12" />
         <mark key="^" line="89" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1562152058407">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1562157054582">
+        <mark key="'" line="73" column="21" />
         <mark key="[" line="34" column="21" />
         <mark key="]" line="34" column="30" />
       </file>
@@ -191,10 +193,14 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.js" timestamp="1562157882625">
+        <mark key="[" line="16" column="64" />
+        <mark key="]" line="16" column="64" />
+        <mark key="^" line="16" column="64" />
+        <mark key="." line="16" column="64" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="109" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="108" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="107" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="106" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -293,10 +299,44 @@
       <jump line="10" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="63" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" />
       <jump line="86" column="9" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" />
+      <jump line="33" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="73" column="21" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidG5TdXBlcnNlZGVEb2N1bWVudC50ZXh0LAo=</text>
+      <register name="a" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="51" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="70" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+        </keys>
       </register>
       <register name="&quot;" type="4">
         <text encoding="base64">U1VQRVJTRURFX1VQTE9BRF9VUkwg</text>
@@ -308,57 +348,56 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidG5TdXBlcnNlZGVEb2N1bWVudC50b29sdGlwLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text encoding="base64">JHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>scale</text>
+        <text>date</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJJHNjb3BlLmZvcm1EYXRhW2ZpZWxkLmlkXS5mcm9tID0gZmllbGQuY29uZmlnOwo=</text>
+      <register name="0" type="4">
+        <text>formData[field.id]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQl9IGVsc2UgaWYgKGZpZWxkLmlkID09PSAnYXNzb2NpYXRlZEZpbGUnKSB7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJCSAgIGlzLXNjaGVtZWQ9ImlzU2NoZW1lZCI+PC9hY3gtdGV4dC1maWVsZGR3LWZpZWxkPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGNvbmZpZyk7Cg==</text>
+        <text encoding="base64">CQkJCQl9IGVsc2UgaWYgKGZpZWxkLmlkID09PSAnYXNzb2NpYXRlZEZpbGUnKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCTxhY3gtdGV4dC1maWVsZCA+PC9hY3gtdGV4dC1maWVsZD4K</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGNvbmZpZyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250cm9sbGVkRG9jdW1lbnQuc2V0SUQobnVsbCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJCTxhY3gtdGV4dC1maWVsZCA+PC9hY3gtdGV4dC1maWVsZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRlci5idWlsZE1vZGVsRm9yKHByb3BlcnRpZXMsIGNvbnRyb2xsZWREb2N1bWVudCwgZG9jQWNjZXNzUHJvcGVydGllcywgIiIsICIiLCB1c2VyLCBsaWdodHdlaWdodFByb2plY3QsIHRydWUsIHRleHRDb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb250cm9sbGVkRG9jdW1lbnQuc2V0SUQobnVsbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb3BlcnR5SW5zdGFuY2U+IHByb3BlcnRpZXMgPSBnZXRQcm9wZXJ0eUluc3RhbmNlcyhsaWdodHdlaWdodFByb2plY3QsIGNvbnRyb2xsZWREb2N1bWVudCwgdGV4dENvbnRleHQpOwoKICAgICAgICBEb2NBY2Nlc3NQcm9wZXJ0aWVzIGRvY0FjY2Vzc1Byb3BlcnRpZXMgPSBnZXREb2N1bWVudEFjY2Vzc1Byb3BlcnRpZXMoY29udHJvbGxlZERvY3VtZW50LCB1c2VyKTsKCiAgICAgICAgQ29udHJvbGxlZERvY0VkaXRQYWdlQnVpbGRlciBidWlsZGVyID0KICAgICAgICAgICAgICAgIGNvbnRyb2xsZWREb2N1bWVudEVkaXRQYWdlQnVpbGRlckZhY3RvcnkuYnVpbGRlckZvcihDb250cm9sbGVkRG9jdW1lbnRQcm9wZXJ0eVB1cnBvc2UuRURJVF9ORVcpOwoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVpbGRlci5idWlsZE1vZGVsRm9yKHByb3BlcnRpZXMsIGNvbnRyb2xsZWREb2N1bWVudCwgZG9jQWNjZXNzUHJvcGVydGllcywgIiIsICIiLCB1c2VyLCBsaWdodHdlaWdodFByb2plY3QsIHRydWUsIHRleHRDb250ZXh0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb3BlcnR5SW5zdGFuY2U+IHByb3BlcnRpZXMgPSBnZXRQcm9wZXJ0eUluc3RhbmNlcyhsaWdodHdlaWdodFByb2plY3QsIGNvbnRyb2xsZWREb2N1bWVudCwgdGV4dENvbnRleHQpOwoKICAgICAgICBEb2NBY2Nlc3NQcm9wZXJ0aWVzIGRvY0FjY2Vzc1Byb3BlcnRpZXMgPSBnZXREb2N1bWVudEFjY2Vzc1Byb3BlcnRpZXMoY29udHJvbGxlZERvY3VtZW50LCB1c2VyKTsKCiAgICAgICAgQ29udHJvbGxlZERvY0VkaXRQYWdlQnVpbGRlciBidWlsZGVyID0KICAgICAgICAgICAgICAgIGNvbnRyb2xsZWREb2N1bWVudEVkaXRQYWdlQnVpbGRlckZhY3RvcnkuYnVpbGRlckZvcihDb250cm9sbGVkRG9jdW1lbnRQcm9wZXJ0eVB1cnBvc2UuRURJVF9ORVcpOwoKICAgICAgICByZXR1cm4gYnVpbGRlci5idWlsZE1vZGVsRm9yKHByb3BlcnRpZXMsIGNvbnRyb2xsZWREb2N1bWVudCwgZG9jQWNjZXNzUHJvcGVydGllcywgIiIsICIiLCB1c2VyLCBsaWdodHdlaWdodFByb2plY3QsIHRydWUsIHRleHRDb250ZXh0KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb3BlcnR5SW5zdGFuY2U+IHByb3BlcnRpZXMgPSBnZXRQcm9wZXJ0eUluc3RhbmNlcyhsaWdodHdlaWdodFByb2plY3QsIGNvbnRyb2xsZWREb2N1bWVudCwgdGV4dENvbnRleHQpOwoKICAgICAgICBEb2NBY2Nlc3NQcm9wZXJ0aWVzIGRvY0FjY2Vzc1Byb3BlcnRpZXMgPSBnZXREb2N1bWVudEFjY2Vzc1Byb3BlcnRpZXMoY29udHJvbGxlZERvY3VtZW50LCB1c2VyKTsKCiAgICAgICAgQ29udHJvbGxlZERvY0VkaXRQYWdlQnVpbGRlciBidWlsZGVyID0KICAgICAgICAgICAgICAgIGNvbnRyb2xsZWREb2N1bWVudEVkaXRQYWdlQnVpbGRlckZhY3RvcnkuYnVpbGRlckZvcihDb250cm9sbGVkRG9jdW1lbnRQcm9wZXJ0eVB1cnBvc2UuRURJVF9ORVcpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaWdodHdlaWdodFByb2plY3QgbGlnaHR3ZWlnaHRQcm9qZWN0ID0gbmV3IExpZ2h0d2VpZ2h0UHJvamVjdChwcm9qZWN0Qk8uYnlJZChwcm9qZWN0SWQpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb3BlcnR5SW5zdGFuY2U+IHByb3BlcnRpZXMgPSBnZXRQcm9wZXJ0eUluc3RhbmNlcyhsaWdodHdlaWdodFByb2plY3QsIGNvbnRyb2xsZWREb2N1bWVudCwgdGV4dENvbnRleHQpOwoKICAgICAgICBEb2NBY2Nlc3NQcm9wZXJ0aWVzIGRvY0FjY2Vzc1Byb3BlcnRpZXMgPSBnZXREb2N1bWVudEFjY2Vzc1Byb3BlcnRpZXMoY29udHJvbGxlZERvY3VtZW50LCB1c2VyKTsKCiAgICAgICAgQ29udHJvbGxlZERvY0VkaXRQYWdlQnVpbGRlciBidWlsZGVyID0KICAgICAgICAgICAgICAgIGNvbnRyb2xsZWREb2N1bWVudEVkaXRQYWdlQnVpbGRlckZhY3RvcnkuYnVpbGRlckZvcihDb250cm9sbGVkRG9jdW1lbnRQcm9wZXJ0eVB1cnBvc2UuRURJVF9ORVcpOwoKICAgICAgICByZXR1cm4gYnVpbGRlci5idWlsZE1vZGVsRm9yKHByb3BlcnRpZXMsIGNvbnRyb2xsZWREb2N1bWVudCwgZG9jQWNjZXNzUHJvcGVydGllcywgIiIsICIiLCB1c2VyLCBsaWdodHdlaWdodFByb2plY3QsIHRydWUsIHRleHRDb250ZXh0KTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMaWdodHdlaWdodFByb2plY3QgbGlnaHR3ZWlnaHRQcm9qZWN0ID0gbmV3IExpZ2h0d2VpZ2h0UHJvamVjdChwcm9qZWN0Qk8uYnlJZChwcm9qZWN0SWQpKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>scale</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern>scale</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>BeforeMethod</entry>
         <entry>EditControlledDoc?E</entry>
         <entry>document</entry>
         <entry encoding="base64">XDxkb2N1bWVudA==</entry>
@@ -378,6 +417,7 @@
         <entry>file</entry>
         <entry>ratio</entry>
         <entry>scale</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>s/DocumentUrlBuilder/SupersedeUrlBuilder/g</entry>
@@ -389,7 +429,6 @@
         <entry>wq</entry>
         <entry>set hls?</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>set rnu!</entry>
         <entry>m .+1</entry>
         <entry>reg</entry>
         <entry>%y</entry>
@@ -398,6 +437,7 @@
         <entry>%s/UploadFormService/SupersedeFormService/g</entry>
         <entry>m .-2</entry>
         <entry>w</entry>
+        <entry>set rnu!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
       </history-cmd>
