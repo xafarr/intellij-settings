@@ -3,19 +3,63 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/styles.less" timestamp="1562068482431">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="52" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1562040724881">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1562046099114">
         <mark key="'" line="89" column="40" />
         <mark key="[" line="412" column="26" />
         <mark key="]" line="412" column="46" />
         <mark key="^" line="412" column="25" />
         <mark key="." line="412" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
+        <mark key="'" line="769" column="121" />
+        <mark key="[" line="724" column="14" />
+        <mark key="]" line="724" column="41" />
+        <mark key="." line="769" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/index.html" timestamp="1562070600420">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentUrlBuilder.java" timestamp="1561971329914">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562050504901">
+        <mark key="'" line="32" column="46" />
+        <mark key="[" line="32" column="63" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1562031291445">
+        <mark key="[" line="340" column="14" />
+        <mark key="]" line="340" column="34" />
+        <mark key="." line="242" column="83" />
+        <mark key="^" line="242" column="83" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.js" timestamp="1562113348430">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/_module.js" timestamp="1562070004623">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562050615487">
+        <mark key="[" line="62" column="141" />
+        <mark key="]" line="62" column="7" />
+        <mark key="." line="62" column="7" />
+        <mark key="^" line="62" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/styles.less" timestamp="1562068482431">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562040724881">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
@@ -26,12 +70,6 @@
         <mark key="]" line="37" column="62" />
         <mark key="." line="37" column="62" />
         <mark key="^" line="37" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
-        <mark key="'" line="769" column="121" />
-        <mark key="[" line="724" column="14" />
-        <mark key="]" line="724" column="41" />
-        <mark key="." line="769" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1562112369827">
         <mark key="'" line="6" column="88" />
@@ -53,15 +91,6 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" timestamp="1561970394591">
         <mark key="'" line="152" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/index.html" timestamp="1562070600420">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentUrlBuilder.java" timestamp="1561971329914">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" timestamp="1562068162339">
         <mark key="'" line="106" column="33" />
@@ -90,35 +119,12 @@
         <mark key="^" line="2367" column="20" />
         <mark key="." line="2374" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562050504901">
-        <mark key="'" line="32" column="46" />
-        <mark key="[" line="32" column="63" />
-        <mark key="]" line="33" column="15" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1562031291445">
-        <mark key="[" line="340" column="14" />
-        <mark key="]" line="340" column="34" />
-        <mark key="." line="242" column="83" />
-        <mark key="^" line="242" column="83" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/SupersedeUrlBuilder.java" timestamp="1561971556108">
         <mark key="'" line="6" column="5" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/_module.js" timestamp="1562070004623">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562050615487">
-        <mark key="[" line="62" column="141" />
-        <mark key="]" line="62" column="7" />
-        <mark key="." line="62" column="7" />
-        <mark key="^" line="62" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562026984294">
         <mark key="'" line="0" column="0" />
@@ -129,6 +135,12 @@
       </file>
       <file name="/fragment.java" timestamp="1562045775821">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.tpl.html" timestamp="1562113557979">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -244,7 +256,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ControlledDocument_projcectId</text>
+        <text>uploadForm</text>
       </register>
       <register name="/" type="4">
         <text>export</text>
@@ -280,7 +292,7 @@
         <text encoding="base64">ICAgICAqIAogICAgICogQHBhcmFtIHByb2plY3RJZAogICAgICogQHBhcmFtIGRvY3VtZW50VHlwZUlkCiAgICAgKiBAcGFyYW0gdGV4dENvbnRleHQKICAgICAqIEBwYXJhbSByZWdpc3RlclR5cGUKICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -325,17 +337,17 @@
         <entry>%s/upload/supersede/g</entry>
         <entry>set hls</entry>
         <entry>set hls!</entry>
-        <entry>reg</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>wq</entry>
         <entry>set hls?</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set rnu!</entry>
         <entry>m .+1</entry>
-        <entry>w</entry>
         <entry>m .-2</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
+        <entry>reg</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
