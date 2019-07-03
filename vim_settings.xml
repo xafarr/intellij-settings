@@ -126,6 +126,12 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleSelectField/singleSelectField.tpl.html" timestamp="1562132889275">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="8" column="96" />
+        <mark key="^" line="8" column="96" />
+        <mark key="." line="8" column="96" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" timestamp="1562119364794">
         <mark key="'" line="24" column="27" />
         <mark key="[" line="49" column="38" />
@@ -296,7 +302,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidG5TdXBlcnNlZGVEb2N1bWVudC50b29sdGlwLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text encoding="base64">CXNlbGVjdGVkPSIiPg==</text>
       </register>
       <register name="/" type="4">
         <text>UploadFormService</text>
