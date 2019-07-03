@@ -10,12 +10,6 @@
         <mark key="^" line="412" column="25" />
         <mark key="." line="412" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
-        <mark key="'" line="769" column="121" />
-        <mark key="[" line="724" column="14" />
-        <mark key="]" line="724" column="41" />
-        <mark key="." line="769" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/index.html" timestamp="1562070600420">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -25,14 +19,15 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562050504901">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562117130753">
         <mark key="'" line="32" column="46" />
-        <mark key="[" line="32" column="63" />
-        <mark key="]" line="33" column="15" />
+        <mark key="[" line="16" column="71" />
+        <mark key="]" line="16" column="84" />
         <mark key="^" line="33" column="15" />
-        <mark key="." line="33" column="15" />
+        <mark key="." line="16" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562115097304">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562116652066">
+        <mark key="'" line="10" column="13" />
         <mark key="[" line="45" column="55" />
         <mark key="]" line="45" column="63" />
         <mark key="." line="45" column="63" />
@@ -76,6 +71,13 @@
         <mark key="]" line="37" column="62" />
         <mark key="." line="37" column="62" />
         <mark key="^" line="37" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562117084940">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+        <mark key="^" line="7" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1562115577561">
         <mark key="'" line="7" column="88" />
@@ -142,6 +144,12 @@
       <file name="/fragment.java" timestamp="1562045775821">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/services/UploadFormService.js" timestamp="1562116935654">
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="8" column="61" />
+        <mark key="." line="8" column="61" />
+        <mark key="^" line="8" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.tpl.html" timestamp="1562113557979">
         <mark key="[" line="12" column="12" />
         <mark key="]" line="12" column="24" />
@@ -150,8 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="116" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="115" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="111" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="110" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -250,6 +256,8 @@
       <jump line="103" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
       <jump line="106" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" />
       <jump line="8" column="88" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" />
+      <jump line="10" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -262,13 +270,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>uplociw</text>
+        <text>default</text>
       </register>
       <register name="/" type="4">
-        <text>export</text>
+        <text>UploadFormService</text>
       </register>
       <register name="0" type="4">
-        <text>acx.document.upload.templates</text>
+        <text>supersedeforms</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJY29uc29sZS5sb2coX3F1ZXJ5UGFyYW1zKTsK</text>
@@ -298,22 +306,20 @@
         <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/UploadFormService/SupersedeFormService/g</text>
       </register>
     </registers>
     <search>
-      <last-search>export</last-search>
+      <last-search>UploadFormService</last-search>
       <last-offset />
-      <last-pattern>export</last-pattern>
-      <last-replace>supersede</last-replace>
-      <last-substitute>upload</last-substitute>
+      <last-pattern>UploadFormService</last-pattern>
+      <last-replace>SupersedeFormService</last-replace>
+      <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>textmenu</entry>
-        <entry>menubuilder</entry>
         <entry>DOCU</entry>
         <entry>DocumentUrlBuilder</entry>
         <entry>supersede</entry>
@@ -332,12 +338,10 @@
         <entry>isNew</entry>
         <entry>upload</entry>
         <entry>export</entry>
+        <entry>Upload</entry>
+        <entry>UploadFormService</entry>
       </history-search>
       <history-cmd>
-        <entry>set hsl!</entry>
-        <entry>set nohls</entry>
-        <entry>blame</entry>
-        <entry>Gblame</entry>
         <entry>s/DocumentUrlBuilder/SupersedeUrlBuilder/g</entry>
         <entry>hls</entry>
         <entry>%s/upload/supersede/g</entry>
@@ -354,6 +358,10 @@
         <entry>noh</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>%y</entry>
+        <entry>s/Upload/Supersede/g</entry>
+        <entry>%s/Upload/Supersede/g</entry>
+        <entry>%s/UploadFormService/SupersedeFormService/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
