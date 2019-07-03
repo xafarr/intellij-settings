@@ -19,7 +19,7 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562117130753">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562117996966">
         <mark key="'" line="32" column="46" />
         <mark key="[" line="16" column="71" />
         <mark key="]" line="16" column="84" />
@@ -45,6 +45,12 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/WEB-INF/spring/controllersApp.xml" timestamp="1562118386084">
+        <mark key="[" line="363" column="14" />
+        <mark key="]" line="363" column="14" />
+        <mark key="." line="363" column="14" />
+        <mark key="^" line="363" column="100" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/_module.js" timestamp="1562115542025">
         <mark key="[" line="3" column="55" />
         <mark key="]" line="3" column="83" />
@@ -62,9 +68,6 @@
       <file name="/Dummy.txt" timestamp="1562040724881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
-        <mark key="'" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562050464048">
         <mark key="'" line="27" column="43" />
         <mark key="[" line="37" column="53" />
@@ -72,12 +75,12 @@
         <mark key="." line="37" column="62" />
         <mark key="^" line="37" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562117084940">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562118081601">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="7" column="61" />
-        <mark key="." line="7" column="61" />
-        <mark key="^" line="7" column="61" />
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1562115577561">
         <mark key="'" line="7" column="88" />
@@ -96,9 +99,6 @@
         <mark key="]" line="16" column="1" />
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" timestamp="1561970394591">
-        <mark key="'" line="152" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" timestamp="1562068162339">
         <mark key="'" line="106" column="33" />
@@ -270,13 +270,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>documentFormController</text>
       </register>
       <register name="/" type="4">
         <text>UploadFormService</text>
       </register>
-      <register name="0" type="4">
-        <text>supersedeforms</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxiZWFuIGlkPSJkb2N1bWVudEZvcm1Db250cm9sbGVyIiBjbGFzcz0iY29tLmFjb25leC5kb2N1bWVudGZvcm0uRG9jdW1lbnRGb3JtQ29udHJvbGxlciI+CiAgICAgICAgPGNvbnN0cnVjdG9yLWFyZyByZWY9ImRvY3VtZW50Rm9ybVNlcnZpY2UiLz4KICAgIDwvYmVhbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJY29uc29sZS5sb2coX3F1ZXJ5UGFyYW1zKTsK</text>
