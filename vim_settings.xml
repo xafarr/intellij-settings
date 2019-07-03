@@ -14,15 +14,12 @@
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/jmx.xml" timestamp="1562029696869">
-        <mark key="'" line="769" column="121" />
-        <mark key="[" line="724" column="14" />
-        <mark key="]" line="724" column="41" />
-        <mark key="." line="769" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/DocumentUrlBuilder.java" timestamp="1561971329914">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562125606747">
+        <mark key="[" line="72" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562117996966">
         <mark key="'" line="32" column="46" />
@@ -64,11 +61,12 @@
         <mark key="[" line="3" column="55" />
         <mark key="]" line="3" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562122134703">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562126651558">
         <mark key="'" line="72" column="18" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+        <mark key="[" line="89" column="12" />
+        <mark key="]" line="89" column="12" />
+        <mark key="." line="89" column="12" />
+        <mark key="^" line="89" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/styles.less" timestamp="1562068482431">
         <mark key="[" line="0" column="0" />
@@ -145,7 +143,7 @@
         <mark key="." line="2348" column="0" />
         <mark key="^" line="2349" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1562121003062">
+      <file name="/fragment.java" timestamp="1562126836464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/services/UploadFormService.js" timestamp="1562116935654">
@@ -281,7 +279,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBidG5TdXBlcnNlZGVEb2N1bWVudC50b29sdGlwLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>ControlledDocumentPropertyPurpose.EDIT_NEW</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>UploadFormService</text>
