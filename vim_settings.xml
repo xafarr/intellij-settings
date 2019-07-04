@@ -233,6 +233,9 @@
         <mark key="^" line="8" column="80" />
         <mark key="." line="8" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/templates/fileViewTab.tpl.html" timestamp="1562239127365">
+        <mark key="'" line="38" column="152" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" timestamp="1562191949549">
         <mark key="'" line="25" column="27" />
         <mark key="[" line="14" column="49" />
@@ -262,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
-      <jump line="201" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="196" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="185" column="61" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="178" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -362,6 +363,8 @@
       <jump line="21" column="107" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" />
       <jump line="140" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="125" column="65" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="7" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/templates/fileViewTab.tpl.html" />
+      <jump line="38" column="152" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/templates/fileViewTab.tpl.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,7 +415,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>uploadForm</text>
+        <text>supersede</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZmlsZURvd25sb2FkVXJsIA==</text>
@@ -449,9 +452,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uploadForm</last-search>
+      <last-search>supersede</last-search>
       <last-offset />
-      <last-pattern>uploadForm</last-pattern>
+      <last-pattern>supersede</last-pattern>
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
@@ -459,7 +462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uplo</entry>
         <entry>isNew</entry>
         <entry>export</entry>
         <entry>Upload</entry>
@@ -479,6 +481,7 @@
         <entry>ass</entry>
         <entry>upload</entry>
         <entry>uploadForm</entry>
+        <entry>supersede</entry>
       </history-search>
       <history-cmd>
         <entry>%s/upload/supersede/g</entry>
