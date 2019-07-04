@@ -63,6 +63,10 @@
         <mark key="^" line="5" column="68" />
         <mark key="." line="55" column="85" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/resourcePathService/resourcePathService.js" timestamp="1562283046049">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/controllers/ViewDocumentController.js" timestamp="1562243535042">
         <mark key="'" line="597" column="8" />
         <mark key="[" line="85" column="13" />
@@ -127,12 +131,12 @@
         <mark key="^" line="2367" column="20" />
         <mark key="." line="2374" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/services/documentRetrieval/documentRetrieval.js" timestamp="1562280860759">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/services/documentRetrieval/documentRetrieval.js" timestamp="1562283255782">
         <mark key="'" line="7" column="12" />
-        <mark key="[" line="292" column="162" />
-        <mark key="]" line="292" column="38" />
-        <mark key="." line="292" column="38" />
-        <mark key="^" line="290" column="17" />
+        <mark key="[" line="294" column="243" />
+        <mark key="]" line="295" column="47" />
+        <mark key="." line="295" column="47" />
+        <mark key="^" line="295" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/common/angular.js" timestamp="1562242744404">
         <mark key="'" line="2206" column="29" />
@@ -296,13 +300,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>EditCon</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">RmVhdHVyZVN3aXRjaFNlcnZpY2Ug</text>
+        <text>getResourcePath</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0Qk8gcHJvamVjdEJPLAo=</text>
