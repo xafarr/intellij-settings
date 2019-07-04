@@ -17,9 +17,9 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562125606747">
         <mark key="[" line="72" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562207631565">
-        <mark key="[" line="55" column="85" />
-        <mark key="]" line="55" column="85" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562233294219">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="24" />
         <mark key="^" line="5" column="68" />
         <mark key="." line="55" column="85" />
       </file>
@@ -142,7 +142,13 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562137581302" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562233128899">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562212938921">
         <mark key="'" line="16" column="20" />
         <mark key="[" line="16" column="35" />
@@ -157,12 +163,12 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="16" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562213503917">
-        <mark key="'" line="66" column="50" />
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="57" column="102" />
-        <mark key="^" line="57" column="102" />
-        <mark key="." line="57" column="102" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562233343022">
+        <mark key="'" line="68" column="50" />
+        <mark key="[" line="75" column="23" />
+        <mark key="]" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+        <mark key="^" line="75" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/controlledDocuments.xml" timestamp="1562031291445">
         <mark key="[" line="340" column="14" />
@@ -189,9 +195,9 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562213428898">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562233450826">
         <mark key="'" line="6" column="52" />
-        <mark key="[" line="56" column="12" />
+        <mark key="[" line="16" column="58" />
         <mark key="]" line="6" column="53" />
         <mark key="." line="6" column="26" />
         <mark key="^" line="65" column="41" />
@@ -250,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="23" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="58" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="53" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
       <jump line="48" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" />
@@ -350,6 +355,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/documentForms/DocumentForms.specs.md" />
       <jump line="16" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" />
       <jump line="122" column="47" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -397,48 +403,43 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>ass</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">JlJFQVNPTj0zJkNvbnRyb2xsZWREb2N1bWVudF9JRD0=</text>
+        <text>supersedeForm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZyhmaWxlVXJsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRG9jdW1lbnRVc2VyRHRvIHVzZXIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB1c2VySWQgPSB1c2VyLmdldFVzZXJJZCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9xYTEwOS5hY29uZXguY29tL0NvcnJlc3BveHhuZGVuY2U/QUNUSU9OPTAmUGVybWFuZW50RmlsZV9JRD0yNzEzNDE4Nzc1NDkwNzI5MzImUkVBU09OPTMmQ29udHJvbGxlZERvY3VtZW50X0lEPTI3MTM0MTg3NzU0OTExMjQ1NAo=</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyhwYXRoID0gIi9pbnRlcm5hbC9wcm9qZWN0cy97cHJvamVjdElkfS9kb2N1bWVudHMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCSBuZy1pZj0iZmllbGQudHlwZSA9PT0gJ2Ryb3Bkb3duJyAmJiBmaWVsZC5pZCA9PT0gJ2RvY3R5cGUnIj48L2FjeC1kb2N1bWVudC10eXBlLWZpZWxkPgo=</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCTxhY3gtZG9jdW1lbnQtdHlwZS1maWVsZCBuZy1tb2RlbD0iZm9ybURhdGFbZmllbGQuaWRdIiBmaWVsZD0iZmllbGQiCg==</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyhwYXRoID0gIi9pbnRlcm5hbC9wcm9qZWN0cy97cHJvamVjdElkfS9kb2N1bWVudHMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCSBoYW5kbGUtZG9jdW1lbnQtdHlwZS1jaGFuZ2U9ImhhbmRsZURvY3VtZW50VHlwZUNoYW5nZShkb2N0eXBlKSIK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZyhmaWxlVXJsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCQuaXNFbXB0eU9iamVjdChvcmlnaW5hbEZpbGVEYXRhKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-					$scope.inputFile = {
-						name: $scope.field.config.value.fileName
-					};
-					$scope.filetype = $scope.field.config.value.fileType;
-				}</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gaHR0cHM6Ly9xYTEwOS5hY29uZXguY29tL0NvcnJlc3BveHhuZGVuY2U/QUNUSU9OPTAmUGVybWFuZW50RmlsZV9JRD0yNzEzNDE4Nzc1NDkwNzI5MzImUkVBU09OPTMmQ29udHJvbGxlZERvY3VtZW50X0lEPTI3MTM0MTg3NzU0OTExMjQ1NAo=</text>
       </register>
       <register name=":" type="4">
-        <text>set rnu!</text>
+        <text>m .-2</text>
       </register>
     </registers>
     <search>
@@ -480,7 +481,6 @@
         <entry>wq</entry>
         <entry>set hls?</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>reg</entry>
         <entry>%y</entry>
         <entry>s/Upload/Supersede/g</entry>
         <entry>%s/Upload/Supersede/g</entry>
@@ -490,10 +490,11 @@
         <entry>set hls!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
-        <entry>m .-2</entry>
         <entry>w</entry>
         <entry>m .+1</entry>
+        <entry>reg</entry>
         <entry>set rnu!</entry>
+        <entry>m .-2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
