@@ -172,9 +172,9 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562202384649">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562203769366">
         <mark key="'" line="6" column="52" />
-        <mark key="[" line="53" column="13" />
+        <mark key="[" line="55" column="0" />
         <mark key="]" line="6" column="53" />
         <mark key="." line="6" column="26" />
         <mark key="^" line="62" column="41" />
@@ -416,7 +416,7 @@
         <text encoding="base64">CQljb25zb2xlLmxvZygkc2NvcGUubmdNb2RlbCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set rnu!</text>
       </register>
     </registers>
     <search>
@@ -464,7 +464,6 @@
         <entry>s/Upload/Supersede/g</entry>
         <entry>%s/Upload/Supersede/g</entry>
         <entry>%s/UploadFormService/SupersedeFormService/g</entry>
-        <entry>set rnu!</entry>
         <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
         <entry>m .-2</entry>
         <entry>%d</entry>
@@ -472,6 +471,7 @@
         <entry>let @/=''</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>set rnu!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
