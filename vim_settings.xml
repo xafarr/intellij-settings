@@ -23,31 +23,11 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/WEB-INF/spring/controllersApp.xml" timestamp="1562121051195">
-        <mark key="[" line="387" column="30" />
-        <mark key="]" line="387" column="52" />
-        <mark key="." line="387" column="52" />
-        <mark key="^" line="387" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562126651558">
-        <mark key="'" line="72" column="18" />
-        <mark key="[" line="89" column="12" />
-        <mark key="]" line="89" column="12" />
-        <mark key="." line="89" column="12" />
-        <mark key="^" line="89" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/confidentialityField/confidentialityField.js" timestamp="1562195569037">
         <mark key="[" line="32" column="47" />
         <mark key="]" line="32" column="90" />
         <mark key="^" line="32" column="19" />
         <mark key="." line="32" column="90" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562050464048">
-        <mark key="'" line="27" column="43" />
-        <mark key="[" line="37" column="53" />
-        <mark key="]" line="37" column="62" />
-        <mark key="." line="37" column="62" />
-        <mark key="^" line="37" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" timestamp="1562118832153" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/documentForms/DocumentForms.specs.md" timestamp="1562205222945">
@@ -84,10 +64,6 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" timestamp="1562026984294">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2348" column="0" />
-        <mark key="]" line="2348" column="0" />
-        <mark key="." line="2348" column="0" />
-        <mark key="^" line="2349" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/services/UploadFormService.js" timestamp="1562116935654">
         <mark key="[" line="8" column="61" />
@@ -113,11 +89,6 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/includes/js/dynamic/Lookup.jsp" timestamp="1562196212468">
         <mark key="'" line="100" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/index.html" timestamp="1562070600420">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562233128899">
         <mark key="'" line="54" column="0" />
@@ -178,11 +149,6 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/navigation.xml" timestamp="1561970394591">
         <mark key="'" line="152" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/styles.less" timestamp="1562191889804">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/templates/fileViewTab.tpl.html" timestamp="1562239127365">
         <mark key="'" line="38" column="152" />
@@ -368,31 +334,31 @@
         <text>FeatureSwitchService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQl2bS5vZmZpY2VPbmxpbmVWaWV3ZXJGZWF0dXJlU3dpdGNoVmFsdWUgPSBpc0ZpbGVWaWV3RW5hYmxlZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0Qk8gcHJvamVjdEJPKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2UgZG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2U7CiAgICBwcml2YXRlIERvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZSBkb2N1bWVudE51bWJlclNjaGVtZVNlcnZpY2U7CiAgICBwcml2YXRlIFByb2plY3RCTyBwcm9qZWN0Qk87Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQl2bS5vZmZpY2VPbmxpbmVWaWV3ZXJGZWF0dXJlU3dpdGNoVmFsdWUgPSBpc0ZpbGVWaWV3RW5hYmxlZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkkc2NvcGUuZ29CYWNrVG9QYXJlbnRQYWdlID0gKCkgPT4gewoJCQkkd2luZG93LmxvY2F0aW9uLmhyZWYgPSAkc2NvcGUuZnJvbVBhZ2U7CgkJfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGFuZ3VsYXIuZXF1YWxzKCRzY29wZS5mb3JtRGF0YSwgZm9ybURhdGFTdXBlcnNlZGVTdGF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRG9jdW1lbnRVc2VyRHRvIHVzZXIsCg==</text>
+        <text encoding="base64">CQkkc2NvcGUuZ29CYWNrVG9QYXJlbnRQYWdlID0gKCkgPT4gewoJCQkkd2luZG93LmxvY2F0aW9uLmhyZWYgPSAkc2NvcGUuZnJvbVBhZ2U7CgkJfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB1c2VySWQgPSB1c2VyLmdldFVzZXJJZCgpOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGFuZ3VsYXIuZXF1YWxzKCRzY29wZS5mb3JtRGF0YSwgZm9ybURhdGFTdXBlcnNlZGVTdGF0ZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgRG9jdW1lbnRVc2VyRHRvIHVzZXIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyhwYXRoID0gIi9pbnRlcm5hbC9wcm9qZWN0cy97cHJvamVjdElkfS9kb2N1bWVudHMiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB1c2VySWQgPSB1c2VyLmdldFVzZXJJZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
