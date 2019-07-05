@@ -68,11 +68,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562336576016">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562337407235">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="81" column="17" />
-        <mark key="]" line="81" column="70" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="57" column="20" />
+        <mark key="." line="57" column="20" />
+        <mark key="^" line="57" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/lookup/search/LookupSearchScope.java" timestamp="1562286005106">
         <mark key="[" line="4" column="1" />
