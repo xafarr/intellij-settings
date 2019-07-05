@@ -42,12 +42,12 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562117996966">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562287198266">
         <mark key="'" line="32" column="46" />
-        <mark key="[" line="16" column="71" />
-        <mark key="]" line="16" column="84" />
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="70" />
         <mark key="^" line="33" column="15" />
-        <mark key="." line="16" column="81" />
+        <mark key="." line="16" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562243884845">
         <mark key="'" line="125" column="65" />
@@ -149,6 +149,7 @@
         <mark key="^" line="2367" column="20" />
         <mark key="." line="2374" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/security/bo/UserBO.java" timestamp="1562286659008" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/services/documentRetrieval/documentRetrieval.js" timestamp="1562284615934">
         <mark key="'" line="7" column="12" />
         <mark key="[" line="293" column="0" />
@@ -335,10 +336,10 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsZURvd25sb2FkVXJsIA==</text>
+        <text>/supersedeforms&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>EditCon</text>
+        <text>group</text>
       </register>
       <register name="0" type="4">
         <text>getResourcePath</text>
@@ -375,9 +376,9 @@
       </register>
     </registers>
     <search>
-      <last-search>EditCon</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>EditCon</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
@@ -385,7 +386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scale</entry>
         <entry>date</entry>
         <entry>selected</entry>
         <entry>USER_ID</entry>
@@ -405,6 +405,7 @@
         <entry>UserContextService</entry>
         <entry>FeatureSwitch</entry>
         <entry>EditCon</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>%s/upload/supersede/g</entry>
