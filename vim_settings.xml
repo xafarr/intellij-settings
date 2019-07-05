@@ -42,6 +42,9 @@
         <mark key="]" line="3" column="17" />
         <mark key="." line="3" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/directives/userLookup/userLookup.js" timestamp="1562290173569">
+        <mark key="'" line="168" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562287446760">
         <mark key="'" line="32" column="46" />
         <mark key="[" line="37" column="5" />
@@ -204,10 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="5" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/domain/SupersedeUrlBuilder.java" />
-      <jump line="19" column="96" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/menu/domain/SupersedeUrlBuilderTest.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" />
-      <jump line="31" column="17" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" />
       <jump line="24" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" />
       <jump line="11" column="26" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
       <jump line="4" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" />
@@ -304,6 +303,10 @@
       <jump line="2206" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/common/angular.js" />
       <jump line="291" column="63" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/services/documentRetrieval/documentRetrieval.js" />
       <jump line="7" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/services/documentRetrieval/documentRetrieval.js" />
+      <jump line="170" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/directives/userLookup/userLookup.js" />
+      <jump line="92" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/directives/userLookup/userLookup.js" />
+      <jump line="58" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/directives/userLookup/userLookup.js" />
+      <jump line="168" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/directives/userLookup/userLookup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -354,7 +357,7 @@
         <text encoding="base64">IGNvbnRyb2xsZWREb2N1bWVudFR5cGVJZA==</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text encoding="base64">XDxzZWxlY3RlZFVzZXJJZHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGRvY3VtZW50VHlwZUlk</text>
@@ -391,9 +394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>group</last-search>
+      <last-search encoding="base64">XDxzZWxlY3RlZFVzZXJJZHNcPg==</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxlY3RlZFVzZXJJZHNcPg==</last-pattern>
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
@@ -401,9 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date</entry>
-        <entry>selected</entry>
-        <entry>USER_ID</entry>
         <entry>PROJECT_ID</entry>
         <entry>LOOKUP_ID</entry>
         <entry encoding="base64">XDxMT09LVVBcPg==</entry>
@@ -421,6 +421,9 @@
         <entry>FeatureSwitch</entry>
         <entry>EditCon</entry>
         <entry>group</entry>
+        <entry>config</entry>
+        <entry encoding="base64">XDxtb2RlbFVwZGF0ZWRcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZFVzZXJJZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/upload/supersede/g</entry>
