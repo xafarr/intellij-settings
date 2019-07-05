@@ -30,7 +30,7 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/includes/js/dynamic/Lookup.jsp" timestamp="1562196212468">
         <mark key="'" line="100" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562328116639">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562330558263">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="67" column="42" />
         <mark key="]" line="73" column="0" />
@@ -163,6 +163,7 @@
         <mark key="." line="104" column="35" />
         <mark key="^" line="104" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" timestamp="1562330761895" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/templates/fileViewTab.tpl.html" timestamp="1562239127365">
         <mark key="'" line="38" column="152" />
       </file>
