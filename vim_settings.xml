@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/services/FieldService.js" timestamp="1562294946878">
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="8" />
-        <mark key="^" line="17" column="8" />
-        <mark key="." line="17" column="8" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/services/FieldService.js" timestamp="1562297873869">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" timestamp="1562286354315">
         <mark key="'" line="123" column="47" />
@@ -152,6 +151,9 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/templates/fileViewTab.tpl.html" timestamp="1562239127365">
         <mark key="'" line="38" column="152" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1562297699525">
+        <mark key="[" line="19" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/index.html" timestamp="1562191949549">
         <mark key="'" line="25" column="27" />
@@ -367,31 +369,31 @@
         <text encoding="base64">CQkJCWNvbnN0IG9wdGlvbnMgPSB7aGVhZGVyczogeydDb250ZW50LVR5cGUnOiAnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkOyBjaGFyc2V0PVVURi04J319OwoJCQkJbGV0IHVybCA9ICIvTG9va3VwQWpheCI7CgkJCQlyZXR1cm4gJGh0dHAucG9zdCh1cmwsIHVzZXJRdWVyeUJ5KHRlcm0pLCBvcHRpb25zKQoJCQkJCS50aGVuKHJlc3BvbnNlID0+IHsKCQkJCQkJcmV0dXJuIGZsYXR0ZW4ocmVzcG9uc2UuZGF0YS5tYXAocmVjb3JkID0+IHJlY29yZC5tYXRjaGVzLm1hcCh0b09wdGlvbikpKTsKCQkJCQl9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlGaWVsZFNlcnZpY2Uuc2VhcmNoQWNjZXNzVXNlck9wdGlvbnNCeSgnJyk7Cg==</text>
+        <text encoding="base64">CQkJCS8vTE9PS1VQX1RFUk06IHRlcm0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEb2NBY2Nlc3NQcm9wZXJ0aWVzIGFjY2Vzc1Byb3BlcnRpZXMgPSBnZXREb2N1bWVudEFjY2Vzc1Byb3BlcnRpZXMoY29udHJvbGxlZERvY3VtZW50LCB1c2VyKTsK</text>
+        <text encoding="base64">CQlGaWVsZFNlcnZpY2Uuc2VhcmNoQWNjZXNzVXNlck9wdGlvbnNCeSgnJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEb2NBY2Nlc3NQcm9wZXJ0aWVzIGFjY2Vzc1Byb3BlcnRpZXMgPSBnZXREb2N1bWVudEFjY2Vzc1Byb3BlcnRpZXMoY29udHJvbGxlZERvY3VtZW50LCB1c2VyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29udHJvbGxlZERvY0VkaXRQYWdlIGdldENvbnRyb2xsZWREb2NFZGl0UGFnZUZvcihMb25nIHByb2plY3RJZCwgVGV4dENvbnRleHQgdGV4dENvbnRleHQsIFJlZ2lzdGVyVHlwZSByZWdpc3RlclR5cGUsIGludCBjb250cm9sbGVkRG9jdW1lbnRUeXBlSWQpIHsKICAgICAgICBVc2VyIHVzZXIgPSBnZXRDdXJyZW50VXNlcigpOwogICAgICAgIENvbnRyb2xsZWREb2N1bWVudCBjb250cm9sbGVkRG9jdW1lbnQgPSBnZXRDb250cm9sbGVkRG9jdW1lbnRGcm9tUmVnaXN0ZXJUeXBlKHJlZ2lzdGVyVHlwZSwgY29udHJvbGxlZERvY3VtZW50VHlwZUlkKTsKICAgICAgICByZXR1cm4gZ2V0Q29udHJvbGxlZERvY0VkaXRQYWdlKGNvbnRyb2xsZWREb2N1bWVudCwgcHJvamVjdElkLCB0ZXh0Q29udGV4dCwgdXNlciwgQ29udHJvbGxlZERvY3VtZW50UHJvcGVydHlQdXJwb3NlLkVESVRfTkVXKTsKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ29udHJvbGxlZERvY0VkaXRQYWdlIGdldENvbnRyb2xsZWREb2NFZGl0UGFnZUZvcihMb25nIHByb2plY3RJZCwgVGV4dENvbnRleHQgdGV4dENvbnRleHQsIFJlZ2lzdGVyVHlwZSByZWdpc3RlclR5cGUsIGludCBjb250cm9sbGVkRG9jdW1lbnRUeXBlSWQpIHsKICAgICAgICBVc2VyIHVzZXIgPSBnZXRDdXJyZW50VXNlcigpOwogICAgICAgIENvbnRyb2xsZWREb2N1bWVudCBjb250cm9sbGVkRG9jdW1lbnQgPSBnZXRDb250cm9sbGVkRG9jdW1lbnRGcm9tUmVnaXN0ZXJUeXBlKHJlZ2lzdGVyVHlwZSwgY29udHJvbGxlZERvY3VtZW50VHlwZUlkKTsKICAgICAgICByZXR1cm4gZ2V0Q29udHJvbGxlZERvY0VkaXRQYWdlKGNvbnRyb2xsZWREb2N1bWVudCwgcHJvamVjdElkLCB0ZXh0Q29udGV4dCwgdXNlciwgQ29udHJvbGxlZERvY3VtZW50UHJvcGVydHlQdXJwb3NlLkVESVRfTkVXKTsKICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coYWN0aW9uLnVybCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0Qk8gcHJvamVjdEJPLAo=</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coYWN0aW9uLnVybCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2UgZG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2U7CiAgICBwcml2YXRlIERvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZSBkb2N1bWVudE51bWJlclNjaGVtZVNlcnZpY2U7CiAgICBwcml2YXRlIFByb2plY3RCTyBwcm9qZWN0Qk87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0Qk8gcHJvamVjdEJPLAo=</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
@@ -404,7 +406,7 @@
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
