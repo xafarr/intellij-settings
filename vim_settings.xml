@@ -55,12 +55,11 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/directives/userLookup/userLookup.js" timestamp="1562290173569">
         <mark key="'" line="168" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562305071295">
-        <mark key="'" line="68" column="42" />
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="52" column="45" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562307491845">
+        <mark key="[" line="53" column="65" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562243884845">
         <mark key="'" line="125" column="65" />
@@ -75,6 +74,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1562307034579" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562237505722">
         <mark key="'" line="21" column="107" />
         <mark key="[" line="13" column="12" />
@@ -92,11 +92,10 @@
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562299319787">
-        <mark key="[" line="85" column="7" />
-        <mark key="]" line="85" column="8" />
-        <mark key="^" line="65" column="34" />
-        <mark key="." line="85" column="8" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562307564262">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1562299278642">
         <mark key="[" line="0" column="0" />
@@ -117,11 +116,11 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentConfidentialUserDto.java" timestamp="1562305520765">
         <mark key="[" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562299214444">
-        <mark key="[" line="46" column="58" />
-        <mark key="]" line="46" column="65" />
-        <mark key="^" line="46" column="65" />
-        <mark key="." line="46" column="65" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562307458588">
+        <mark key="[" line="51" column="62" />
+        <mark key="]" line="51" column="109" />
+        <mark key="^" line="51" column="109" />
+        <mark key="." line="51" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/documentForms/DocumentForms.specs.md" timestamp="1562205222945">
         <mark key="'" line="0" column="0" />
@@ -209,8 +208,10 @@
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="46" />
       </file>
-      <file name="/fragment.java" timestamp="1562299286646">
+      <file name="/fragment.java" timestamp="1562307367278">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.tpl.html" timestamp="1562113557979">
         <mark key="[" line="12" column="12" />
@@ -373,40 +374,40 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>$scope.selected =</text>
+        <text>com.aconex.directory.service.api.MinimalUserDto</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZFVzZXJJZHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>confidentialusers</text>
+        <text>userService.getMinimalUsersByIds(userIds)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZ2V0Q29uZmlkZW50aWFsaXR5VXNlcnNCeUlkczogKHVzZXJJZHMpID0+IHsKCQkJCWxldCB1cmwgPSAnJzsKCQkJfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">amF2YS51dGlsLkNvbGxlY3Rpb248Y29tLmFjb25leC5kaXJlY3Rvcnkuc2VydmljZS5hcGkuTWluaW1hbFVzZXJEdG8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiB1c2VyU2VydmljZS5nZXRNaW5pbWFsVXNlcnNCeUlkcyh1c2VySWRzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZ2V0Q29uZmlkZW4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIUNvbGxlY3Rpb25VdGlscy5pc0VtcHR5KHVzZXJJZHMpKSB7CiAgICAgICAgICAgIExpc3Q8RG9jdW1lbnRDb25maWRlbnRpYWxVc2VyRHRvPiBjb25maWRlbnRpYWxVc2VyRHRvcyA9IGRvY3VtZW50Rm9ybVNlcnZpY2UuZ2V0VXNlckluZm9CeUlkcyh1c2VySWRzKS5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAodXNlciAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBmdWxsTmFtZSA9IFN0cmluZy5qb2luKCIgIiwgdXNlci5nZXRGaXJzdE5hbWUoKSwgdXNlci5nZXRMYXN0TmFtZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIG9yZ2FuaXNhdGlvbk5hbWUgPSB1c2VyLmdldE9yZ2FuaXphdGlvbigpLmdldE9yZ2FuaXphdGlvbk5hbWUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG5ldyBEb2N1bWVudENvbmZpZGVudGlhbFVzZXJEdG8odXNlci5nZXRJZCgpLCBmdWxsTmFtZSwgb3JnYW5pc2F0aW9uTmFtZSk7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhjb25maWRlbnRpYWxVc2VyRHRvcyk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBSZXNwb25zZUVudGl0eS5vayhDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygkc2NvcGUuZmllbGQuY29uZmlnLnNlbGVjdGVkVXNlcklkcyk7Cg==</text>
+        <text encoding="base64">CQkJZ2V0Q29uZmlkZW50aWFsaXR5VXNlcnNCeUlkczogKHVzZXJJZHMpID0+IHsKCQkJCWxldCB1cmwgPSAnJzsKCQkJfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlGaWVsZFNlcnZpY2Uuc2VhcmNoQWNjZXNzVXNlck9wdGlvbnNCeSgnJykudGhlbihkYXRhID0+IGNvbnNvbGUubG9nKGRhdGEpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
