@@ -64,17 +64,18 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/directives/userLookup/userLookup.js" timestamp="1562290173569">
         <mark key="'" line="168" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562308829583">
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="45" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562369871971">
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562339874276">
-        <mark key="'" line="23" column="12" />
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="61" column="20" />
-        <mark key="^" line="59" column="0" />
-        <mark key="." line="61" column="20" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562370390805">
+        <mark key="'" line="22" column="14" />
+        <mark key="[" line="80" column="33" />
+        <mark key="]" line="80" column="33" />
+        <mark key="^" line="80" column="79" />
+        <mark key="." line="80" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/lookup/search/LookupSearchScope.java" timestamp="1562286005106">
         <mark key="[" line="4" column="1" />
@@ -82,12 +83,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562334802442">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562370131338">
         <mark key="'" line="21" column="107" />
-        <mark key="[" line="6" column="106" />
-        <mark key="]" line="9" column="9" />
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="49" />
         <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="9" />
+        <mark key="." line="18" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.js" timestamp="1562113348430">
         <mark key="[" line="5" column="28" />
@@ -98,12 +99,15 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/WEB-INF/spring/controllersApp.xml" timestamp="1562308689631">
         <mark key="[" line="388" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562340862922">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/ControlledDocEdit.jsp" timestamp="1562370477994">
+        <mark key="'" line="61" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562369733134">
         <mark key="'" line="75" column="99" />
-        <mark key="[" line="153" column="124" />
-        <mark key="]" line="153" column="124" />
-        <mark key="^" line="76" column="9" />
-        <mark key="." line="153" column="124" />
+        <mark key="[" line="83" column="126" />
+        <mark key="]" line="83" column="31" />
+        <mark key="^" line="83" column="31" />
+        <mark key="." line="83" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1562299278642">
         <mark key="[" line="0" column="0" />
@@ -120,11 +124,11 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentConfidentialUserDto.java" timestamp="1562305520765">
         <mark key="[" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562307458588">
-        <mark key="[" line="51" column="62" />
-        <mark key="]" line="51" column="109" />
-        <mark key="^" line="51" column="109" />
-        <mark key="." line="51" column="109" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562369751952">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="52" column="109" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/documentForms/DocumentForms.specs.md" timestamp="1562205222945">
         <mark key="'" line="0" column="0" />
@@ -233,10 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2545" column="67" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
-      <jump line="2345" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
-      <jump line="2347" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
-      <jump line="2362" column="90" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="2374" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="2379" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="2395" column="128" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
@@ -295,7 +295,6 @@
       <jump line="20" column="37" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" />
       <jump line="21" column="107" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" />
       <jump line="140" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
-      <jump line="125" column="65" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="7" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/templates/fileViewTab.tpl.html" />
       <jump line="38" column="152" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/templates/fileViewTab.tpl.html" />
       <jump line="584" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/controllers/ViewDocumentController.js" />
@@ -324,15 +323,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
       <jump line="187" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
       <jump line="116" column="60" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
-      <jump line="22" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="119" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="136" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="255" column="4" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bean/ControlledDocument.java" />
       <jump line="75" column="62" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
-      <jump line="80" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="159" column="135" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="10" column="118" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="23" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="80" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="125" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="135" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="152" column="17" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="22" column="14" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/ControlledDocEdit.jsp" />
+      <jump line="61" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/ControlledDocEdit.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -380,13 +384,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>auiGrowlerService</text>
+        <text>warning</text>
       </register>
       <register name="0" type="4">
-        <text>ify($scope.formData)</text>
+        <text>$filter('i18n')('Doc.UnableToUploadFile_alert')</text>
       </register>
       <register name="1" type="4">
         <text>{
@@ -423,20 +427,17 @@
       </register>
     </registers>
     <search>
-      <last-search>auiGrowlerService</last-search>
+      <last-search>warning</last-search>
       <last-offset />
-      <last-pattern>auiGrowlerService</last-pattern>
+      <last-pattern>warning</last-pattern>
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ass</entry>
-        <entry>upload</entry>
         <entry>uploadForm</entry>
-        <entry>supersede</entry>
         <entry>supersedeDocument</entry>
         <entry>featureSwitch</entry>
         <entry>EditControll</entry>
@@ -453,6 +454,9 @@
         <entry>docid</entry>
         <entry>@id</entry>
         <entry>auiGrowlerService</entry>
+        <entry encoding="base64">XDxkaXNwbGF5Rm9ybUVycm9yXD4=</entry>
+        <entry>supersede</entry>
+        <entry>warning</entry>
       </history-search>
       <history-cmd>
         <entry>%s/upload/supersede/g</entry>
