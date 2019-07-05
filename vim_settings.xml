@@ -95,7 +95,7 @@
         <mark key="]" line="85" column="33" />
         <mark key="." line="85" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562279819686">
+      <file name="/Dummy.txt" timestamp="1562293234044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormDto.java" timestamp="1562287367405">
@@ -162,7 +162,6 @@
         <mark key="^" line="2367" column="20" />
         <mark key="." line="2374" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/security/bo/UserBO.java" timestamp="1562286659008" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/services/documentRetrieval/documentRetrieval.js" timestamp="1562284615934">
         <mark key="'" line="7" column="12" />
         <mark key="[" line="293" column="0" />
@@ -400,7 +399,7 @@
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
