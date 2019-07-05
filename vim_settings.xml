@@ -69,12 +69,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562338822205">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562339874276">
         <mark key="'" line="23" column="12" />
-        <mark key="[" line="45" column="52" />
-        <mark key="]" line="45" column="52" />
-        <mark key="^" line="44" column="20" />
-        <mark key="." line="45" column="52" />
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="61" column="20" />
+        <mark key="^" line="59" column="0" />
+        <mark key="." line="61" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/lookup/search/LookupSearchScope.java" timestamp="1562286005106">
         <mark key="[" line="4" column="1" />
@@ -98,12 +98,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/WEB-INF/spring/controllersApp.xml" timestamp="1562308689631">
         <mark key="[" line="388" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562313506062">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562340862922">
         <mark key="'" line="75" column="99" />
-        <mark key="[" line="92" column="89" />
-        <mark key="]" line="92" column="89" />
+        <mark key="[" line="153" column="124" />
+        <mark key="]" line="153" column="124" />
         <mark key="^" line="76" column="9" />
-        <mark key="." line="92" column="89" />
+        <mark key="." line="153" column="124" />
       </file>
       <file name="/Dummy.txt" timestamp="1562299278642">
         <mark key="[" line="0" column="0" />
@@ -380,13 +380,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>Superseded</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>auiGrowlerService</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkkc2NvcGUubmdNb2RlbCA9IG51bGw7CgkJCQkJJHNjb3BlLmlucHV0RmlsZURhdGEuZmlsZSA9IG51bGw7CgkJCQkJJHNjb3BlLmlucHV0RmlsZURhdGEudXBsb2FkSWQgPSBudWxsOwo=</text>
+      <register name="0" type="4">
+        <text>ify($scope.formData)</text>
       </register>
       <register name="1" type="4">
         <text>{
@@ -419,7 +419,7 @@
         <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>m .-2</text>
       </register>
     </registers>
     <search>
@@ -473,8 +473,8 @@
         <entry>w</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
-        <entry>m .-2</entry>
         <entry>reg</entry>
+        <entry>m .-2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
