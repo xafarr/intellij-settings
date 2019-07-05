@@ -50,12 +50,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/directives/userLookup/userLookup.js" timestamp="1562290173569">
         <mark key="'" line="168" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562299440443">
-        <mark key="'" line="32" column="46" />
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="29" />
-        <mark key="^" line="33" column="15" />
-        <mark key="." line="39" column="29" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562300596251">
+        <mark key="'" line="43" column="46" />
+        <mark key="[" line="54" column="49" />
+        <mark key="]" line="54" column="49" />
+        <mark key="^" line="54" column="49" />
+        <mark key="." line="54" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562243884845">
         <mark key="'" line="125" column="65" />
@@ -368,7 +368,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>confidentialusers</text>
+        <text>documentId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RlZFVzZXJJZHNcPg==</text>
