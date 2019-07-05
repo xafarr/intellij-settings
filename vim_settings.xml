@@ -60,12 +60,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562315555360">
-        <mark key="'" line="136" column="16" />
-        <mark key="[" line="119" column="101" />
-        <mark key="]" line="119" column="108" />
-        <mark key="^" line="119" column="108" />
-        <mark key="." line="119" column="108" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562328747813">
+        <mark key="'" line="137" column="16" />
+        <mark key="[" line="58" column="51" />
+        <mark key="]" line="120" column="108" />
+        <mark key="^" line="120" column="108" />
+        <mark key="." line="120" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/lookup/search/LookupSearchScope.java" timestamp="1562286005106">
         <mark key="[" line="4" column="1" />
@@ -73,7 +73,6 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormController.java" timestamp="1562307034579" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562237505722">
         <mark key="'" line="21" column="107" />
         <mark key="[" line="13" column="12" />
@@ -423,7 +422,7 @@
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
