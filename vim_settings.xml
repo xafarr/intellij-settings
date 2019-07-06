@@ -215,9 +215,9 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562386698202">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562387030026">
         <mark key="'" line="6" column="52" />
-        <mark key="[" line="68" column="48" />
+        <mark key="[" line="74" column="0" />
         <mark key="]" line="68" column="48" />
         <mark key="." line="68" column="48" />
       </file>
@@ -252,6 +252,7 @@
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" timestamp="1562387237046" />
       <file name="/fragment.java" timestamp="1562376123500">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -461,7 +462,7 @@ let supersededConfidentiality =</text>
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
