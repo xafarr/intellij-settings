@@ -185,12 +185,12 @@
         <mark key="]" line="22" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/ControlledDocBO.java" timestamp="1562393482236" />
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562394610672">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562421901547">
         <mark key="'" line="16" column="12" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
         <mark key="^" line="7" column="50" />
-        <mark key="." line="64" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1562025915463">
         <mark key="'" line="0" column="0" />
@@ -361,31 +361,31 @@
         <text>/confidentialusers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERvY3VtZW50Rm9ybUR0byhjb250cm9sbGVkRG9jRWRpdFBhZ2UuZ2V0RmllbGRzKCksIGNvbnRyb2xsZWREb2NFZGl0UGFnZS5nZXREb2N1bWVudFR5cGVJZHNXaXRoU2NoZW1lKCksIHByb2plY3RGaWVsZHMpOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdPbmx5IGNvbmZpZGVudGlhbGl0eSB1cGRhdGVkJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb250cm9sbGVkRG9jRWRpdFBhZ2UgY29udHJvbGxlZERvY0VkaXRQYWdlID0gZ2V0Q29udHJvbGxlZERvY0VkaXRQYWdlRm9yKHByb2plY3RJZCwgdGV4dENvbnRleHQsIHJlZ2lzdGVyVHlwZSwgZG9jdW1lbnRUeXBlSWQpOwo=</text>
+        <text encoding="base64">CQkJCS8vIHVwZGF0ZUNvbmZpZGVudGlhbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0Qk8gcHJvamVjdEJPLAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERvY3VtZW50Rm9ybUR0byhjb250cm9sbGVkRG9jRWRpdFBhZ2UuZ2V0RmllbGRzKCksIGNvbnRyb2xsZWREb2NFZGl0UGFnZS5nZXREb2N1bWVudFR5cGVJZHNXaXRoU2NoZW1lKCksIHByb2plY3RGaWVsZHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUHJvamVjdEJPIHByb2plY3RCTzsK</text>
+        <text encoding="base64">ICAgICAgICBDb250cm9sbGVkRG9jRWRpdFBhZ2UgY29udHJvbGxlZERvY0VkaXRQYWdlID0gZ2V0Q29udHJvbGxlZERvY0VkaXRQYWdlRm9yKHByb2plY3RJZCwgdGV4dENvbnRleHQsIHJlZ2lzdGVyVHlwZSwgZG9jdW1lbnRUeXBlSWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRG9jdW1lbnROdW1iZXJTY2hlbWVTZXJ2aWNlIGRvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0Qk8gcHJvamVjdEJPLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2UgZG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJvamVjdEJPIHByb2plY3RCTzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3RCTywK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRG9jdW1lbnROdW1iZXJTY2hlbWVTZXJ2aWNlIGRvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2UgZG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGRvY3VtZW50Rm9ybVNlcnZpY2UuZ2V0RG9jdW1lbnRGb3JtRm9yKFBST0pFQ1RfSUQsIERFRkFVTFRfRE9DVU1FTlRfVFlQRV9JRCwgdGV4dENvbnRleHQsIFJlZ2lzdGVyVHlwZS5ET0MpKS50aGVuUmV0dXJuKGRvY3VtZW50Rm9ybUR0byk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3RCTywK</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
