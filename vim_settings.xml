@@ -170,7 +170,7 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/includes/js/dynamic/Lookup.jsp" timestamp="1562196212468">
         <mark key="'" line="100" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562390599655">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562392659481">
         <mark key="[" line="81" column="58" />
         <mark key="]" line="81" column="75" />
         <mark key="." line="81" column="65" />
@@ -197,12 +197,12 @@
         <mark key="." line="40" column="32" />
         <mark key="^" line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562390906551">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562392566544">
         <mark key="'" line="10" column="53" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="92" column="60" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="89" column="18" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/ControlledDocEdit.jsp" timestamp="1562370477994">
         <mark key="'" line="61" column="24" />
@@ -217,12 +217,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562390984362">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562392256544">
         <mark key="'" line="16" column="12" />
-        <mark key="[" line="77" column="44" />
-        <mark key="]" line="77" column="44" />
-        <mark key="." line="77" column="44" />
+        <mark key="[" line="73" column="36" />
+        <mark key="]" line="76" column="83" />
         <mark key="^" line="7" column="50" />
+        <mark key="." line="76" column="83" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1562025915463">
         <mark key="'" line="0" column="0" />
@@ -390,7 +390,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>$scope.fromPage;</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dcPg==</text>
@@ -399,31 +399,33 @@
         <text>updateConfidentia</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gcmVzcG9uc2UuZGF0YTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJJHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gJHNjb3BlLmZyb21QYWdlOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2VFbnRpdHk7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkkc2NvcGUudGVzdHNhdmUgPSAoKSA9PiB7CgkJCS8vIGxldCBfZm9ybURhdGFTdXBlcnNlZGVTdGF0ZSA9IEpTT04uc3RyaW5naWZ5KGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUpOwoJCQkvLyBsZXQgX2Zvcm1EYXRhID0gSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKTsKCQkJaWYgKGFuZ3VsYXIuZXF1YWxzKGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUsICRzY29wZS5mb3JtRGF0YSkpIHsKCQkJCWNvbnNvbGUubG9nKCdTYXZlZCBmb3JtIHN0YXRlOiBcbicgKyBKU09OLnN0cmluZ2lmeShmb3JtRGF0YVN1cGVyc2VkZVN0YXRlKSk7CgkJCQljb25zb2xlLmxvZygnZm9ybTogXG4nICsgSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKSk7CgkJCQlkaXNwbGF5Rm9ybUVycm9yKCRmaWx0ZXIoJ2kxOG4nKSgnRG9jLlN1cGVyc2VkZURvY3VtZW50Lk5vQ2hhbmdlJyksICd3YXJuaW5nJyk7CgkJCX0gZWxzZSB7CgkJCQljb25zb2xlLmxvZygnT3JpZ2luYWw6IFxuJyArIEpTT04uc3RyaW5naWZ5KGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUpKTsKCQkJCWNvbnNvbGUubG9nKCdTdXBlcnNlZGVkOiBcbicgKyBKU09OLnN0cmluZ2lmeSgkc2NvcGUuZm9ybURhdGEpKTsKCQkJfQoJCX07Cgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb250cm9sbGVkRG9jdW1lbnQgY29udHJvbGxlZERvY3VtZW50Owo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkkc2NvcGUudGVzdHNhdmUgPSAoKSA9PiB7CgkJCS8vIGxldCBfZm9ybURhdGFTdXBlcnNlZGVTdGF0ZSA9IEpTT04uc3RyaW5naWZ5KGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUpOwoJCQkvLyBsZXQgX2Zvcm1EYXRhID0gSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKTsKCQkJaWYgKGFuZ3VsYXIuZXF1YWxzKGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUsICRzY29wZS5mb3JtRGF0YSkpIHsKCQkJCWNvbnNvbGUubG9nKCdTYXZlZCBmb3JtIHN0YXRlOiBcbicgKyBKU09OLnN0cmluZ2lmeShmb3JtRGF0YVN1cGVyc2VkZVN0YXRlKSk7CgkJCQljb25zb2xlLmxvZygnZm9ybTogXG4nICsgSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKSk7CgkJCQlkaXNwbGF5Rm9ybUVycm9yKCRmaWx0ZXIoJ2kxOG4nKSgnRG9jLlN1cGVyc2VkZURvY3VtZW50Lk5vQ2hhbmdlJyksICd3YXJuaW5nJyk7CgkJCX0gZWxzZSB7CgkJCQljb25zb2xlLmxvZygnT3JpZ2luYWw6IFxuJyArIEpTT04uc3RyaW5naWZ5KGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUpKTsKCQkJCWNvbnNvbGUubG9nKCdTdXBlcnNlZGVkOiBcbicgKyBKU09OLnN0cmluZ2lmeSgkc2NvcGUuZm9ybURhdGEpKTsKCQkJfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkkc2NvcGUudGVzdHNhdmUgPSAoKSA9PiB7CgkJCS8vIGxldCBfZm9ybURhdGFTdXBlcnNlZGVTdGF0ZSA9IEpTT04uc3RyaW5naWZ5KGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUpOwoJCQkvLyBsZXQgX2Zvcm1EYXRhID0gSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKTsKCQkJaWYgKGFuZ3VsYXIuZXF1YWxzKGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUsICRzY29wZS5mb3JtRGF0YSkpIHsKCQkJCWNvbnNvbGUubG9nKCdTYXZlZCBmb3JtIHN0YXRlOiBcbicgKyBKU09OLnN0cmluZ2lmeShmb3JtRGF0YVN1cGVyc2VkZVN0YXRlKSk7CgkJCQljb25zb2xlLmxvZygnZm9ybTogXG4nICsgSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKSk7CgkJCQlkaXNwbGF5Rm9ybUVycm9yKCRmaWx0ZXIoJ2kxOG4nKSgnRG9jLlN1cGVyc2VkZURvY3VtZW50Lk5vQ2hhbmdlJyksICd3YXJuaW5nJyk7CgkJCX0gZWxzZSB7CgkJCQljb25zb2xlLmxvZygnT3JpZ2luYWw6IFxuJyArIEpTT04uc3RyaW5naWZ5KGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUpKTsKCQkJCWNvbnNvbGUubG9nKCdTdXBlcnNlZGVkOiBcbicgKyBKU09OLnN0cmluZ2lmeSgkc2NvcGUuZm9ybURhdGEpKTsKCQkJfQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>.then(function (response) {
+					$window.location.href = FROM_PAGE;
+				}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlzdXBlcnNlZGVkRm9ybURhdGFbJ2NvbmZpZGVudGlhbGl0eSddID0gc3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eTsK</text>
+        <text encoding="base64">CQkJCQlyZXR1cm4gcmVzcG9uc2UuZGF0YTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlvcmlnaW5hbEZvcm1EYXRhWydjb25maWRlbnRpYWxpdHknXSA9IG9yaWdpbmFsQ29uZmlkZW50aWFsaXR5Owo=</text>
+        <text encoding="base64">CQkJJHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gJHNjb3BlLmZyb21QYWdlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXN1cGVyc2VkZWRGb3JtRGF0YVsnY29uZmlkZW50aWFsaXR5J10gPSB1bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCW9yaWdpbmFsRm9ybURhdGFbJ2NvbmZpZGVudGlhbGl0eSddID0gdW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2VFbnRpdHk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
