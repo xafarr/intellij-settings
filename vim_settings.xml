@@ -31,12 +31,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562306633480">
         <mark key="[" line="81" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562371963977">
-        <mark key="'" line="21" column="107" />
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="33" column="49" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="33" column="49" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562380017483">
+        <mark key="'" line="33" column="48" />
+        <mark key="[" line="6" column="126" />
+        <mark key="]" line="6" column="127" />
+        <mark key="^" line="6" column="127" />
+        <mark key="." line="6" column="127" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/WEB-INF/spring/controllersApp.xml" timestamp="1562308689631">
         <mark key="[" line="388" column="42" />
@@ -159,12 +159,12 @@
         <mark key="." line="40" column="32" />
         <mark key="^" line="40" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562376520524">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562380183490">
         <mark key="'" line="22" column="14" />
-        <mark key="[" line="46" column="57" />
-        <mark key="]" line="48" column="43" />
-        <mark key="^" line="48" column="43" />
-        <mark key="." line="48" column="43" />
+        <mark key="[" line="93" column="16" />
+        <mark key="]" line="93" column="12" />
+        <mark key="^" line="93" column="12" />
+        <mark key="." line="93" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/ControlledDocEdit.jsp" timestamp="1562370477994">
         <mark key="'" line="61" column="24" />
@@ -179,11 +179,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562316137994">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562379769115">
         <mark key="'" line="6" column="52" />
-        <mark key="[" line="11" column="72" />
-        <mark key="]" line="11" column="46" />
-        <mark key="." line="11" column="46" />
+        <mark key="[" line="59" column="13" />
+        <mark key="]" line="58" column="28" />
+        <mark key="." line="58" column="28" />
+        <mark key="^" line="58" column="28" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1562025915463">
         <mark key="'" line="0" column="0" />
@@ -223,7 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2342" column="42" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="2404" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
@@ -323,6 +323,7 @@
       <jump line="72" column="95" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
       <jump line="94" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
       <jump line="90" column="4" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" />
+      <jump line="33" column="48" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -370,43 +371,43 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>document.getExistingFileId()</text>
+        <text>save()</text>
       </register>
       <register name="/" type="4">
         <text>confident</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZURvY3VtZW50Q29uZmlkZW50aWFsaXR5U2VydmljZS5zYXZlQ29uZmlkZW50aWFsQ2hhbmdlcyhzdXBlcmNlZGVDRG9jLCBjRG9jLCB1c2VyLmdldFVzZXJJZCgpKTsK</text>
+        <text encoding="base64">CQkJaWYgKGFuZ3VsYXIuZXF1YWxzKGZvcm1EYXRhU3VwZXJzZWRlU3RhdGUsICRzY29wZS5mb3JtRGF0YSkpIHsKCQkJCWNvbnNvbGUubG9nKCdTYXZlZCBmb3JtIHN0YXRlOiBcbicgKyBKU09OLnN0cmluZ2lmeShmb3JtRGF0YVN1cGVyc2VkZVN0YXRlKSk7CgkJCQljb25zb2xlLmxvZygnZm9ybTogXG4nICsgSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKSk7CgkJCQlkaXNwbGF5Rm9ybUVycm9yKCRmaWx0ZXIoJ2kxOG4nKSgnRG9jLlN1cGVyc2VkZURvY3VtZW50Lk5vQ2hhbmdlJyksICd3YXJuaW5nJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdTYXZlZCBmb3JtIHN0YXRlOiBcbicgKyBKU09OLnN0cmluZ2lmeShmb3JtRGF0YVN1cGVyc2VkZVN0YXRlKSk7CgkJCQljb25zb2xlLmxvZygnZm9ybTogXG4nICsgSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKSk7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>{
 							filename: field.config.value.fileName,
 							uploadId: ''
 						}</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQlsZXQgZmlsZVVybCA9ICcvQ29ycmVzcG9uZGVuY2U/QUNUSU9OPTAmUGVybWFuZW50RmlsZV9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5maWxlSWQgKyAnJlJFQVNPTj0zJkNvbnRyb2xsZWREb2N1bWVudF9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5kb2NJZDsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQlsZXQgb3JpZ2luYWxGaWxlRGF0YSA9IHt9OyAvLyBUbyBwcmVzZXJ2ZSBzdGF0ZSBmb3Igc3VwZXJzZWRpbmcKCQlsZXQgZmlsZVVybCA9ICcvQ29ycmVzcG9uZGVuY2U/QUNUSU9OPTAmUGVybWFuZW50RmlsZV9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5maWxlSWQgKyAnJlJFQVNPTj0zJkNvbnRyb2xsZWREb2N1bWVudF9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5kb2NJZDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCQkJZmllbGQuY29uZmlnLnZhbHVlLmRvY0lkID0gU3VwZXJzZWRlRm9ybVNlcnZpY2UuZ2V0Q29udHJvbGxlZERvY3VtZW50SWQoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkkc2NvcGUuaW5wdXRGaWxlRGF0YSA9IHt9OwoJCQkJCSRzY29wZS5uZ01vZGVsID0ge307Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdkb2N1bWVudCBzdXBlcnNlZGVkJyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJJHNjb3BlLmlucHV0RmlsZURhdGEgPSB7fTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">CQkJJHNjb3BlLmlucHV0RmlsZURhdGEgPSB7fTsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -419,7 +420,7 @@
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
