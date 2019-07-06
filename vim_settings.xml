@@ -28,6 +28,9 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/doccontrol/DocumentsControllerTest.java" timestamp="1562389243102">
+        <mark key="[" line="73" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562306633480">
         <mark key="[" line="81" column="64" />
       </file>
@@ -167,11 +170,7 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/includes/js/dynamic/Lookup.jsp" timestamp="1562196212468">
         <mark key="'" line="100" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562389167287">
-        <mark key="'" line="96" column="4" />
-        <mark key="[" line="85" column="16" />
-        <mark key="]" line="85" column="54" />
-      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562389820468" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562286228393">
         <mark key="'" line="16" column="20" />
         <mark key="[" line="19" column="44" />
@@ -251,7 +250,7 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" timestamp="1562387237046" />
-      <file name="/fragment.java" timestamp="1562376123500">
+      <file name="/fragment.java" timestamp="1562389218944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -264,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2404" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
       <jump line="2394" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
       <jump line="2384" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
       <jump line="2380" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
@@ -364,39 +362,15 @@
       <jump line="33" column="48" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" />
       <jump line="15" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
       <jump line="97" column="100" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="54" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <keys>
-          <key char="94" code="0" mods="0" />
           <key char="102" code="0" mods="0" />
-          <key char="61" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
           <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="46" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="120" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="110" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="40" code="0" mods="0" />
-          <key char="116" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="117" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="123" code="0" mods="0" />
-          <key char="125" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="108" code="0" mods="0" />
-          <key char="114" code="0" mods="0" />
-          <key char="44" code="0" mods="0" />
-          <key char="36" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
@@ -410,61 +384,57 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>cDoc</text>
       </register>
       <register name="/" type="4">
-        <text>scale</text>
+        <text encoding="base64">XDxSZXF1ZXN0Qm9keVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>confidentiality</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEb2N1bWVudFVzZXJEdG8gdXNlciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb250cm9sbGVkRG9jdW1lbnQgY29udHJvbGxlZERvY3VtZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlzdXBlcnNlZGVkRm9ybURhdGFbJ2NvbmZpZGVudGlhbGl0eSddID0gc3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzcG9uc2VFbnRpdHk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlvcmlnaW5hbEZvcm1EYXRhWydjb25maWRlbnRpYWxpdHknXSA9IG9yaWdpbmFsQ29uZmlkZW50aWFsaXR5Owo=</text>
+        <text encoding="base64">ICAgICAgICBDb250cm9sbGVkRG9jdW1lbnQgY29udHJvbGxlZERvY3VtZW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCXN1cGVyc2VkZWRGb3JtRGF0YVsnY29uZmlkZW50aWFsaXR5J10gPSB1bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">CQkJCQlzdXBlcnNlZGVkRm9ybURhdGFbJ2NvbmZpZGVudGlhbGl0eSddID0gc3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQkJCQlvcmlnaW5hbEZvcm1EYXRhWydjb25maWRlbnRpYWxpdHknXSA9IG9yaWdpbmFsQ29uZmlkZW50aWFsaXR5Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCXN1cGVyc2VkZWRGb3JtRGF0YVsnY29uZmlkZW50aWFsaXR5J10gPSB1bmRlZmluZWQ7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CQkJCW9yaWdpbmFsRm9ybURhdGFbJ2NvbmZpZGVudGlhbGl0eSddID0gdW5kZWZpbmVkOwo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text>let originalConfidentiality = o
 let supersededConfidentiality =</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdTYXZlZCBmb3JtIHN0YXRlOiBcbicgKyBKU09OLnN0cmluZ2lmeShmb3JtRGF0YVN1cGVyc2VkZVN0YXRlKSk7CgkJCQljb25zb2xlLmxvZygnZm9ybTogXG4nICsgSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKSk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-							filename: field.config.value.fileName,
-							uploadId: ''
-						}</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsZXQgZmlsZVVybCA9ICcvQ29ycmVzcG9uZGVuY2U/QUNUSU9OPTAmUGVybWFuZW50RmlsZV9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5maWxlSWQgKyAnJlJFQVNPTj0zJkNvbnRyb2xsZWREb2N1bWVudF9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5kb2NJZDsK</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdTYXZlZCBmb3JtIHN0YXRlOiBcbicgKyBKU09OLnN0cmluZ2lmeShmb3JtRGF0YVN1cGVyc2VkZVN0YXRlKSk7CgkJCQljb25zb2xlLmxvZygnZm9ybTogXG4nICsgSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
       </register>
     </registers>
     <search>
-      <last-search>scale</last-search>
+      <last-search encoding="base64">XDxSZXF1ZXN0Qm9keVw+</last-search>
       <last-offset />
-      <last-pattern>scale</last-pattern>
+      <last-pattern encoding="base64">XDxSZXF1ZXN0Qm9keVw+</last-pattern>
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Edit</entry>
         <entry>displayFormError</entry>
         <entry>parentCDID</entry>
         <entry>docid</entry>
@@ -484,6 +454,7 @@ let supersededConfidentiality =</text>
         <entry>ratio</entry>
         <entry>sca</entry>
         <entry>scale</entry>
+        <entry encoding="base64">XDxSZXF1ZXN0Qm9keVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/upload/supersede/g</entry>
