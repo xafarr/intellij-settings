@@ -14,12 +14,12 @@
         <mark key="[" line="567" column="0" />
         <mark key="]" line="567" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562385029739">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562389050528">
         <mark key="'" line="97" column="100" />
-        <mark key="[" line="97" column="85" />
-        <mark key="]" line="97" column="85" />
-        <mark key="^" line="97" column="84" />
-        <mark key="." line="97" column="85" />
+        <mark key="[" line="60" column="1" />
+        <mark key="]" line="60" column="42" />
+        <mark key="^" line="60" column="11" />
+        <mark key="." line="60" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" timestamp="1562385007585">
         <mark key="'" line="15" column="19" />
@@ -167,12 +167,10 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/includes/js/dynamic/Lookup.jsp" timestamp="1562196212468">
         <mark key="'" line="100" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562379401858">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="90" column="5" />
-        <mark key="]" line="90" column="46" />
-        <mark key="^" line="90" column="46" />
-        <mark key="." line="90" column="46" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562389167287">
+        <mark key="'" line="96" column="4" />
+        <mark key="[" line="85" column="16" />
+        <mark key="]" line="85" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562286228393">
         <mark key="'" line="16" column="20" />
@@ -421,38 +419,38 @@
         <text>confidentiality</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQlzdXBlcnNlZGVkRm9ybURhdGFbJ2NvbmZpZGVudGlhbGl0eSddID0gc3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eTsK</text>
+        <text encoding="base64">ICAgICAgICBDb250cm9sbGVkRG9jdW1lbnQgY29udHJvbGxlZERvY3VtZW50Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlvcmlnaW5hbEZvcm1EYXRhWydjb25maWRlbnRpYWxpdHknXSA9IG9yaWdpbmFsQ29uZmlkZW50aWFsaXR5Owo=</text>
+        <text encoding="base64">CQkJCQlzdXBlcnNlZGVkRm9ybURhdGFbJ2NvbmZpZGVudGlhbGl0eSddID0gc3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXN1cGVyc2VkZWRGb3JtRGF0YVsnY29uZmlkZW50aWFsaXR5J10gPSB1bmRlZmluZWQ7Cg==</text>
+        <text encoding="base64">CQkJCQlvcmlnaW5hbEZvcm1EYXRhWydjb25maWRlbnRpYWxpdHknXSA9IG9yaWdpbmFsQ29uZmlkZW50aWFsaXR5Owo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQkJCXN1cGVyc2VkZWRGb3JtRGF0YVsnY29uZmlkZW50aWFsaXR5J10gPSB1bmRlZmluZWQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJCW9yaWdpbmFsRm9ybURhdGFbJ2NvbmZpZGVudGlhbGl0eSddID0gdW5kZWZpbmVkOwo=</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>let originalConfidentiality = o
 let supersededConfidentiality =</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdTYXZlZCBmb3JtIHN0YXRlOiBcbicgKyBKU09OLnN0cmluZ2lmeShmb3JtRGF0YVN1cGVyc2VkZVN0YXRlKSk7CgkJCQljb25zb2xlLmxvZygnZm9ybTogXG4nICsgSlNPTi5zdHJpbmdpZnkoJHNjb3BlLmZvcm1EYXRhKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
 							filename: field.config.value.fileName,
 							uploadId: ''
 						}</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">CQlsZXQgZmlsZVVybCA9ICcvQ29ycmVzcG9uZGVuY2U/QUNUSU9OPTAmUGVybWFuZW50RmlsZV9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5maWxlSWQgKyAnJlJFQVNPTj0zJkNvbnRyb2xsZWREb2N1bWVudF9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5kb2NJZDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQlsZXQgb3JpZ2luYWxGaWxlRGF0YSA9IHt9OyAvLyBUbyBwcmVzZXJ2ZSBzdGF0ZSBmb3Igc3VwZXJzZWRpbmcKCQlsZXQgZmlsZVVybCA9ICcvQ29ycmVzcG9uZGVuY2U/QUNUSU9OPTAmUGVybWFuZW50RmlsZV9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5maWxlSWQgKyAnJlJFQVNPTj0zJkNvbnRyb2xsZWREb2N1bWVudF9JRD0nICsgJHNjb3BlLmZpZWxkLmNvbmZpZy52YWx1ZS5kb2NJZDsK</text>
-      </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>m .-2</text>
       </register>
     </registers>
     <search>
@@ -505,9 +503,9 @@ let supersededConfidentiality =</text>
         <entry>m .+1</entry>
         <entry>w</entry>
         <entry>reg</entry>
-        <entry>m .-2</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
+        <entry>m .-2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
