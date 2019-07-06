@@ -10,10 +10,6 @@
         <mark key="^" line="101" column="19" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" timestamp="1562379246685">
-        <mark key="[" line="567" column="0" />
-        <mark key="]" line="567" column="116" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562389050528">
         <mark key="'" line="97" column="100" />
         <mark key="[" line="60" column="1" />
@@ -45,11 +41,10 @@
       <file name="$MAVEN_REPOSITORY$/com/aconex/matchers/0.9.2700/matchers-0.9.2700.jar!/com/aconex/matchers/IsMappedToMatcher.class" timestamp="1562419885114">
         <mark key="'" line="48" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562417565258">
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="^" line="146" column="17" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562420730136">
+        <mark key="[" line="115" column="27" />
+        <mark key="]" line="115" column="27" />
+        <mark key="." line="115" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/lookup/search/LookupSearchScope.java" timestamp="1562286005106">
         <mark key="[" line="4" column="1" />
@@ -70,15 +65,10 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/resourcePathService/resourcePathService.js" timestamp="1562283046049">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562417488675">
-        <mark key="'" line="74" column="99" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562421294310">
+        <mark key="[" line="83" column="122" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/confidentialityField/confidentialityField.js" timestamp="1562384641542">
         <mark key="[" line="33" column="75" />
@@ -86,11 +76,11 @@
         <mark key="." line="20" column="12" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562369751952">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="4" />
-        <mark key="^" line="52" column="109" />
-        <mark key="." line="41" column="4" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormService.java" timestamp="1562420871194">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="15" />
+        <mark key="." line="40" column="15" />
+        <mark key="^" line="40" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1562115577561">
         <mark key="'" line="7" column="88" />
@@ -164,10 +154,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocNew_en.properties" timestamp="1562370720214">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562286228393">
         <mark key="'" line="16" column="20" />
         <mark key="[" line="19" column="44" />
@@ -197,10 +183,6 @@
         <mark key="'" line="0" column="16" />
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormDto.java" timestamp="1562287367405">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/ControlledDocBO.java" timestamp="1562393482236" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562394610672">
@@ -370,7 +352,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>) {</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
@@ -379,34 +361,34 @@
         <text>/confidentialusers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERvY3VtZW50Rm9ybUR0byhjb250cm9sbGVkRG9jRWRpdFBhZ2UuZ2V0RmllbGRzKCksIGNvbnRyb2xsZWREb2NFZGl0UGFnZS5nZXREb2N1bWVudFR5cGVJZHNXaXRoU2NoZW1lKCksIHByb2plY3RGaWVsZHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGRvY3VtZW50Rm9ybVNlcnZpY2UuZ2V0RG9jdW1lbnRGb3JtRm9yKFBST0pFQ1RfSUQsIERFRkFVTFRfRE9DVU1FTlRfVFlQRV9JRCwgdGV4dENvbnRleHQsIFJlZ2lzdGVyVHlwZS5ET0MpKS50aGVuUmV0dXJuKGRvY3VtZW50Rm9ybUR0byk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250cm9sbGVkRG9jRWRpdFBhZ2UgY29udHJvbGxlZERvY0VkaXRQYWdlID0gZ2V0Q29udHJvbGxlZERvY0VkaXRQYWdlRm9yKHByb2plY3RJZCwgdGV4dENvbnRleHQsIHJlZ2lzdGVyVHlwZSwgZG9jdW1lbnRUeXBlSWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBQcm9qZWN0Qk8gcHJvamVjdEJPLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGRvY3VtZW50Rm9ybVNlcnZpY2UuZ2V0RG9jdW1lbnRGb3JtRm9yKFBST0pFQ1RfSUQsIERPQ1VNRU5UX1RZUEVfSUQsIHRleHRDb250ZXh0LCBSZWdpc3RlclR5cGUuRE9DKSkudGhlblJldHVybihkb2N1bWVudEZvcm1EdG8pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUHJvamVjdEJPIHByb2plY3RCTzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX0RPQ1VNRU5UX1RZUEVfSUQgPSAwOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRG9jdW1lbnROdW1iZXJTY2hlbWVTZXJ2aWNlIGRvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNob3VsZFJldHVybkRvY3VtZW50Rm9ybUZvckRvY3VtZW50VHlwZSgpIHsKCiAgICAgICAgQ29udHJvbGxlZERvY0VkaXRQYWdlIGNvbnRyb2xsZWREb2NFZGl0UGFnZSA9IGRvY3VtZW50U3VwZXJzZWRlQ29udHJvbGxlci5nZXREb2N1bWVudFN1cGVyc2VkZUZvcm1Gb3IoUFJPSkVDVF9JRCwgRE9DVU1FTlRfSUQsIHRleHRDb250ZXh0KTsKCi8vICAgICAgICBhc3NlcnRUaGF0KHJlc3VsdCwgZXF1YWxUbygpKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2UgZG9jQWNjZXNzUHJvcGVydGllc1NlcnZpY2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGRvY3VtZW50Rm9ybVNlcnZpY2UuZ2V0RG9kY3VtZW50Rm9ybUZvcihQUk9KRUNUX0lELCBET0NVTUVOVF9UWVBFX0lELCB0ZXh0Q29udGV4dCwgUmVnaXN0ZXJUeXBlLkRPQykpLnRoZW5SZXR1cm4oZG9jdW1lbnRGb3JtRHRvKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2plY3RCTywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYWNvbmV4LmRvY3VtZW50c3VwZXJzZWRlOwoKaW1wb3J0IHN0YXRpYyBvcmcudGVzdG5nLkFzc2VydC4qOwoKcHVibGljIGNsYXNzIERvY3VtZW50U3VwZXJzZWRlQ29udHJvbGxlclRlc3QgewoKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdoZW4oaHR0cFNlcnZsZXRSZXF1ZXN0LmdldFNlc3Npb24oKSkudGhlblJldHVybihodHRwU2Vzc2lvbik7Ci8vICAgICAgICB3aGVuKGh0dHBTZXNzaW9uLmdldEF0dHJpYnV0ZShQcm9qZWN0U2VsZWN0b3JDb250cm9sLlNTX1BST0pFQ1RfTElTVCkpLnRoZW5SZXR1cm4oc2Vzc2lvblByb2plY3RMaXN0KTsKLy8gICAgICAgIFNlc3Npb25GZWF0dXJlU2V0dGluZ3Mgc2Vzc2lvbkZlYXR1cmVTZXR0aW5ncyA9IHN0dWIoU2Vzc2lvbkZlYXR1cmVTZXR0aW5ncy5jbGFzcyk7Ci8vICAgICAgICB3aGVuKHNlc3Npb25Qcm9qZWN0TGlzdC5nZXRTZXNzaW9uRmVhdHVyZVNldHRpbmdzKCkpLnRoZW5SZXR1cm4oc2Vzc2lvbkZlYXR1cmVTZXR0aW5ncyk7Ci8vICAgICAgICB3aGVuKHNlc3Npb25GZWF0dXJlU2V0dGluZ3MuZ2V0QWN0aXZlUmVnaXN0ZXIoKSkudGhlblJldHVybihSZWdpc3RlclR5cGUuRE9DKTsKLy8gICAgICAgIHdoZW4oc2Vzc2lvblByb2plY3RMaXN0LmdldEFjdGl2ZVByb2plY3RzKCkpLnRoZW5SZXR1cm4oQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChsaWdodHdlaWdodFByb2plY3QpKTsKLy8gICAgICAgIHdoZW4obGlnaHR3ZWlnaHRQcm9qZWN0LmdldFByb2plY3RJRCgpKS50aGVuUmV0dXJuKFBST0pFQ1RfSUQpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGRvY3VtZW50Rm9ybVNlcnZpY2UuZ2V0RG9jdW1lbnRGb3JtRm9yKFBST0pFQ1RfSUQsIERFRkFVTFRfRE9DVU1FTlRfVFlQRV9JRCwgdGV4dENvbnRleHQsIFJlZ2lzdGVyVHlwZS5ET0MpKS50aGVuUmV0dXJuKGRvY3VtZW50Rm9ybUR0byk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>m .-2</text>
       </register>
     </registers>
     <search>
@@ -458,10 +440,10 @@
         <entry>set rnu!</entry>
         <entry>w</entry>
         <entry>reg</entry>
-        <entry>m .-2</entry>
         <entry>m .+1</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
+        <entry>m .-2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
