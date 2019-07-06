@@ -10,6 +10,10 @@
         <mark key="^" line="101" column="19" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" timestamp="1562379246685">
+        <mark key="[" line="567" column="0" />
+        <mark key="]" line="567" column="116" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562376870236">
         <mark key="'" line="95" column="39" />
         <mark key="[" line="97" column="85" />
@@ -36,6 +40,10 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/WEB-INF/spring/controllersApp.xml" timestamp="1562308689631">
         <mark key="[" line="388" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/resourcePathService/resourcePathService.js" timestamp="1562283046049">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562369733134">
         <mark key="'" line="75" column="99" />
@@ -65,11 +73,6 @@
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1562314104944">
-        <mark key="'" line="187" column="20" />
-        <mark key="[" line="187" column="19" />
-        <mark key="]" line="187" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/grunt/files/base.js" timestamp="1562068162339">
         <mark key="'" line="106" column="33" />
@@ -128,12 +131,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/includes/js/dynamic/Lookup.jsp" timestamp="1562196212468">
         <mark key="'" line="100" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562374570407">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="84" column="151" />
-        <mark key="]" line="84" column="19" />
-        <mark key="^" line="84" column="19" />
-        <mark key="." line="84" column="19" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562379401858">
+        <mark key="'" line="90" column="4" />
+        <mark key="[" line="90" column="5" />
+        <mark key="]" line="90" column="46" />
+        <mark key="^" line="90" column="46" />
+        <mark key="." line="90" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562286228393">
         <mark key="'" line="16" column="20" />
@@ -168,6 +171,10 @@
       </file>
       <file name="/Dummy.txt" timestamp="1562299278642">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormDto.java" timestamp="1562287367405">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/command/GetDocMarkupsCmd.java" timestamp="1562035618165">
         <mark key="'" line="12" column="0" />
@@ -216,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2363" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="2342" column="42" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearchNew.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
@@ -316,6 +322,7 @@
       <jump line="43" column="45" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
       <jump line="72" column="95" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
       <jump line="94" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="90" column="4" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -366,10 +373,10 @@
         <text>document.getExistingFileId()</text>
       </register>
       <register name="/" type="4">
-        <text>existingFile</text>
+        <text>confident</text>
       </register>
-      <register name="0" type="4">
-        <text>existingFileId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZGF0ZURvY3VtZW50Q29uZmlkZW50aWFsaXR5U2VydmljZS5zYXZlQ29uZmlkZW50aWFsQ2hhbmdlcyhzdXBlcmNlZGVDRG9jLCBjRG9jLCB1c2VyLmdldFVzZXJJZCgpKTsK</text>
       </register>
       <register name="1" type="4">
         <text>{
@@ -406,17 +413,16 @@
       </register>
     </registers>
     <search>
-      <last-search>existingFile</last-search>
+      <last-search>confident</last-search>
       <last-offset />
-      <last-pattern>existingFile</last-pattern>
+      <last-pattern>confident</last-pattern>
       <last-replace>SupersedeFormService</last-replace>
       <last-substitute>UploadFormService</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>group</entry>
         <entry>config</entry>
         <entry encoding="base64">XDxtb2RlbFVwZGF0ZWRcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RlZFVzZXJJZHNcPg==</entry>
@@ -436,6 +442,7 @@
         <entry encoding="base64">XDxGaWxlRGF0YVw+</entry>
         <entry encoding="base64">XDxmaWxlRGF0YVw+</entry>
         <entry>existingFile</entry>
+        <entry>confident</entry>
       </history-search>
       <history-cmd>
         <entry>%s/upload/supersede/g</entry>
