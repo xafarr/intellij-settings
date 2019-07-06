@@ -170,7 +170,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/includes/js/dynamic/Lookup.jsp" timestamp="1562196212468">
         <mark key="'" line="100" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562389820468" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562390599655">
+        <mark key="[" line="81" column="58" />
+        <mark key="]" line="81" column="75" />
+        <mark key="." line="81" column="65" />
+        <mark key="^" line="81" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562286228393">
         <mark key="'" line="16" column="20" />
         <mark key="[" line="19" column="44" />
@@ -389,8 +394,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0Qm9keVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBEb2N1bWVudFVzZXJEdG8gdXNlciwK</text>
+      <register name="0" type="4">
+        <text>updateConfidential</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
