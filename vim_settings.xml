@@ -128,12 +128,12 @@
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" timestamp="1562462368300">
-        <mark key="'" line="133" column="81" />
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="10" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" timestamp="1562463838265">
+        <mark key="'" line="134" column="81" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="68" />
+        <mark key="^" line="136" column="10" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/confidentialityField/confidentialityField.js" timestamp="1562384641542">
         <mark key="[" line="33" column="75" />
@@ -438,7 +438,7 @@
         <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdPbmx5IGNvbmZpZGVudGlhbGl0eSB1cGRhdGVkJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>m .-2</text>
       </register>
     </registers>
     <search>
@@ -484,7 +484,6 @@
         <entry>w</entry>
         <entry>reg</entry>
         <entry>m .+1</entry>
-        <entry>m .-2</entry>
         <entry>%s/UploadForm/SupersedeForm/g</entry>
         <entry>%s/uploadForm/supersedeForm/g</entry>
         <entry>%s/upload/supersede/g</entry>
@@ -494,6 +493,7 @@
         <entry>15,18s/&quot;//g</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
+        <entry>m .-2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
