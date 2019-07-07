@@ -61,10 +61,11 @@
       <file name="$MAVEN_REPOSITORY$/com/aconex/matchers/0.9.2700/matchers-0.9.2700.jar!/com/aconex/matchers/IsMappedToMatcher.class" timestamp="1562419885114">
         <mark key="'" line="48" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/services/UploadFormServiceSpec.js" timestamp="1562450894313">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/services/UploadFormServiceSpec.js" timestamp="1562499653196">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="128" column="16" />
+        <mark key="[" line="22" column="66" />
+        <mark key="]" line="22" column="66" />
+        <mark key="." line="22" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562420730136">
         <mark key="[" line="115" column="27" />
@@ -186,12 +187,12 @@
         <mark key="[" line="1" column="38" />
         <mark key="]" line="1" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormServiceSpec.js" timestamp="1562498776596">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormServiceSpec.js" timestamp="1562499482005">
         <mark key="'" line="76" column="16" />
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="28" column="85" />
-        <mark key="^" line="28" column="85" />
-        <mark key="." line="28" column="85" />
+        <mark key="[" line="52" column="93" />
+        <mark key="]" line="52" column="93" />
+        <mark key="^" line="52" column="98" />
+        <mark key="." line="52" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentsupersede/DocumentSupersedeControllerTest.java" timestamp="1562419602415">
         <mark key="[" line="63" column="56" />
@@ -405,7 +406,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>documentId</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>upload</text>
@@ -441,7 +442,7 @@
         <text encoding="base64">CQkJCWlmICghaXNOZXdEb2N1bWVudCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>set rnu!</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
@@ -451,7 +452,7 @@
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -493,10 +494,10 @@
         <entry>set hls!</entry>
         <entry>set hls?</entry>
         <entry>15,18s/&quot;//g</entry>
-        <entry>let @/=''</entry>
-        <entry>noh</entry>
         <entry>m .-2</entry>
         <entry>set rnu!</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
