@@ -128,12 +128,12 @@
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" timestamp="1562466417170">
-        <mark key="'" line="133" column="81" />
-        <mark key="[" line="126" column="68" />
-        <mark key="]" line="126" column="23" />
-        <mark key="^" line="126" column="23" />
-        <mark key="." line="126" column="23" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" timestamp="1562473037071">
+        <mark key="'" line="43" column="45" />
+        <mark key="[" line="132" column="23" />
+        <mark key="]" line="132" column="23" />
+        <mark key="^" line="131" column="34" />
+        <mark key="." line="132" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/confidentialityField/confidentialityField.js" timestamp="1562384641542">
         <mark key="[" line="33" column="75" />
@@ -268,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="615" column="54" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/controllers/ViewDocumentController.js" />
       <jump line="597" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/controllers/ViewDocumentController.js" />
       <jump line="386" column="57" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/services/documentRetrieval/documentRetrieval.js" />
       <jump line="246" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/services/documentRetrieval/documentRetrieval.js" />
@@ -368,6 +367,7 @@
       <jump line="14" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" />
       <jump line="82" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" />
       <jump line="133" column="81" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" />
+      <jump line="39" column="45" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -396,7 +396,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>scope</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -405,37 +405,31 @@
         <text encoding="base64">CQkJCWV4cGVjdChpc29sYXRlU2NvcGUuaW5wdXRGaWxlLm5hbWUpLnRvQmUoc3VwZXJzZWRpbmdGaWxlRGV0YWlscy5maWxlTmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXRpbWVvdXQuZmx1c2goKTsK</text>
+        <text encoding="base64">CQkJCW1vY2tGaWVsZERhdGEuY29uZmlnLnZhbHVlID0gc3VwZXJzZWRpbmdGaWxlRGV0YWlsczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXVpQ3VzdG9tRmlsZUZpZWxkLnRyaWdnZXJIYW5kbGVyKCdkcmFnb3ZlcicpOwo=</text>
+        <text encoding="base64">CQkJdmFyIHVpQ3VzdG9tRmlsZUZpZWxkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWlzTmV3RG9jID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJCXVpQ3VzdG9tRmlsZUZpZWxkID0gZWxlbWVudC5maW5kKCcudWlDdXN0b21GaWxlRmllbGQnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQl2YXIgaXNOZXdEb2MgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQl2YXIgb3JpZ2luYWxGaWxlRGF0YTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlpZiAoIWlzTmV3RG9jKSB7Cg==</text>
+        <text encoding="base64">CQkJCWlzb3RlU2NvcGUuaW5wdXRGaWxlID0ge307Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>&quot;
-&quot;
-&quot;
-&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCXRpbWVvdXQuZmx1c2goKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-					fileId: 'fileId',
-
-				}</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCXVpQ3VzdG9tRmlsZUZpZWxkLnRyaWdnZXJIYW5kbGVyKCdkcmFnb3ZlcicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCdPbmx5IGNvbmZpZGVudGlhbGl0eSB1cGRhdGVkJyk7Cg==</text>
+        <text encoding="base64">CQkJCWlzTmV3RG9jID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>m .-2</text>
