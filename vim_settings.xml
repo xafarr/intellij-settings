@@ -128,12 +128,12 @@
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" timestamp="1562473037071">
-        <mark key="'" line="43" column="45" />
-        <mark key="[" line="132" column="23" />
-        <mark key="]" line="132" column="23" />
-        <mark key="^" line="131" column="34" />
-        <mark key="." line="132" column="26" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" timestamp="1562476858141">
+        <mark key="'" line="32" column="45" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="120" column="27" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/confidentialityField/confidentialityField.js" timestamp="1562384641542">
         <mark key="[" line="33" column="75" />
@@ -396,57 +396,56 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>scope</text>
+        <text>isolateScope</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>superseding</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWV4cGVjdChpc29sYXRlU2NvcGUuaW5wdXRGaWxlLm5hbWUpLnRvQmUoc3VwZXJzZWRpbmdGaWxlRGV0YWlscy5maWxlTmFtZSk7Cg==</text>
+        <text encoding="base64">CQkJZmlsZUlkOiAnMTIzNDU2JywKCQkJZmlsZU5hbWU6ICd0ZXN0ZmlsZS5wbmcnLAoJCQlmaWxlU2l6ZTogJzUwIEtCJywKCQkJZmlsZVR5cGU6ICdwbmcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCW1vY2tGaWVsZERhdGEuY29uZmlnLnZhbHVlID0gc3VwZXJzZWRpbmdGaWxlRGV0YWlsczsK</text>
+        <text encoding="base64">CQkJCWlzb2xhdGVTY29wZS5pbnB1dEZpbGUgPSB7fTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdmFyIHVpQ3VzdG9tRmlsZUZpZWxkOwo=</text>
+        <text encoding="base64">CQkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXVpQ3VzdG9tRmlsZUZpZWxkID0gZWxlbWVudC5maW5kKCcudWlDdXN0b21GaWxlRmllbGQnKTsK</text>
+        <text encoding="base64">CQkJCQltb2NrRmllbGREYXRhLmNvbmZpZy52YWx1ZSA9IHN1cGVyc2VkaW5nRmlsZURldGFpbHM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXIgaXNOZXdEb2MgPSB0cnVlOwo=</text>
+        <text encoding="base64">CQkJCWlmICghaXNOZXdEb2N1bWVudCkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YXIgb3JpZ2luYWxGaWxlRGF0YTsK</text>
+        <text encoding="base64">CQl2YXIgc3VwZXJzZWRpbmdGaWxlRGV0YWlscyA9IHsKCQkJZmlsZUlkOiAnMTIzNDU2JywKCQkJZmlsZU5hbWU6ICd0ZXN0ZmlsZS5wbmcnLAoJCQlmaWxlU2l6ZTogJzUwIEtCJywKCQkJZmlsZVR5cGU6ICdwbmcnCgkJfTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWlzb3RlU2NvcGUuaW5wdXRGaWxlID0ge307Cg==</text>
+        <text encoding="base64">CQkJCQlmaWxlSWQ6IG51bGwsCgkJCQkJZmlsZU5hbWU6IG51bGwsCgkJCQkJZmlsZVNpemU6IG51bGwsCgkJCQkJZmlsZVR5cGU6IG51bGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXRpbWVvdXQuZmx1c2goKTsK</text>
+        <text encoding="base64">CQkJCW1vY2tGaWVsZERhdGEuY29uZmlnLnZhbHVlID0gc3VwZXJzZWRpbmdGaWxlRGV0YWlsczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXVpQ3VzdG9tRmlsZUZpZWxkLnRyaWdnZXJIYW5kbGVyKCdkcmFnb3ZlcicpOwo=</text>
+        <text encoding="base64">CQkJdmFyIHVpQ3VzdG9tRmlsZUZpZWxkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWlzTmV3RG9jID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJCXVpQ3VzdG9tRmlsZUZpZWxkID0gZWxlbWVudC5maW5kKCcudWlDdXN0b21GaWxlRmllbGQnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>m .-2</text>
+        <text>set rnu!</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>superseding</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>superseding</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSZXF1ZXN0Qm9keVw+</entry>
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry>supersede(</entry>
         <entry>nextsteps</entry>
@@ -466,6 +465,7 @@
         <entry>Re</entry>
         <entry encoding="base64">XDwyNzEzNDE4Nzc1NDkwNzIzODZcPg==</entry>
         <entry>&quot;</entry>
+        <entry>superseding</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -483,11 +483,11 @@
         <entry>%s/upload/supersede/g</entry>
         <entry>set hls!</entry>
         <entry>set hls?</entry>
-        <entry>set rnu!</entry>
         <entry>15,18s/&quot;//g</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
         <entry>m .-2</entry>
+        <entry>set rnu!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
