@@ -168,6 +168,7 @@
         <mark key="^" line="29" column="31" />
         <mark key="." line="29" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/test/lib/angular-mocks.js" timestamp="1562537453158" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/_module.js" timestamp="1562115577561">
         <mark key="'" line="7" column="88" />
         <mark key="[" line="4" column="26" />
@@ -408,7 +409,7 @@
         <text>projectID</text>
       </register>
       <register name="/" type="4">
-        <text>upload</text>
+        <text>unit</text>
       </register>
       <register name="0" type="4">
         <text>BASE_PATH + '/documents/' + DOCUMENT_ID +</text>
@@ -445,17 +446,16 @@
       </register>
     </registers>
     <search>
-      <last-search>upload</last-search>
+      <last-search>unit</last-search>
       <last-offset />
-      <last-pattern>upload</last-pattern>
+      <last-pattern>unit</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>nextsteps</entry>
         <entry>TransmitDocument.Text</entry>
         <entry>uploadDocumentData</entry>
         <entry>path</entry>
@@ -475,6 +475,7 @@
         <entry encoding="base64">XDxwcm9qZWN0SURcPg==</entry>
         <entry encoding="base64">XDxkb2N1bWVudElkXD4=</entry>
         <entry>upload</entry>
+        <entry>unit</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
