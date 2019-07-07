@@ -128,12 +128,12 @@
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" timestamp="1562463838265">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUploadSpec.js" timestamp="1562466417170">
         <mark key="'" line="133" column="81" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="68" />
-        <mark key="^" line="135" column="10" />
-        <mark key="." line="126" column="0" />
+        <mark key="[" line="126" column="68" />
+        <mark key="]" line="126" column="23" />
+        <mark key="^" line="126" column="23" />
+        <mark key="." line="126" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/confidentialityField/confidentialityField.js" timestamp="1562384641542">
         <mark key="[" line="33" column="75" />
