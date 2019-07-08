@@ -51,7 +51,7 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="/fragment.js" timestamp="1562567201294">
+      <file name="/fragment.js" timestamp="1562575635257">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="71" />
         <mark key="." line="0" column="71" />
@@ -89,12 +89,13 @@
         <mark key="^" line="19" column="44" />
         <mark key="." line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1562572206400">
-        <mark key="b" line="478" column="71" />
-        <mark key="'" line="136" column="24" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1562578799349">
+        <mark key="b" line="471" column="71" />
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="173" column="0" />
+        <mark key="^" line="210" column="94" />
+        <mark key="." line="173" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562560083907">
         <mark key="[" line="39" column="11" />
@@ -115,12 +116,12 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562557469995">
-        <mark key="'" line="33" column="48" />
-        <mark key="[" line="7" column="56" />
-        <mark key="]" line="6" column="28" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562578649440">
+        <mark key="'" line="31" column="48" />
+        <mark key="[" line="6" column="132" />
+        <mark key="]" line="6" column="133" />
         <mark key="^" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+        <mark key="." line="6" column="133" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.js" timestamp="1562113348430">
         <mark key="[" line="5" column="28" />
@@ -137,7 +138,7 @@
         <mark key="." line="94" column="132" />
         <mark key="^" line="94" column="132" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/karma.conf.js" timestamp="1562502240863">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/karma.conf.js" timestamp="1562578863848">
         <mark key="[" line="43" column="31" />
         <mark key="]" line="43" column="39" />
         <mark key="." line="43" column="39" />
@@ -283,11 +284,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/supersede/angular.js" timestamp="1562569287724" />
     </filemarks>
     <jumps>
-      <jump line="233" column="43" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="240" column="54" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="241" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="245" column="49" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="246" column="61" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="257" column="65" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="263" column="72" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="285" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
@@ -367,7 +363,6 @@
       <jump line="225" column="50" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="231" column="57" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="360" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="15" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="379" column="53" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="29" column="80" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="141" column="53" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
@@ -383,6 +378,12 @@
       <jump line="66" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="67" column="86" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="136" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="362" column="49" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="15" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="131" column="100" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="215" column="80" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="214" column="94" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -398,49 +399,49 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>result;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc09ubHlDb25maWRlbnRpYWxpdHlDaGFuZ2VkRGVmZXJyZWRcPg==</text>
+        <text>console</text>
       </register>
       <register name="0" type="4">
-        <text>isOnlyConfidentialityChanged</text>
+        <text>btnSupersedeDocument.text</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCX0pOwo=</text>
+        <text encoding="base64">CQkJCQkJCQljb25zb2xlLmxvZygkcm9vdFNjb3BlLmlzUmVnaXN0ZXJlZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQljb25zb2xlLmxvZygkcm9vdFNjb3BlLmZvcm1EYXRhU3VwZXJzZWRlU3RhdGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXNweU9uKG1vY2tTdXBlcnNlZGVGb3JtU2VydmljZSwgJ2lzT25seUNvbmZpZGVudGlhbGl0eUNoYW5nZWQnKS5hbmQuY2FsbEZha2UoZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">CQkJCQkJCQljb25zb2xlLmxvZygkcm9vdFNjb3BlLmZvcm1EYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ0NvbmZpZyBQYXRoOiAnICsgY29uZmlnUGF0aCk7Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHN1cGVyc2VkZUJ1dHRvbi50ZXh0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ1NhdmUgRG9jdW1lbnQgUGF0aDogJyArIHNhdmVEb2N1bWVudEZpZWxkc1BhdGgpOwo=</text>
+        <text encoding="base64">CQkJCQkvLyBtb2NrU3VwZXJzZWRlRm9ybVNlcnZpY2UudXBkYXRlQ29uZmlkZW50aWFsaXR5LmNhbGxzLnJlc2V0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJHJvb3RTY29wZS5zdXBlcnNlZGVGb3JtLiR2YWxpZCk7Cg==</text>
+        <text encoding="base64">CQkJCQkvLyBtb2NrU3VwZXJzZWRlRm9ybVNlcnZpY2UuaXNPbmx5Q29uZmlkZW50aWFsaXR5Q2hhbmdlZC5jYWxscy5yZXNldCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2coJHJvb3RTY29wZS5pc1JlZ2lzdGVyZWQpOwo=</text>
+        <text encoding="base64">CQkJCQkJaXNPbmx5Q29uZmlkZW50aWFsaXR5Q2hhbmdlZERlZmVycmVkLnJlc29sdmUoZmFsc2UpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2cobW9ja1N1cGVyc2VkZUZvcm1TZXJ2aWNlLmlzT25seUNvbmZpZGVudGlhbGl0eUNoYW5nZWQoKSk7Cg==</text>
+        <text encoding="base64">CQkJCS8vIGlzT25seUNvbmZpZGVudGlhbGl0eUNoYW5nZWREZWZlcnJlZCA9ICRxLmRlZmVyKCk7Ci8qCQkJCW1vY2tTdXBlcnNlZGVGb3JtU2VydmljZS5pc09ubHlDb25maWRlbnRpYWxpdHlDaGFuZ2VkLmFuZC5jYWxsRmFrZShmdW5jdGlvbiAoKSB7CgkJCQkJcmV0dXJuIGZhbHNlOwoJCQkJfSk7Ki8K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJCQkJaXNPbmx5Q29uZmlkZW50aWFsaXR5Q2hhbmdlZERlZmVycmVkLnJlc29sdmUoZmFsc2UpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>m .-2</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc09ubHlDb25maWRlbnRpYWxpdHlDaGFuZ2VkRGVmZXJyZWRcPg==</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc09ubHlDb25maWRlbnRpYWxpdHlDaGFuZ2VkRGVmZXJyZWRcPg==</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>supersededDocumentData</last-replace>
       <last-substitute encoding="base64">XDx1cGxvYWRlZERvY3VtZW50RGF0YVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -448,8 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkaXNwbGF5Rm9ybUVycm9yXD4=</entry>
-        <entry>formData</entry>
         <entry encoding="base64">XDxnZXRDb25maWdEZWZlcnJlZFw+</entry>
         <entry>the form submission button</entry>
         <entry>hides the loader</entry>
@@ -467,7 +466,9 @@
         <entry>SUper</entry>
         <entry>Super</entry>
         <entry encoding="base64">XDxTdXBlcnNlZGVGb3JtU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxpc09ubHlDb25maWRlbnRpYWxpdHlDaGFuZ2VkXD4=</entry>
         <entry encoding="base64">XDxpc09ubHlDb25maWRlbnRpYWxpdHlDaGFuZ2VkRGVmZXJyZWRcPg==</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
@@ -481,15 +482,15 @@
         <entry>15,18s/&quot;//g</entry>
         <entry>vs</entry>
         <entry>w</entry>
-        <entry>m .+1</entry>
         <entry encoding="base64">JXMvXDx1cGxvYWRcPi9zdXBlcnNlZGUvZw==</entry>
         <entry encoding="base64">JXMvXDx1cGxvYWRGb3JtXD4vc3VwZXJzZWRlRm9ybS9n</entry>
         <entry encoding="base64">JXMvXDxtb2NrVXBsb2FkRm9ybVNlcnZpY2VcPi9tb2NrU3VwZXJzZWRlRm9ybVNlcnZpY2UvZw==</entry>
         <entry>set rnu!</entry>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
-        <entry>m .-2</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
+        <entry>m .+1</entry>
+        <entry>m .-2</entry>
       </history-cmd>
       <history-expr />
       <history-input />
