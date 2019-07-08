@@ -98,7 +98,7 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562565833201">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562566683054">
         <mark key="'" line="147" column="65" />
         <mark key="[" line="146" column="25" />
         <mark key="]" line="158" column="25" />
@@ -436,7 +436,7 @@
       <last-replace>supersededDocumentData</last-replace>
       <last-substitute encoding="base64">XDx1cGxvYWRlZERvY3VtZW50RGF0YVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
