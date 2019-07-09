@@ -28,7 +28,7 @@
         <mark key="." line="144" column="26" />
         <mark key="^" line="144" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" timestamp="1562643133652">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" timestamp="1562648829594">
         <mark key="[" line="5" column="62" />
         <mark key="]" line="5" column="62" />
         <mark key="." line="5" column="62" />
@@ -146,12 +146,8 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562646380741">
-        <mark key="'" line="30" column="71" />
-        <mark key="[" line="72" column="41" />
-        <mark key="]" line="68" column="35" />
-        <mark key="." line="68" column="35" />
-        <mark key="^" line="68" column="35" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562648653311">
+        <mark key="'" line="28" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/userContextService.js" timestamp="1562541566633">
         <mark key="[" line="9" column="39" />
@@ -318,7 +314,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>rootScope</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>documentNumber</text>
@@ -326,36 +322,32 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCWVsZW1lbnQgPSB0ZXN0LmNvbXBpbGVEaXJlY3RpdmUoJzxhY3gtZG9jdW1lbnQtbnVtYmVyLWZpZWxkIG5nLW1vZGVsPSJuZ01vZGVsLmRvY3VtZW50TnVtYmVyIi8+JywgJHJvb3RTY29wZSwgJGNvbXBpbGUpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>element.isolateScope().isCheckboxVisible = function () {
-					return true;
-				};</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJc2NvcGUuJGFwcGx5KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXZhciBzY29wZSA9ICRyb290U2NvcGUuJG5ld8KnCg==</text>
+        <text encoding="base64">CQkJdmFyIGVsZW1lbnQxID0gdGVzdC5jb21waWxlRGlyZWN0aXZlKCc8YWN4LWRvY3VtZW50LW51bWJlci1maWVsZCBuZy1tb2RlbD0ibmdNb2RlbC5kb2N1bWVudE51bWJlciIvPicsIHNjb3BlLCAkY29tcGlsZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJc2NvcGUuaXNDaGVja2JveFZpc2libGUgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCSRyb290U2NvcGUuJGRpZ2VzdCgpOwo=</text>
+        <text encoding="base64">CQkJdmFyIHNjb3BlID0gJHJvb3RTY29wZS4kbigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSRyb290U2NvcGUuYmFzaWNBb051bWJlcmluZ0VuYWJsZWQgPSB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>function() {
-					return $rootScope.basicAutoNumberingEnabled;
-				};</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSRyb290U2NvcGUuJGVtaXQoJyRzdGF0ZUNoYW5nZVN0YXJ0Jyk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewoJCQkJCQ==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlkZXNjcmliZSgnd2hlbiBiYXNpYyBhdXRvLW51bWJlcmluZyBkaXNhYmxlZCcsIGZ1bmN0aW9uICgpIHsKCQkJYmVmb3JlRWFjaChmdW5jdGlvbiAoKSB7CgkJCQkKCQkJfSk7Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">dmFyIHNjb3BlID0gJHJvb3RTY29wZS4kbmV3KCk7CgkJCQkvLyBzY29wZS5pc0NoZWNrYm94VmlzaWJsZSA9IGZhbHNlOwoJCQkJc2NvcGUuJGFwcGx5KCk7CgkJCQl2YXIgZWxlbWVudDEgPSB0ZXN0LmNvbXBpbGVEaXJlY3RpdmUoJzxhY3gtZG9jdW1lbnQtbnVtYmVyLWZpZWxkIG5nLW1vZGVsPSJuZ01vZGVsLmRvY3VtZW50TnVtYmVyIi8+Jywgc2NvcGUsICRjb21waWxlKTsKCQkJCWNvbnNvbGUubG9nKGVsZW1lbnQxKTs=</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
