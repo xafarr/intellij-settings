@@ -175,6 +175,12 @@
         <mark key="[" line="187" column="8" />
         <mark key="]" line="187" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562639239866">
+        <mark key="[" line="60" column="59" />
+        <mark key="]" line="60" column="59" />
+        <mark key="." line="60" column="59" />
+        <mark key="^" line="60" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/userContextService.js" timestamp="1562541566633">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="39" />
@@ -310,13 +316,13 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>&quot;'MANUAL'&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getAssocia</text>
       </register>
-      <register name="0" type="4">
-        <text>basicAutoNumberingEnabled</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlpdCgndmFsaWRhdGUgdGhlIG5nLWZhbHNlLXZhbHVlJywgZnVuY3Rpb24gKCkgewoJCQlleHBlY3QoY2hlY2tib3hFbGVtZW50LmF0dHIoJ25nLWZhbHNlLXZhbHVlJykpLnRvRXF1YWwoIidNQU5VQUwnIik7CgkJfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
