@@ -42,6 +42,12 @@
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562709685315">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-extapi-container/babylon-extapi/src/test/java/com/aconex/extapi/doccontrol/schema/validator/DocumentAttributeValidatorTest.java" timestamp="1562627760521">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="42" />
@@ -94,10 +100,11 @@
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562680775728">
-        <mark key="[" line="99" column="71" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562709457247">
+        <mark key="[" line="99" column="97" />
+        <mark key="]" line="99" column="96" />
+        <mark key="." line="99" column="96" />
+        <mark key="^" line="99" column="96" />
       </file>
       <file name="/Dummy.vm" timestamp="1562549530491">
         <mark key="[" line="0" column="0" />
@@ -226,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="391" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="79" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="33" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="124" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="454" column="71" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
@@ -326,6 +331,8 @@
       <jump line="114" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
       <jump line="115" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
       <jump line="436" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="109" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -344,52 +351,46 @@
         <text encoding="base64">bnVsbCwgbnVsbCwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JtRGF0YVsnZG9jaWQnXVw+</text>
+        <text>documentlock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBib29sZWFuIGRvY3VtZW50UHJvcGVydGllc0xvY2tlZCA9IGlzRG9jdW1lbnRQcm9wZXJ0aWVzTG9ja2VkKHByb2plY3RJZCk7CiAgICAgICAgaWYgKGRvY3VtZW50UHJvcGVydGllc0xvY2tlZCkgewogICAgICAgICAgICByZXR1cm4gbmV3IERvY3VtZW50Rm9ybUR0byhkb2N1bWVudFByb3BlcnRpZXNMb2NrZWQpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29uc3RydWN0b3ItYXJnIHJlZj0iZG9jdW1lbnRMb2NrQ29vcmRpbmF0b3IiLz4K</text>
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIERvY3VtZW50TG9ja0Nvb3JkaW5hdG9yIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yID0gZG9jdW1lbnRMb2NrQ29vcmRpbmF0b3I7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRG9jdW1lbnROdW1iZXJTY2hlbWVTZXJ2aWNlIGRvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZTsKICAgIEBNb2NrCiAgICBwcml2YXRlIERvY3VtZW50TG9ja0Nvb3JkaW5hdG9yIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBpc0RvY3VtZW50UHJvcGVydGllc0xvY2tlZChMb25nIHByb2plY3RJZCkgewogICAgICAgIHJldHVybiBwcm9qZWN0Qk8uYnlJZChwcm9qZWN0SWQpLmlzQ29udHJvbGxlZERvY3VtZW50UHJvcGVydGllc0xvY2tlZCgpOwogICAgfQoK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hY29uZXguZG9jY29udHJvbC5sb2NrLmJlYW4uRG9jdW1lbnRMb2NrQ29vcmRpbmF0b3I7Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">aW5hbCAKaW5hbCAKaW5hbCAKaW5hbCAKaW5hbCAKaW5hbCAKaW5hbCA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yLAo=</text>
       </register>
-      <register name="6" type="8">
-        <text>f
-f
-f
-f
-f
-f
-f</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZSwKICAgICAgICAgICAgICAgIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BlcnRpZXNMb2NrZWQgPSBwcm9wZXJ0aWVzTG9ja2VkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yLAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gc2V0IGNhbkVkaXRTdGF0dXMgYXR0cmlidXRlCi8qICAgICAgICBpZiAoZG9jdW1lbnRMb2NrQ29vcmRpbmF0b3IuaGFzTG9jayhjb250cm9sbGVkRG9jdW1lbnQsIENETG9ja1R5cGUuQVBQUk9WQUwpKSB7CiAgICAgICAgICAgICBFbnN1cmUgd2UgY2Fubm90IGVkaXQgdGhlIHN0YXR1cwogICAgICAgICAgICByZXEuc2V0QXR0cmlidXRlKERvY0NvbnRyb2xCYXNlQ29udHJvbC5fQ0FOX0VESVRfU1RBVFVTLCAiTk8iKTsKICAgICAgICB9Ki8=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8Y29uc3RydWN0b3ItYXJnIHJlZj0iZG9jdW1lbnRMb2NrQ29vcmRpbmF0b3IiLz4K</text>
       </register>
       <register name=":" type="4">
         <text>m .+1</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JtRGF0YVsnZG9jaWQnXVw+</last-search>
+      <last-search>documentlock</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JtRGF0YVsnZG9jaWQnXVw+</last-pattern>
+      <last-pattern>documentlock</last-pattern>
       <last-replace>supersededDocumentData</last-replace>
       <last-substitute encoding="base64">XDx1cGxvYWRlZERvY3VtZW50RGF0YVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +398,6 @@ f</text>
     </search>
     <history>
       <history-search>
-        <entry>SUper</entry>
         <entry>Super</entry>
         <entry encoding="base64">XDxTdXBlcnNlZGVGb3JtU2VydmljZVw+</entry>
         <entry encoding="base64">XDxpc09ubHlDb25maWRlbnRpYWxpdHlDaGFuZ2VkXD4=</entry>
@@ -417,6 +417,7 @@ f</text>
         <entry>expandable</entry>
         <entry>formData['docid']</entry>
         <entry encoding="base64">XDxmb3JtRGF0YVsnZG9jaWQnXVw+</entry>
+        <entry>documentlock</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
