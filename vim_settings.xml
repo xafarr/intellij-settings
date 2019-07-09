@@ -17,7 +17,7 @@
         <mark key="." line="179" column="70" />
         <mark key="^" line="179" column="26" />
       </file>
-      <file name="/fragment.js" timestamp="1562575635257">
+      <file name="/fragment.js" timestamp="1562652411241">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="71" />
         <mark key="." line="0" column="71" />
@@ -28,7 +28,8 @@
         <mark key="." line="144" column="26" />
         <mark key="^" line="144" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" timestamp="1562649917387">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" timestamp="1562650676237">
+        <mark key="'" line="5" column="4" />
         <mark key="[" line="5" column="62" />
         <mark key="]" line="5" column="62" />
         <mark key="." line="5" column="62" />
@@ -48,6 +49,9 @@
         <mark key="]" line="435" column="29" />
         <mark key="^" line="435" column="29" />
         <mark key="." line="435" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFields.tpl.html" timestamp="1562651487158">
+        <mark key="'" line="9" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562560083907">
         <mark key="[" line="39" column="11" />
@@ -92,6 +96,9 @@
         <mark key="]" line="43" column="39" />
         <mark key="." line="43" column="39" />
         <mark key="^" line="43" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" timestamp="1562652339082">
+        <mark key="'" line="115" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormDto.java" timestamp="1562560252874">
         <mark key="[" line="24" column="64" />
@@ -146,11 +153,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562649325281">
-        <mark key="'" line="28" column="71" />
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="28" />
-        <mark key="." line="28" column="28" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562653318798">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="67" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/userContextService.js" timestamp="1562541566633">
         <mark key="[" line="9" column="39" />
@@ -164,9 +171,9 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.js" timestamp="1562641095660">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="50" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.js" timestamp="1562652122491">
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="48" />
         <mark key="." line="23" column="38" />
         <mark key="^" line="23" column="12" />
       </file>
@@ -205,15 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="62" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="311" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="395" column="51" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="408" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="431" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="85" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="69" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="392" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="23" column="57" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="39" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="391" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="79" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
@@ -305,6 +303,15 @@
       <jump line="746" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/upload/angular.js" />
       <jump line="30" column="71" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/upload/templates.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" />
+      <jump line="19" column="48" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" />
+      <jump line="27" column="135" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" />
+      <jump line="9" column="37" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFields.tpl.html" />
+      <jump line="11" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
+      <jump line="93" column="26" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
+      <jump line="102" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
+      <jump line="114" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
+      <jump line="115" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -320,61 +327,56 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>BeUndefined</text>
       </register>
       <register name="/" type="4">
-        <text>documentNumber</text>
+        <text>expandable</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCWVsZW1lbnQgPSB0ZXN0LmNvbXBpbGVEaXJlY3RpdmUoJzxhY3gtZG9jdW1lbnQtbnVtYmVyLWZpZWxkIG5nLW1vZGVsPSJuZ01vZGVsLmRvY3VtZW50TnVtYmVyIi8+JywgJHJvb3RTY29wZSwgJGNvbXBpbGUpOwo=</text>
+      <register name="0" type="4">
+        <text>input[type=&quot;checkbox&quot;]'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJc2NvcGUuJGFwcGx5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdmFyIGVsZW1lbnQxID0gdGVzdC5jb21waWxlRGlyZWN0aXZlKCc8YWN4LWRvY3VtZW50LW51bWJlci1maWVsZCBuZy1tb2RlbD0ibmdNb2RlbC5kb2N1bWVudE51bWJlciIvPicsIHNjb3BlLCAkY29tcGlsZSk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJc2NvcGUuaXNDaGVja2JveFZpc2libGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">CQkJZWxlbWVudC5maW5kKCdpbnB1dFt0eXBlPSJjaGVja2JveCJdJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdmFyIHNjb3BlID0gJHJvb3RTY29wZS4kbigpOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHNjb3BlLmJhc2ljQXV0b051bWJlcmluZ0VuYWJsZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8vICRyb290U2NvcG5nTW9kZWwubnVtYmVyaW5nVHlwZSA9ICdNQU5VQUwnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">CQl2YXIgJGNvbnRyb2xsZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSRjb250cm9sbGVyID0gXyRjb250cm9sbGVyXzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlkZXNjcmliZSgnd2hlbiBiYXNpYyBhdXRvLW51bWJlcmluZyBkaXNhYmxlZCcsIGZ1bmN0aW9uICgpIHsKCQkJYmVmb3JlRWFjaChmdW5jdGlvbiAoKSB7CgkJCQkKCQkJfSk7Cg==</text>
+        <text encoding="base64">CQkJCSRjb250cm9sbGVyLmluaXQoJHJvb3RTY29wZSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dmFyIHNjb3BlID0gJHJvb3RTY29wZS4kbmV3KCk7CgkJCQkvLyBzY29wZS5pc0NoZWNrYm94VmlzaWJsZSA9IGZhbHNlOwoJCQkJc2NvcGUuJGFwcGx5KCk7CgkJCQl2YXIgZWxlbWVudDEgPSB0ZXN0LmNvbXBpbGVEaXJlY3RpdmUoJzxhY3gtZG9jdW1lbnQtbnVtYmVyLWZpZWxkIG5nLW1vZGVsPSJuZ01vZGVsLmRvY3VtZW50TnVtYmVyIi8+Jywgc2NvcGUsICRjb21waWxlKTsKCQkJCWNvbnNvbGUubG9nKGVsZW1lbnQxKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJc2NvcGUuJGFwcGx5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>m .+1</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>documentNumber</last-search>
+      <last-search>expandable</last-search>
       <last-offset />
-      <last-pattern>documentNumber</last-pattern>
+      <last-pattern>expandable</last-pattern>
       <last-replace>supersededDocumentData</last-replace>
       <last-substitute encoding="base64">XDx1cGxvYWRlZERvY3VtZW50RGF0YVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>UploadFormService</entry>
-        <entry>getConfig</entry>
-        <entry encoding="base64">XDx1cGxvYWRGaWxlRGVmZXJyZWRcPg==</entry>
-        <entry encoding="base64">XDxtb2NrU3VwZXJzZWRlRm9ybVNlcnZpY2VcPg==</entry>
-        <entry encoding="base64">XDx1cGxvYWRTdGFydGVkXD4=</entry>
         <entry encoding="base64">XDxncm93bFw+</entry>
         <entry encoding="base64">XDxjbGlja1w+</entry>
         <entry>SUper</entry>
@@ -390,6 +392,11 @@
         <entry encoding="base64">XDxkb2N1bWVudElkXD4=</entry>
         <entry>getAssocia</entry>
         <entry>documentNumber</entry>
+        <entry>controller</entry>
+        <entry>ng-if</entry>
+        <entry>isExpandable</entry>
+        <entry encoding="base64">XDxzY29wZVw+</entry>
+        <entry>expandable</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
@@ -409,9 +416,9 @@
         <entry>set rnu!</entry>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
         <entry>m .-2</entry>
+        <entry>m .+1</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
-        <entry>m .+1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
