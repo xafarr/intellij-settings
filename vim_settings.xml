@@ -146,12 +146,12 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562644409476">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562646380741">
         <mark key="'" line="30" column="71" />
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="67" column="35" />
-        <mark key="." line="67" column="35" />
-        <mark key="^" line="67" column="34" />
+        <mark key="[" line="72" column="41" />
+        <mark key="]" line="68" column="35" />
+        <mark key="." line="68" column="35" />
+        <mark key="^" line="68" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/userContextService.js" timestamp="1562541566633">
         <mark key="[" line="9" column="39" />
@@ -318,7 +318,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>rootScope</text>
       </register>
       <register name="/" type="4">
         <text>documentNumber</text>
