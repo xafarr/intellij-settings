@@ -74,6 +74,12 @@
         <mark key="." line="1" column="7" />
         <mark key="^" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.js" timestamp="1562637627051">
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="38" />
+        <mark key="." line="23" column="38" />
+        <mark key="^" line="23" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/page/ControlledDocEditPage.java" timestamp="1562560225254">
         <mark key="[" line="26" column="20" />
         <mark key="]" line="26" column="44" />
@@ -175,9 +181,11 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" timestamp="1562579706641">
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="17" column="61" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" timestamp="1562637742056">
+        <mark key="[" line="42" column="85" />
+        <mark key="]" line="42" column="85" />
+        <mark key="^" line="42" column="85" />
+        <mark key="." line="42" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.js" timestamp="1562159061452">
         <mark key="[" line="16" column="43" />
@@ -302,13 +310,13 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getAssocia</text>
       </register>
       <register name="0" type="4">
-        <text>Project.DocField.LockError</text>
+        <text>basicAutoNumberingEnabled</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
