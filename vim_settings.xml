@@ -161,6 +161,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/ProjectDocFields_en.properties" timestamp="1562634511459">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/constants/utils.js" timestamp="1562579877130">
         <mark key="[" line="187" column="8" />
         <mark key="]" line="187" column="27" />
@@ -304,7 +308,7 @@
         <text>getAssocia</text>
       </register>
       <register name="0" type="4">
-        <text>PreferenceBaseConfigurablePropertyValidatorTest</text>
+        <text>Project.DocField.LockError</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
