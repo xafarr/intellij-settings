@@ -28,7 +28,7 @@
         <mark key="." line="144" column="26" />
         <mark key="^" line="144" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" timestamp="1562648829594">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" timestamp="1562649917387">
         <mark key="[" line="5" column="62" />
         <mark key="]" line="5" column="62" />
         <mark key="." line="5" column="62" />
@@ -146,8 +146,11 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562648653311">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562649325281">
         <mark key="'" line="28" column="71" />
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/userContextService.js" timestamp="1562541566633">
         <mark key="[" line="9" column="39" />
@@ -197,9 +200,11 @@
         <mark key="^" line="16" column="44" />
         <mark key="." line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/upload/templates.js" timestamp="1562649839687">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="275" column="62" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="311" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="395" column="51" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
@@ -299,6 +304,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" />
       <jump line="746" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/upload/angular.js" />
       <jump line="30" column="71" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/upload/templates.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -314,7 +320,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>documentNumber</text>
