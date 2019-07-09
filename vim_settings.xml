@@ -43,13 +43,13 @@
         <mark key="[" line="22" column="13" />
         <mark key="]" line="22" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1562623977881">
-        <mark key="b" line="472" column="71" />
-        <mark key="'" line="438" column="36" />
-        <mark key="[" line="431" column="29" />
-        <mark key="]" line="435" column="29" />
-        <mark key="^" line="435" column="29" />
-        <mark key="." line="435" column="29" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1562659160237">
+        <mark key="b" line="474" column="71" />
+        <mark key="'" line="438" column="24" />
+        <mark key="[" line="117" column="51" />
+        <mark key="]" line="117" column="31" />
+        <mark key="^" line="117" column="31" />
+        <mark key="." line="117" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFields.tpl.html" timestamp="1562651487158">
         <mark key="'" line="9" column="37" />
@@ -60,12 +60,12 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562581834771">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562658538878">
         <mark key="'" line="22" column="12" />
         <mark key="[" line="100" column="46" />
-        <mark key="]" line="100" column="46" />
-        <mark key="." line="100" column="46" />
-        <mark key="^" line="22" column="10" />
+        <mark key="]" line="100" column="69" />
+        <mark key="." line="100" column="69" />
+        <mark key="^" line="100" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/lookup/search/LookupSearchScope.java" timestamp="1562286005106">
         <mark key="[" line="4" column="1" />
@@ -122,9 +122,9 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/upload/angular.js" timestamp="1562641182619">
         <mark key="'" line="746" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562572573772">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562658329891">
         <mark key="'" line="3" column="44" />
-        <mark key="[" line="57" column="12" />
+        <mark key="[" line="57" column="36" />
         <mark key="]" line="57" column="32" />
         <mark key="^" line="5" column="75" />
         <mark key="." line="49" column="0" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="391" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="79" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="33" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
@@ -313,6 +312,7 @@
       <jump line="102" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
       <jump line="114" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
       <jump line="115" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/projectSettings/common/directives/associatedCustomFields/associatedCustomFieldsSpec.js" />
+      <jump line="436" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -328,10 +328,10 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>BeUndefined</text>
+        <text>formData['docid'],</text>
       </register>
       <register name="/" type="4">
-        <text>expandable</text>
+        <text encoding="base64">XDxmb3JtRGF0YVsnZG9jaWQnXVw+</text>
       </register>
       <register name="0" type="4">
         <text>input[type=&quot;checkbox&quot;]'</text>
@@ -368,18 +368,16 @@
       </register>
     </registers>
     <search>
-      <last-search>expandable</last-search>
+      <last-search encoding="base64">XDxmb3JtRGF0YVsnZG9jaWQnXVw+</last-search>
       <last-offset />
-      <last-pattern>expandable</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JtRGF0YVsnZG9jaWQnXVw+</last-pattern>
       <last-replace>supersededDocumentData</last-replace>
       <last-substitute encoding="base64">XDx1cGxvYWRlZERvY3VtZW50RGF0YVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncm93bFw+</entry>
-        <entry encoding="base64">XDxjbGlja1w+</entry>
         <entry>SUper</entry>
         <entry>Super</entry>
         <entry encoding="base64">XDxTdXBlcnNlZGVGb3JtU2VydmljZVw+</entry>
@@ -398,6 +396,8 @@
         <entry>isExpandable</entry>
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry>expandable</entry>
+        <entry>formData['docid']</entry>
+        <entry encoding="base64">XDxmb3JtRGF0YVsnZG9jaWQnXVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
