@@ -34,6 +34,7 @@
         <mark key="]" line="5" column="62" />
         <mark key="." line="5" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562657945012" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-extapi-container/babylon-extapi/src/test/java/com/aconex/extapi/doccontrol/schema/validator/PreferenceBaseConfigurablePropertyValidatorTest.java" timestamp="1562628332291">
         <mark key="[" line="27" column="13" />
         <mark key="]" line="27" column="59" />
@@ -85,11 +86,11 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562655777837">
-        <mark key="[" line="94" column="132" />
-        <mark key="]" line="94" column="132" />
-        <mark key="." line="94" column="132" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562657795599">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
         <mark key="^" line="94" column="132" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/karma.conf.js" timestamp="1562578863848">
         <mark key="[" line="43" column="31" />
@@ -338,29 +339,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gc2V0IGNhbkVkaXRTdGF0dXMgYXR0cmlidXRlCi8qICAgICAgICBpZiAoZG9jdW1lbnRMb2NrQ29vcmRpbmF0b3IuaGFzTG9jayhjb250cm9sbGVkRG9jdW1lbnQsIENETG9ja1R5cGUuQVBQUk9WQUwpKSB7CiAgICAgICAgICAgICBFbnN1cmUgd2UgY2Fubm90IGVkaXQgdGhlIHN0YXR1cwogICAgICAgICAgICByZXEuc2V0QXR0cmlidXRlKERvY0NvbnRyb2xCYXNlQ29udHJvbC5fQ0FOX0VESVRfU1RBVFVTLCAiTk8iKTsKICAgICAgICB9Ki8=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZWxlbWVudC5maW5kKCdpbnB1dFt0eXBlPSJjaGVja2JveCJdJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHNjb3BlLmJhc2ljQXV0b051bWJlcmluZ0VuYWJsZWQpOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vICRyb290U2NvcG5nTW9kZWwubnVtYmVyaW5nVHlwZSA9ICdNQU5VQUwnOwo=</text>
+        <text encoding="base64">CQkJZWxlbWVudC5maW5kKCdpbnB1dFt0eXBlPSJjaGVja2JveCJdJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl2YXIgJGNvbnRyb2xsZXI7Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKHNjb3BlLmJhc2ljQXV0b051bWJlcmluZ0VuYWJsZWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCSRjb250cm9sbGVyID0gXyRjb250cm9sbGVyXzsK</text>
+        <text encoding="base64">CQkJCS8vICRyb290U2NvcG5nTW9kZWwubnVtYmVyaW5nVHlwZSA9ICdNQU5VQUwnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSRjb250cm9sbGVyLmluaXQoJHJvb3RTY29wZSk7Cg==</text>
+        <text encoding="base64">CQl2YXIgJGNvbnRyb2xsZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJc2NvcGUuJGFwcGx5KCk7Cg==</text>
+        <text encoding="base64">CQkJCSRjb250cm9sbGVyID0gXyRjb250cm9sbGVyXzsK</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
