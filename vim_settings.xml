@@ -65,12 +65,12 @@
         <mark key="^" line="117" column="31" />
         <mark key="." line="117" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" timestamp="1562740864979">
-        <mark key="'" line="46" column="28" />
-        <mark key="[" line="109" column="39" />
-        <mark key="]" line="109" column="43" />
-        <mark key="^" line="109" column="43" />
-        <mark key="." line="109" column="43" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" timestamp="1562743975583">
+        <mark key="'" line="48" column="28" />
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="43" />
+        <mark key="^" line="37" column="41" />
+        <mark key="." line="37" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentsupersede/DocumentSupersedeController.java" timestamp="1562560083907">
         <mark key="[" line="39" column="11" />
@@ -213,9 +213,9 @@
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" timestamp="1562740881795">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" timestamp="1562743720834">
         <mark key="'" line="21" column="20" />
-        <mark key="[" line="1" column="42" />
+        <mark key="[" line="0" column="57" />
         <mark key="]" line="1" column="67" />
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
@@ -352,7 +352,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>byId(projectId).isControlledDocumentPropertiesLocked</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>digest</text>
