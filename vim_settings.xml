@@ -10,12 +10,13 @@
         <mark key="." line="1673" column="68" />
         <mark key="^" line="1673" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" timestamp="1562721834711">
-        <mark key="'" line="99" column="27" />
-        <mark key="[" line="99" column="38" />
-        <mark key="]" line="99" column="37" />
-        <mark key="." line="99" column="37" />
-        <mark key="^" line="99" column="37" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" timestamp="1562724251435">
+        <mark key="'" line="120" column="25" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="134" column="9" />
+        <mark key="." line="134" column="9" />
+        <mark key="^" line="134" column="9" />
+        <mark key="o" line="97" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562624101172">
         <mark key="'" line="98" column="45" />
@@ -45,19 +46,16 @@
         <mark key="." line="5" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentsController.java" timestamp="1562657945012" />
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-extapi-container/babylon-extapi/src/test/java/com/aconex/extapi/doccontrol/schema/validator/PreferenceBaseConfigurablePropertyValidatorTest.java" timestamp="1562628332291">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562709685315">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-extapi-container/babylon-extapi/src/test/java/com/aconex/extapi/doccontrol/schema/validator/DocumentAttributeValidatorTest.java" timestamp="1562627760521">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="42" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562723609014">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1562659160237">
         <mark key="b" line="474" column="71" />
@@ -161,14 +159,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/ProjectDocFields_en.properties" timestamp="1562634511459">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/constants/utils.js" timestamp="1562579877130">
-        <mark key="[" line="187" column="8" />
-        <mark key="]" line="187" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1562313846500">
         <mark key="[" line="20" column="52" />
         <mark key="]" line="20" column="58" />
@@ -234,8 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="454" column="71" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="422" column="42" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="147" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="151" column="53" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="104" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
@@ -332,8 +320,10 @@
       <jump line="436" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="109" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" />
-      <jump line="77" column="66" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
       <jump line="99" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
+      <jump line="77" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
+      <jump line="139" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
+      <jump line="125" column="25" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -349,53 +339,53 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>originalFileData.fileType;</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxldHlwZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkkc2NvcGUuZmlsZXR5cGUgPSBvcmlnaW5hbEZpbGVEYXRhLmZpbGVUeXBlOwo=</text>
+      <register name="0" type="4">
+        <text>originalFileData.fileType</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CQkJCQl1JHNjb3BlLm5nTW9kZWwgPSBudWxsOwoJCQkJCSRzY29wZS5pbnB1dEZpbGVEYXRhLmZpbGUgPSBudWxsOwoJCQkJCSRzY29wZS5pbnB1dEZpbGVEYXRhLnVwbG9hZElkID0gbnVsbDsKCQkJCQkkc2NvcGUuZmlsZVR5cGUgPSAnJzs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIERvY3VtZW50TG9ja0Nvb3JkaW5hdG9yIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRG9jdW1lbnROdW1iZXJTY2hlbWVTZXJ2aWNlIGRvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZTsKICAgIEBNb2NrCiAgICBwcml2YXRlIERvY3VtZW50TG9ja0Nvb3JkaW5hdG9yIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY29uZXguZG9jY29udHJvbC5sb2NrLmJlYW4uRG9jdW1lbnRMb2NrQ29vcmRpbmF0b3I7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZSwKICAgICAgICAgICAgICAgIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkkc2NvcGUuaW5wdXRGaWxlID0gb3JpZ2luYWxGaWxlRGF0YS5pbnB1dEZpbGU7CgkJCQkJJHNjb3BlLmZpbGVUeXBlID0gb3JpZ2luYWxGaWxlRGF0YS5maWxlVHlwZTsKCQkJCQkkc2NvcGUuaXNPcmlnaW5hbEZpbGUgPSB0cnVlOwoJCQkJCSRzY29wZS5uZ01vZGVsID0gbnVsbDsKCQkJCQkkc2NvcGUuaW5wdXRGaWxlRGF0YS5maWxlID0gbnVsbDsKCQkJCQkkc2NvcGUuaW5wdXRGaWxlRGF0YS51cGxvYWRJZCA9IG51bGw7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIERvY3VtZW50TG9ja0Nvb3JkaW5hdG9yIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRG9jdW1lbnROdW1iZXJTY2hlbWVTZXJ2aWNlIGRvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZTsKICAgIEBNb2NrCiAgICBwcml2YXRlIERvY3VtZW50TG9ja0Nvb3JkaW5hdG9yIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5hY29uZXguZG9jY29udHJvbC5sb2NrLmJlYW4uRG9jdW1lbnRMb2NrQ29vcmRpbmF0b3I7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29uc3RydWN0b3ItYXJnIHJlZj0iZG9jdW1lbnRMb2NrQ29vcmRpbmF0b3IiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY3VtZW50TnVtYmVyU2NoZW1lU2VydmljZSwKICAgICAgICAgICAgICAgIGRvY3VtZW50TG9ja0Nvb3JkaW5hdG9yLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>h Y</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
       <last-search encoding="base64">XDxmaWxldHlwZVw+</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxmaWxldHlwZVw+</last-pattern>
-      <last-replace>supersededDocumentData</last-replace>
-      <last-substitute encoding="base64">XDx1cGxvYWRlZERvY3VtZW50RGF0YVw+</last-substitute>
+      <last-replace>fileType</last-replace>
+      <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -421,8 +411,6 @@
         <entry encoding="base64">XDxmaWxldHlwZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>%d</entry>
-        <entry>reg</entry>
         <entry>%s/UploadForm/SupersedeForm/g</entry>
         <entry>%s/uploadForm/supersedeForm/g</entry>
         <entry>%s/upload/supersede/g</entry>
@@ -437,10 +425,12 @@
         <entry>set rnu!</entry>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
         <entry>m .-2</entry>
-        <entry>let @/=''</entry>
-        <entry>noh</entry>
         <entry>m .+1</entry>
         <entry>h Y</entry>
+        <entry encoding="base64">JXMvXDxmaWxlVHlwZVw+L2ZpbGV0eXBlL2c=</entry>
+        <entry encoding="base64">JXMvXDxmaWxldHlwZVw+L2ZpbGVUeXBlL2c=</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
