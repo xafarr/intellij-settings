@@ -40,9 +40,12 @@
       <file name="/a.dummy" timestamp="1562680607229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" timestamp="1562737071388">
-        <mark key="'" line="58" column="22" />
-        <mark key="^" line="74" column="14" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" timestamp="1562737905096">
+        <mark key="'" line="74" column="37" />
+        <mark key="[" line="74" column="19" />
+        <mark key="]" line="74" column="20" />
+        <mark key="^" line="74" column="27" />
+        <mark key="." line="74" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" timestamp="1562650676237">
         <mark key="'" line="5" column="4" />
@@ -235,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="81" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="120" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="364" column="51" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
@@ -335,6 +337,7 @@
       <jump line="199" column="73" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="58" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="19" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
+      <jump line="74" column="37" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
