@@ -18,7 +18,6 @@
         <mark key="^" line="134" column="9" />
         <mark key="o" line="97" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1562729751463" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562624101172">
         <mark key="'" line="98" column="45" />
         <mark key="[" line="180" column="9" />
@@ -40,24 +39,18 @@
       <file name="/a.dummy" timestamp="1562680607229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" timestamp="1562739371664">
-        <mark key="'" line="74" column="37" />
-        <mark key="[" line="74" column="39" />
-        <mark key="]" line="74" column="43" />
-        <mark key="^" line="74" column="43" />
-        <mark key="." line="74" column="43" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" timestamp="1562740970706">
+        <mark key="[" line="473" column="0" />
+        <mark key="]" line="473" column="0" />
+        <mark key="^" line="473" column="32" />
+        <mark key="." line="473" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" timestamp="1562650676237">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="5" column="62" />
-        <mark key="." line="5" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562709685315">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562743015119">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="114" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562723609014">
         <mark key="[" line="16" column="49" />
@@ -72,7 +65,7 @@
         <mark key="^" line="117" column="31" />
         <mark key="." line="117" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" timestamp="1562739227313">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" timestamp="1562740864979">
         <mark key="'" line="46" column="28" />
         <mark key="[" line="109" column="39" />
         <mark key="]" line="109" column="43" />
@@ -124,8 +117,11 @@
       <file name="/Dummy.vm" timestamp="1562549530491">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562729874942">
-        <mark key="[" line="76" column="12" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562742506861">
+        <mark key="[" line="191" column="26" />
+        <mark key="]" line="191" column="25" />
+        <mark key="^" line="95" column="74" />
+        <mark key="." line="191" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/karma.conf.js" timestamp="1562578863848">
         <mark key="[" line="43" column="31" />
@@ -133,11 +129,14 @@
         <mark key="." line="43" column="39" />
         <mark key="^" line="43" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormDto.java" timestamp="1562727143956">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormDto.java" timestamp="1562742088156">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="35" />
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1562741368850">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/confidentialityField/confidentialityField.js" timestamp="1562541082897">
         <mark key="[" line="21" column="52" />
@@ -214,14 +213,14 @@
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" timestamp="1562739123586">
-        <mark key="'" line="4" column="33" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="20" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" timestamp="1562740881795">
+        <mark key="'" line="21" column="20" />
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="67" />
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1562729643113">
+      <file name="/fragment.java" timestamp="1562741900604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.tpl.html" timestamp="1562113557979">
@@ -238,19 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1672" column="74" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/test/helpers/commonMocks.js" />
-      <jump line="1674" column="10" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/test/helpers/commonMocks.js" />
-      <jump line="12" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="61" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="62" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="4" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="25" column="72" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="225" column="50" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="231" column="57" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="360" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="379" column="53" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="29" column="80" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="141" column="53" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="306" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="327" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="137" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
@@ -311,9 +297,7 @@
       <jump line="3" column="37" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" />
       <jump line="15" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" />
       <jump line="72" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="77" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="84" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="380" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="417" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="418" column="48" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="427" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
@@ -337,7 +321,22 @@
       <jump line="109" column="44" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
       <jump line="6" column="68" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
       <jump line="21" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="468" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="478" column="54" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="29" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="88" column="52" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="291" column="52" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="303" column="106" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="359" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="380" column="63" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="433" column="60" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="447" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="77" column="76" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="46" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
+      <jump line="21" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" />
+      <jump line="482" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="473" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -353,49 +352,49 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>byId(projectId).isControlledDocumentPropertiesLocked</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRGb3JtXD4=</text>
+        <text>digest</text>
       </register>
-      <register name="0" type="4">
-        <text>propertiesLocked</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCS8vICRyb290U2NvcGUuJGRpZ2VzdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhmaWVsZENvbnRyb2wpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvbmcgRE9DVU1FTlRfSUQgPSA0NTY3ODlMOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQl2YXIgc2NvcGUgPSBmaWVsZENvbnRyb2wuaXNvbGF0ZVNjb3BlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8vICRyb290U2NvcGUuJGRpZ2VzdCgpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkkcm9vdFNjb3BlLnByb3BlcnRpZXNMb2NrZWQgPSB0cnVlOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGVsZW1lbnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCRyb290U2NvcGUuZm9ybS51cGxvYWRGb3JtKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CQkJCQl1JHNjb3BlLm5nTW9kZWwgPSBudWxsOwoJCQkJCSRzY29wZS5pbnB1dEZpbGVEYXRhLmZpbGUgPSBudWxsOwoJCQkJCSRzY29wZS5pbnB1dEZpbGVEYXRhLnVwbG9hZElkID0gbnVsbDsKCQkJCQkkc2NvcGUuZmlsZVR5cGUgPSAnJzs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCS8vIGNvbnNvbGUubG9nKGVsZW1lbnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhmaWVsZENvbnRyb2wpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkkc2NvcGUuaW5wdXRGaWxlID0gb3JpZ2luYWxGaWxlRGF0YS5pbnB1dEZpbGU7CgkJCQkJJHNjb3BlLmZpbGVUeXBlID0gb3JpZ2luYWxGaWxlRGF0YS5maWxlVHlwZTsKCQkJCQkkc2NvcGUuaXNPcmlnaW5hbEZpbGUgPSB0cnVlOwoJCQkJCSRzY29wZS5uZ01vZGVsID0gbnVsbDsKCQkJCQkkc2NvcGUuaW5wdXRGaWxlRGF0YS5maWxlID0gbnVsbDsKCQkJCQkkc2NvcGUuaW5wdXRGaWxlRGF0YS51cGxvYWRJZCA9IG51bGw7Cg==</text>
+        <text encoding="base64">CQkJCQl2YXIgc2NvcGUgPSBmaWVsZENvbnRyb2wuaXNvbGF0ZVNjb3BlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRGb3JtXD4=</last-search>
+      <last-search>digest</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRGb3JtXD4=</last-pattern>
+      <last-pattern>digest</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -403,10 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getAssocia</entry>
-        <entry>documentNumber</entry>
-        <entry>controller</entry>
-        <entry>ng-if</entry>
         <entry>isExpandable</entry>
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry>expandable</entry>
@@ -423,6 +418,10 @@
         <entry>uploadForm</entry>
         <entry>uploadform</entry>
         <entry encoding="base64">XDx1cGxvYWRGb3JtXD4=</entry>
+        <entry>1</entry>
+        <entry encoding="base64">XDxUcmFuc2xhdGVkXD4=</entry>
+        <entry>Trans</entry>
+        <entry>digest</entry>
       </history-search>
       <history-cmd>
         <entry>%s/uploadForm/supersedeForm/g</entry>
