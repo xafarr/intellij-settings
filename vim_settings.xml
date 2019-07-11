@@ -25,7 +25,7 @@
         <mark key="." line="179" column="70" />
         <mark key="^" line="179" column="26" />
       </file>
-      <file name="/fragment.js" timestamp="1562652411241">
+      <file name="/fragment.js" timestamp="1562807930732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="71" />
         <mark key="." line="0" column="71" />
@@ -63,14 +63,7 @@
         <mark key="]" line="16" column="50" />
         <mark key="." line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1562659160237">
-        <mark key="b" line="474" column="71" />
-        <mark key="'" line="438" column="24" />
-        <mark key="[" line="117" column="51" />
-        <mark key="]" line="117" column="31" />
-        <mark key="^" line="117" column="31" />
-        <mark key="." line="117" column="31" />
-      </file>
+      <file name="localhost:9443/rsrc/20190710.1700/en_AU_DOC/document/upload/angular.js" timestamp="1562807547090" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" timestamp="1562769630645">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="37" column="42" />
@@ -84,12 +77,15 @@
         <mark key="." line="40" column="23" />
         <mark key="^" line="40" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562658538878">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1562807706841">
         <mark key="'" line="22" column="12" />
         <mark key="[" line="100" column="46" />
         <mark key="]" line="100" column="69" />
         <mark key="." line="100" column="69" />
         <mark key="^" line="100" column="69" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1562807360205">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/tags/lookup/search/LookupSearchScope.java" timestamp="1562286005106">
         <mark key="[" line="4" column="1" />
@@ -97,6 +93,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" timestamp="1562807019084" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562579746322">
         <mark key="'" line="31" column="48" />
         <mark key="[" line="31" column="48" />
@@ -230,7 +227,7 @@
         <mark key="^" line="18" column="20" />
         <mark key="." line="18" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1562741900604">
+      <file name="/fragment.java" timestamp="1562807892503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/supersedeForm/supersedeForm.tpl.html" timestamp="1562113557979">
@@ -239,7 +236,7 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.js" timestamp="1562159061452">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.js" timestamp="1562807393401">
         <mark key="[" line="16" column="43" />
         <mark key="]" line="16" column="44" />
         <mark key="^" line="16" column="44" />
