@@ -176,8 +176,8 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" timestamp="1562886220171">
-        <mark key="'" line="65" column="8" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" timestamp="1562887674692">
+        <mark key="'" line="107" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1562313846500">
         <mark key="[" line="20" column="52" />
@@ -253,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="94" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="9" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="2046" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/test/helpers/commonMocks.js" />
       <jump line="1828" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/test/helpers/commonMocks.js" />
@@ -353,6 +351,8 @@
       <jump line="65" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
       <jump line="17" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueValidationResult.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
+      <jump line="89" column="41" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
+      <jump line="107" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -371,7 +371,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb252ZXJzaW9uRXJyb3JzXD4=</text>
+        <text encoding="base64">XDxnZXRWYWxpZGF0YWJsZUZpZWxkTWFwXD4=</text>
       </register>
       <register name="0" type="4">
         <text>featureSwitch:isDisabled</text>
@@ -408,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb252ZXJzaW9uRXJyb3JzXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRWYWxpZGF0YWJsZUZpZWxkTWFwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb252ZXJzaW9uRXJyb3JzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRWYWxpZGF0YWJsZUZpZWxkTWFwXD4=</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -418,7 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxldHlwZVw+</entry>
         <entry>projec</entry>
         <entry>isolate</entry>
         <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
@@ -438,6 +437,7 @@
         <entry encoding="base64">XDxjaGFuZ2VQcm9qZWN0XD4=</entry>
         <entry encoding="base64">XDxEb2N1bWVudEZpZWxkVmFsdWVWYWxpZGF0aW9uUmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxjb252ZXJzaW9uRXJyb3JzXD4=</entry>
+        <entry encoding="base64">XDxnZXRWYWxpZGF0YWJsZUZpZWxkTWFwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/uploadForm/supersedeForm/g</entry>
