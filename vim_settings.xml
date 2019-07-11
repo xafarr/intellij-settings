@@ -46,6 +46,11 @@
         <mark key="^" line="473" column="32" />
         <mark key="." line="473" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/menu/mainMenu.js" timestamp="1562803294556">
+        <mark key="'" line="299" column="50" />
+        <mark key="[" line="299" column="50" />
+        <mark key="]" line="299" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562743015119">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="54" column="0" />
@@ -238,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="208" column="44" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="278" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="365" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
@@ -338,6 +342,7 @@
       <jump line="473" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
       <jump line="11" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
+      <jump line="299" column="50" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/menu/mainMenu.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -356,10 +361,10 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>digest</text>
+        <text>DOC-NEW</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCS8vICRyb290U2NvcGUuJGRpZ2VzdCgpOwo=</text>
+      <register name="0" type="4">
+        <text>DOC-NEW</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvbmcgRE9DVU1FTlRfSUQgPSA0NTY3ODlMOwo=</text>
@@ -393,9 +398,9 @@
       </register>
     </registers>
     <search>
-      <last-search>digest</last-search>
+      <last-search>DOC-NEW</last-search>
       <last-offset />
-      <last-pattern>digest</last-pattern>
+      <last-pattern>DOC-NEW</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -403,7 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isExpandable</entry>
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry>expandable</entry>
         <entry>formData['docid']</entry>
@@ -423,6 +427,7 @@
         <entry encoding="base64">XDxUcmFuc2xhdGVkXD4=</entry>
         <entry>Trans</entry>
         <entry>digest</entry>
+        <entry>DOC-NEW</entry>
       </history-search>
       <history-cmd>
         <entry>%s/uploadForm/supersedeForm/g</entry>
