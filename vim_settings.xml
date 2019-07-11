@@ -111,13 +111,6 @@
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/ControlledDocEdit.jsp" timestamp="1562829197041">
-        <mark key="'" line="71" column="13" />
-        <mark key="[" line="69" column="21" />
-        <mark key="]" line="69" column="28" />
-        <mark key="." line="69" column="28" />
-        <mark key="^" line="69" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1562742506861">
         <mark key="[" line="191" column="26" />
         <mark key="]" line="191" column="25" />
@@ -381,28 +374,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvbmcgRE9DVU1FTlRfSUQgPSA0NTY3ODlMOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zCg==</text>
+        <text encoding="base64">PGZlYXR1cmVTd2l0Y2g6aXNEaXNhYmxlZCBmZWF0dXJlU3dpdGNoPSJkb2N1bWVudFVwbG9hZEluQW5ndWxhckpzRmVhdHVyZVN3aXRjaCI+CiAgICA8YzppZiB0ZXN0PSIke2lzTmV3fSI+CiAgICBmdW5jdGlvbiBjaGFuZ2VQcm9qZWN0ICgpIHsKICAgICAgICAvLyBUT0RPIFRoaXMgbGl0dGxlIGhhY2sgaXMgdG8gYXZvaWQgaGF2aW5nIHRvIHVwZGF0ZSB0aGUgYmFja2VuZCB0byBleHBlY3QgUFJPSkVDVF9JRC4KICAgICAgICAvLyBJdCByZWFsbHkgc2hvdWxkIGJlIFBST0pFQ1RfSUQgdG8gYmUgY29uc2lzdGVudCB3aXRoIHRoZSByZXN0IG9mIHRoZSBhcHAuCiAgICAgICAgJCgiSU5QVVRbbmFtZT1Db250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEXSIpLnZhbCggJCgiSU5QVVRbbmFtZT1QUk9KRUNUX0lEXSIpLnZhbCgpICk7CiAgICAgICAgdmFyIGZvcm0gPSBkb2N1bWVudC5mb3JtMTsKICAgICAgICBmb3JtLmFjdGlvbj0iL0VkaXRDb250cm9sbGVkRG9jP0VESVRfQUNUSU9OPTUiOwogICAgICAgIGZvcm0uc3VibWl0KCk7CiAgICB9CiAgICA8L2M6aWY+CiAgICA8L2ZlYXR1cmVTd2l0Y2g6aXNEaXNhYmxlZD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vICRyb290U2NvcGUuJGRpZ2VzdCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvbmcgRE9DVU1FTlRfSUQgPSA0NTY3ODlMOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGVsZW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCRyb290U2NvcGUuZm9ybS51cGxvYWRGb3JtKTsK</text>
+        <text encoding="base64">CQkJCS8vICRyb290U2NvcGUuJGRpZ2VzdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vIGNvbnNvbGUubG9nKGVsZW1lbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhmaWVsZENvbnRyb2wpOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGVsZW1lbnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu!</text>
