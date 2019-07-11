@@ -177,6 +177,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/menu/mainMenu.js" timestamp="1562805676026">
+        <mark key="[" line="671" column="4" />
+        <mark key="]" line="671" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1562313846500">
         <mark key="[" line="20" column="52" />
         <mark key="]" line="20" column="58" />
@@ -364,7 +368,7 @@
         <text>DOC-NEW</text>
       </register>
       <register name="0" type="4">
-        <text>DOC-NEW</text>
+        <text>_openMenuItem_handler</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvbmcgRE9DVU1FTlRfSUQgPSA0NTY3ODlMOwo=</text>
@@ -404,7 +408,7 @@
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
