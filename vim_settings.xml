@@ -10,14 +10,6 @@
         <mark key="." line="1673" column="68" />
         <mark key="^" line="1673" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" timestamp="1562724251435">
-        <mark key="'" line="120" column="25" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="134" column="9" />
-        <mark key="." line="134" column="9" />
-        <mark key="^" line="134" column="9" />
-        <mark key="o" line="97" column="29" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562624101172">
         <mark key="'" line="98" column="45" />
         <mark key="[" line="180" column="9" />
@@ -39,6 +31,7 @@
       <file name="/a.dummy" timestamp="1562680607229">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/projectselector/controller/ProjectSelectorControl.java" timestamp="1562814048962" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" timestamp="1562769651153">
         <mark key="'" line="11" column="30" />
         <mark key="[" line="482" column="92" />
@@ -196,6 +189,7 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/bdd/src/main/java/com/aconex/feature/scenario/support/ProjectChangeRobot.java" timestamp="1562813988044" />
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.7479.19/IntelliJ IDEA.app.vmoptions" timestamp="1562549759918">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="7" />
@@ -214,7 +208,7 @@
         <mark key="." line="27" column="17" />
         <mark key="^" line="27" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/controller/NavigationController.java" timestamp="1562811603837" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/menu/controller/NavigationController.java" timestamp="1562814006593" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/services/UploadFormService.js" timestamp="1562116935654">
         <mark key="[" line="8" column="61" />
         <mark key="]" line="8" column="61" />
