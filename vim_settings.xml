@@ -95,6 +95,10 @@
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" timestamp="1562827662778">
+        <mark key="[" line="2685" column="0" />
+        <mark key="]" line="2685" column="108" />
+      </file>
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.7479.19/IntelliJ IDEA.app.vmoptions" timestamp="1562549759918">
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="7" />
@@ -177,6 +181,12 @@
         <mark key="'" line="121" column="31" />
         <mark key="[" line="121" column="31" />
         <mark key="]" line="121" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/ControlledDocEdit.jsp" timestamp="1562827738791">
+        <mark key="[" line="80" column="6" />
+        <mark key="]" line="80" column="30" />
+        <mark key="." line="78" column="4" />
+        <mark key="^" line="78" column="4" />
       </file>
       <file name="/Dummy.vm" timestamp="1562549530491">
         <mark key="[" line="0" column="0" />
@@ -362,34 +372,34 @@
         <text encoding="base64">XDxjb250cm9sbGVkRG9jdW1lbnRDcmVhdGVGb3JtXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGZlYXR1cmVTd2l0Y2g6aXNFbmFibGVkQnlQcmVmZXJlbmNlIGZlYXR1cmVTd2l0Y2g9IndvcmtmbG93cyIgcHJvamVjdElkPSIke3NjcmVlbk1vZGVsLnByb2pEYXRhLnByb2plY3RJRH0iPg==</text>
+        <text encoding="base64">ZmVhdHVyZVN3aXRjaDppc0Rpc2FibGVkPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvbmcgRE9DVU1FTlRfSUQgPSA0NTY3ODlMOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCS8vICRyb290U2NvcGUuJGRpZ2VzdCgpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvbmcgRE9DVU1FTlRfSUQgPSA0NTY3ODlMOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCS8vICRyb290U2NvcGUuJGRpZ2VzdCgpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGVsZW1lbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCRyb290U2NvcGUuZm9ybS51cGxvYWRGb3JtKTsK</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKGVsZW1lbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCS8vIGNvbnNvbGUubG9nKGVsZW1lbnQpOwo=</text>
+        <text encoding="base64">CQkJCWNvbnNvbGUubG9nKCRyb290U2NvcGUuZm9ybS51cGxvYWRGb3JtKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhmaWVsZENvbnRyb2wpOwo=</text>
+        <text encoding="base64">CQkJCS8vIGNvbnNvbGUubG9nKGVsZW1lbnQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl2YXIgc2NvcGUgPSBmaWVsZENvbnRyb2wuaXNvbGF0ZVNjb3BlKCk7Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhmaWVsZENvbnRyb2wpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
