@@ -176,6 +176,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" timestamp="1562886220171">
+        <mark key="'" line="65" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1562313846500">
         <mark key="[" line="20" column="52" />
         <mark key="]" line="20" column="58" />
@@ -198,6 +201,9 @@
         <mark key="]" line="9" column="39" />
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueValidationResult.java" timestamp="1562886253138">
+        <mark key="'" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/191.7479.19/IntelliJ IDEA.app.vmoptions" timestamp="1562549759918">
         <mark key="[" line="1" column="4" />
@@ -247,12 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="86" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="136" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="362" column="49" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="15" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="131" column="100" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="215" column="80" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="214" column="94" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="9" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
@@ -347,6 +347,12 @@
       <jump line="2790" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
       <jump line="2793" column="6" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
       <jump line="71" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/ControlledDocEdit.jsp" />
+      <jump line="88" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
+      <jump line="93" column="62" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
+      <jump line="14" column="41" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
+      <jump line="65" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
+      <jump line="17" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueValidationResult.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -365,7 +371,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VQcm9qZWN0XD4=</text>
+        <text encoding="base64">XDxjb252ZXJzaW9uRXJyb3JzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>featureSwitch:isDisabled</text>
@@ -402,9 +408,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VQcm9qZWN0XD4=</last-search>
+      <last-search encoding="base64">XDxjb252ZXJzaW9uRXJyb3JzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VQcm9qZWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb252ZXJzaW9uRXJyb3JzXD4=</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -412,8 +418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>documentlock</entry>
-        <entry encoding="base64">XDxmaWxlVHlwZVw+</entry>
         <entry encoding="base64">XDxmaWxldHlwZVw+</entry>
         <entry>projec</entry>
         <entry>isolate</entry>
@@ -432,6 +436,8 @@
         <entry encoding="base64">XDxjb250cm9sbGVkRG9jdW1lbnRDcmVhdGVGb3JtXD4=</entry>
         <entry encoding="base64">XDxmZWF0dXJlU3dpdGNoXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VQcm9qZWN0XD4=</entry>
+        <entry encoding="base64">XDxEb2N1bWVudEZpZWxkVmFsdWVWYWxpZGF0aW9uUmVzdWx0XD4=</entry>
+        <entry encoding="base64">XDxjb252ZXJzaW9uRXJyb3JzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/uploadForm/supersedeForm/g</entry>
