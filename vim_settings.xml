@@ -16,7 +16,7 @@
         <mark key="]" line="0" column="71" />
         <mark key="." line="0" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" timestamp="1562891252547">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" timestamp="1562892922436">
         <mark key="'" line="70" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1562680607229">
@@ -259,15 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="398" column="59" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="402" column="58" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="412" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="438" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
-      <jump line="22" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
-      <jump line="97" column="45" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" />
-      <jump line="746" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/upload/angular.js" />
-      <jump line="30" column="71" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/upload/templates.js" />
       <jump line="5" column="4" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberField.tpl.html" />
       <jump line="19" column="48" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" />
@@ -355,7 +346,16 @@
       <jump line="107" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
       <jump line="184" column="17" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
       <jump line="11" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="29" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="212" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="209" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="208" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="205" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="204" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="201" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="200" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="71" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="509" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
+      <jump line="29" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
       <jump line="30" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
       <jump line="65" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
       <jump line="70" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
@@ -377,7 +377,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>created</text>
+        <text>date</text>
       </register>
       <register name="0" type="4">
         <text>featureSwitch:isDisabled</text>
@@ -414,9 +414,9 @@
       </register>
     </registers>
     <search>
-      <last-search>created</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern>created</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -442,8 +442,8 @@
         <entry encoding="base64">XDxjb252ZXJzaW9uRXJyb3JzXD4=</entry>
         <entry encoding="base64">XDxnZXRWYWxpZGF0YWJsZUZpZWxkTWFwXD4=</entry>
         <entry encoding="base64">XDxwYXJzZVN0cmluZ0FzRGF0ZVw+</entry>
-        <entry>date</entry>
         <entry>created</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>%s/uploadForm/supersedeForm/g</entry>
