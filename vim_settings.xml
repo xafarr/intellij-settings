@@ -4,8 +4,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/utilities/featureswitch/AbstractListFeatureSwitch.java" timestamp="1562829254739" />
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562893494839">
-        <mark key="'" line="113" column="8" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562895241233">
+        <mark key="'" line="160" column="109" />
         <mark key="[" line="109" column="19" />
         <mark key="]" line="160" column="37" />
         <mark key="." line="101" column="221" />
@@ -220,12 +220,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" timestamp="1562894373353">
-        <mark key="'" line="130" column="34" />
-        <mark key="[" line="33" column="57" />
-        <mark key="]" line="33" column="50" />
-        <mark key="." line="33" column="50" />
-        <mark key="^" line="33" column="50" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" timestamp="1562895562960">
+        <mark key="'" line="79" column="50" />
+        <mark key="[" line="95" column="11" />
+        <mark key="]" line="95" column="12" />
+        <mark key="." line="95" column="12" />
+        <mark key="^" line="79" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/documentNumberField/documentNumberFieldSpec.js" timestamp="1562653318798">
         <mark key="[" line="69" column="0" />
@@ -260,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
-      <jump line="77" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
       <jump line="139" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
       <jump line="125" column="25" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.js" />
       <jump line="526" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/DocControlBaseControl.java" />
@@ -346,20 +344,22 @@
       <jump line="30" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
       <jump line="65" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
       <jump line="70" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="109" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="110" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
       <jump line="117" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="118" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="119" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="120" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="121" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="122" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="123" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="159" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
-      <jump line="160" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
       <jump line="184" column="4" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
       <jump line="105" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
       <jump line="113" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="78" column="50" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
+      <jump line="83" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="109" column="117" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="110" column="133" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="118" column="107" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="119" column="115" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="120" column="109" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="121" column="107" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="122" column="107" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="123" column="107" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="159" column="109" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
+      <jump line="160" column="109" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -375,10 +375,10 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>if ()</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text encoding="base64">XDxkYXRlVGltZUZvcm1hdFw+</text>
       </register>
       <register name="0" type="8">
         <text>document.getMilestonedate()
@@ -425,9 +425,9 @@ document.getDate2()</text>
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search encoding="base64">XDxkYXRlVGltZUZvcm1hdFw+</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRlVGltZUZvcm1hdFw+</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -435,7 +435,6 @@ document.getDate2()</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDb25maWdEZWZlcnJlZFw+</entry>
         <entry encoding="base64">XDxwcm9wZXJ0aWVzTG9ja2VkXD4=</entry>
         <entry>uploadForm</entry>
         <entry>uploadform</entry>
@@ -455,6 +454,7 @@ document.getDate2()</text>
         <entry encoding="base64">XDxwYXJzZVN0cmluZ0FzRGF0ZVw+</entry>
         <entry>created</entry>
         <entry>date</entry>
+        <entry encoding="base64">XDxkYXRlVGltZUZvcm1hdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/uploadForm/supersedeForm/g</entry>
