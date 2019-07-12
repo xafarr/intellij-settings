@@ -377,7 +377,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>created</text>
       </register>
       <register name="0" type="4">
         <text>featureSwitch:isDisabled</text>
@@ -414,9 +414,9 @@
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>created</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>created</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -424,7 +424,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
         <entry encoding="base64">XDxnZXRDb25maWdEZWZlcnJlZFw+</entry>
         <entry encoding="base64">XDxwcm9wZXJ0aWVzTG9ja2VkXD4=</entry>
         <entry>uploadForm</entry>
@@ -444,6 +443,7 @@
         <entry encoding="base64">XDxnZXRWYWxpZGF0YWJsZUZpZWxkTWFwXD4=</entry>
         <entry encoding="base64">XDxwYXJzZVN0cmluZ0FzRGF0ZVw+</entry>
         <entry>date</entry>
+        <entry>created</entry>
       </history-search>
       <history-cmd>
         <entry>%s/uploadForm/supersedeForm/g</entry>
