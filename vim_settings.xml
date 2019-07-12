@@ -149,11 +149,11 @@
       <file name="/fragment.java" timestamp="1562807892503">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.js" timestamp="1562909323780">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.js" timestamp="1562910104927">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="19" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -272,7 +272,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text>$scope.field.config.value</text>
+        <text encoding="base64">bmV3IERhdGUoZGF0ZVN0cikg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlVGltZUZvcm1hdFw+</text>
