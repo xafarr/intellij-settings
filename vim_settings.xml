@@ -14,12 +14,12 @@
         <mark key="." line="1673" column="68" />
         <mark key="^" line="1673" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1562895241233">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoConverter.java" timestamp="1563105605186">
         <mark key="'" line="160" column="109" />
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="160" column="37" />
-        <mark key="." line="101" column="221" />
-        <mark key="^" line="109" column="8" />
+        <mark key="[" line="184" column="56" />
+        <mark key="]" line="184" column="57" />
+        <mark key="." line="184" column="57" />
+        <mark key="^" line="184" column="57" />
       </file>
       <file name="/fragment.js" timestamp="1562807930732">
         <mark key="[" line="0" column="0" />
@@ -96,8 +96,8 @@
       <file name="/Dummy.vm" timestamp="1562549530491">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1563061329086">
-        <mark key="'" line="102" column="21" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1563105532790">
+        <mark key="'" line="124" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/project/ProjectGetDetailsRoles.jsp" timestamp="1562826608168">
         <mark key="[" line="261" column="8" />
@@ -154,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/DocControlBaseControl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
@@ -254,6 +253,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" />
       <jump line="24" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" />
       <jump line="102" column="21" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" />
+      <jump line="124" column="17" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -269,7 +269,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IERhdGUoZGF0ZVN0cikg</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVw+</text>
