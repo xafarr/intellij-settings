@@ -123,9 +123,9 @@
         <mark key="^" line="5" column="75" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563196267694">
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563197485835">
+        <mark key="[" line="201" column="62" />
+        <mark key="]" line="201" column="77" />
         <mark key="." line="203" column="0" />
         <mark key="^" line="203" column="23" />
       </file>
@@ -297,7 +297,7 @@
         <text encoding="base64">XDxhamF4XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>response.data.enabled;</text>
+        <text>/featureswitches</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQlpc05ld1BhZ2UgPSByZXNwb25zZS5kYXRhLmVuYWJsZWQ7Cg==</text>
