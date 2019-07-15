@@ -32,6 +32,10 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" timestamp="1562892922436">
         <mark key="'" line="70" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/controlleddoc/js/controlleddoc.js" timestamp="1563195501760">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="212" />
+      </file>
       <file name="/a.dummy" timestamp="1562680607229">
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,8 +123,11 @@
         <mark key="^" line="5" column="75" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563193862366">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563196267694">
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+        <mark key="^" line="203" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/menu/mainMenu.js" timestamp="1562805676026">
         <mark key="[" line="671" column="4" />
@@ -145,6 +152,15 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueValidationResult.java" timestamp="1562886253138">
         <mark key="'" line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/view/services/documentRetrieval/documentRetrieval.js" timestamp="1563195113835">
+        <mark key="[" line="291" column="49" />
+        <mark key="]" line="291" column="86" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/featureSwitchService.js" timestamp="1563195121212">
+        <mark key="[" line="4" column="97" />
+        <mark key="]" line="4" column="135" />
+        <mark key="." line="4" column="97" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" timestamp="1562743720834">
         <mark key="'" line="21" column="20" />
         <mark key="[" line="0" column="57" />
@@ -160,27 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" />
-      <jump line="72" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="84" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="417" column="39" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="418" column="48" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="427" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="431" column="42" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="435" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="440" column="58" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="445" column="50" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="449" column="67" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="15" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="56" column="64" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="411" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="111" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="157" column="77" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="199" column="73" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="58" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="19" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
-      <jump line="74" column="37" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="4" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" />
       <jump line="54" column="73" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
       <jump line="96" column="65" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
       <jump line="109" column="44" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
@@ -260,6 +255,27 @@
       <jump line="310" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" />
       <jump line="560" column="25" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="187" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="202" column="14" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="357" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="446" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="608" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="695" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="738" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="890" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="968" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="990" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="1050" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="1247" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="286" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="200" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="287" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="285" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="201" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="290" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="361" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="450" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="206" column="115" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -272,61 +288,59 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
+        <text>' + this.config.documentId + '</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>EditControlledDoc</text>
+        <text encoding="base64">XDxhamF4XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGF0ZVNlbGVjdGVkIA==</text>
+        <text>response.data.enabled;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkkc2NvcGUuc2VsZWN0ZWREYXRlID0gbmV3IERhdGUoKTsK</text>
+        <text encoding="base64">CQkJCQlpc05ld1BhZ2UgPSByZXNwb25zZS5kYXRhLmVuYWJsZWQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZG9jdW1lbnQuZ2V0TWlsZXN0b25lZGF0ZSgpCmRvY3VtZW50LmdldFBsYW5uZWRzdWJtaXNzaW9uZGF0ZSgpCmRvY3VtZW50LmdldFJlY2VpdmVkKCkKZG9jdW1lbnQuZ2V0UmV2aXNpb25kYXRlKCkKZG9jdW1lbnQuZ2V0Rm9ycmV2aWV3KCkKZG9jdW1lbnQuZ2V0UmV2aWV3ZWQoKQpkb2N1bWVudC5nZXRUb2NsaWVudCgpCmRvY3VtZW50LmdldEFwcHJvdmVkKCkKZG9jdW1lbnQuZ2V0RGF0ZTEoKQpkb2N1bWVudC5nZXREYXRlMigpCg==</text>
+        <text encoding="base64">CQl2YXIgaXNOZXdQYWdlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZG9jdW1lbnQuZ2V0U2NhbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb24uaHJlZiA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiIgKwogICAgICAgICAgICAgICAgIiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBzZXR0aW5ncy5wcm9qZWN0SWQgKwogICAgICAgICAgICAgICAgIiZDb250cm9sbGVkRG9jdW1lbnRfSUQ9IiArIGFjY2Vzc1Byb3BlcnRpZXMuZG9jdW1lbnRJZCArCiAgICAgICAgICAgICAgICAiJkZST01fUEFHRT0iICsgcmV0dXJuVXJsICsKICAgICAgICAgICAgICAgICImc3VwcGxpZXJEb2NTdXBlcnNlZGVSZXR1cm5Vcmw9IiArIHJldHVyblVybDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>' + this.config.documentId + '</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>document/supersede/index.html?ControlledDocument_ID=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGZlYXR1cmVTd2l0Y2g6aXNEaXNhYmxlZCBmZWF0dXJlU3dpdGNoPSJkb2N1bWVudFVwbG9hZEluQW5ndWxhckpzRmVhdHVyZVN3aXRjaCI+CiAgICA8YzppZiB0ZXN0PSIke2lzTmV3fSI+CiAgICBmdW5jdGlvbiBjaGFuZ2VQcm9qZWN0ICgpIHsKICAgICAgICAvLyBUT0RPIFRoaXMgbGl0dGxlIGhhY2sgaXMgdG8gYXZvaWQgaGF2aW5nIHRvIHVwZGF0ZSB0aGUgYmFja2VuZCB0byBleHBlY3QgUFJPSkVDVF9JRC4KICAgICAgICAvLyBJdCByZWFsbHkgc2hvdWxkIGJlIFBST0pFQ1RfSUQgdG8gYmUgY29uc2lzdGVudCB3aXRoIHRoZSByZXN0IG9mIHRoZSBhcHAuCiAgICAgICAgJCgiSU5QVVRbbmFtZT1Db250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEXSIpLnZhbCggJCgiSU5QVVRbbmFtZT1QUk9KRUNUX0lEXSIpLnZhbCgpICk7CiAgICAgICAgdmFyIGZvcm0gPSBkb2N1bWVudC5mb3JtMTsKICAgICAgICBmb3JtLmFjdGlvbj0iL0VkaXRDb250cm9sbGVkRG9jP0VESVRfQUNUSU9OPTUiOwogICAgICAgIGZvcm0uc3VibWl0KCk7CiAgICB9CiAgICA8L2M6aWY+CiAgICA8L2ZlYXR1cmVTd2l0Y2g6aXNEaXNhYmxlZD4K</text>
+      <register name="6" type="4">
+        <text>' + this.config.documentId + '</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>document/supersede/index.html?ControlledDocument_ID=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvbmcgRE9DVU1FTlRfSUQgPSA0NTY3ODlMOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnRpb25zCg==</text>
+        <text encoding="base64">CQkJCQkJbG9jYXRpb24uaHJlZiA9IGFjeC5nZXRSZXNvdXJjZVBhdGgoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>set rnu!</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>EditControlledDoc</last-search>
+      <last-search encoding="base64">XDxhamF4XD4=</last-search>
       <last-offset />
-      <last-pattern>EditControlledDoc</last-pattern>
+      <last-pattern encoding="base64">XDxhamF4XD4=</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1</entry>
-        <entry encoding="base64">XDxUcmFuc2xhdGVkXD4=</entry>
         <entry>Trans</entry>
         <entry>digest</entry>
         <entry>DOC-NEW</entry>
@@ -345,6 +359,8 @@
         <entry encoding="base64">XDxfRVhJU1RJTkdfRE9DX0lEXD4=</entry>
         <entry>supplier</entry>
         <entry>EditControlledDoc</entry>
+        <entry>acx.ajax</entry>
+        <entry encoding="base64">XDxhamF4XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/upload/supersede/g</entry>
@@ -359,14 +375,14 @@
         <entry>h Y</entry>
         <entry encoding="base64">JXMvXDxmaWxlVHlwZVw+L2ZpbGV0eXBlL2c=</entry>
         <entry encoding="base64">JXMvXDxmaWxldHlwZVw+L2ZpbGVUeXBlL2c=</entry>
-        <entry>let @/=''</entry>
-        <entry>noh</entry>
         <entry>reg</entry>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
         <entry>set hls!</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>set rnu!</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
