@@ -78,12 +78,9 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/partition/bean/BasePartitionBean.java" timestamp="1562818949055">
         <mark key="'" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563348510608">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563355644269">
         <mark key="'" line="22" column="12" />
-        <mark key="[" line="62" column="108" />
-        <mark key="]" line="64" column="77" />
-        <mark key="." line="64" column="77" />
-        <mark key="^" line="64" column="77" />
+        <mark key="]" line="62" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562579746322">
         <mark key="'" line="31" column="48" />
@@ -123,6 +120,12 @@
         <mark key="^" line="5" column="75" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleSelectField/singleSelectField.js" timestamp="1563356105873">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563340925556">
         <mark key="'" line="1038" column="29" />
       </file>
@@ -134,6 +137,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1563356061490">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.tpl.html" timestamp="1562909297021">
         <mark key="[" line="5" column="21" />
@@ -173,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="76" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="46" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.js" />
       <jump line="21" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" />
       <jump line="482" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
@@ -273,6 +278,7 @@
       <jump line="1038" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
       <jump line="122" column="59" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
       <jump line="306" column="72" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -288,40 +294,42 @@
         <text>' + this.config.documentId + '</text>
       </register>
       <register name="-" type="4">
-        <text>new CustomFieldValueEntity();</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFWENMVURJTkdfQk9PTEVBTl9DVVNUT01fRklFTERTXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGVudGl0eS5nZXREb2NDb250ZW50KCkpLnRoZW5SZXR1cm4oRE9DX0NPTlRFTlQpOwo=</text>
+      <register name="0" type="4">
+        <text>SingleSelectFieldController</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCQlpZiAocmVzcG9uc2UuZW5hYmxlZCkgewoJCQkJCQlsb2NhdGlvbi5yZXBsYWNlKGFjeC5nZXRSZXNvdXJjZVBhdGgoImRvY3VtZW50L3N1cGVyc2VkZS9pbmRleC5odG1sP0NvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgYWNjZXNzUHJvcGVydGllcy5kb2N1bWVudElkICsK</text>
+      <register name="1" type="4">
+        <text>else {
+			$scope.formData[field.id] = field.config.value;
+		}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">CQkJCQlpZiAocmVzcG9uc2UuZW5hYmxlZCkgewoJCQkJCQlsb2NhdGlvbi5yZXBsYWNlKGFjeC5nZXRSZXNvdXJjZVBhdGgoImRvY3VtZW50L3N1cGVyc2VkZS9pbmRleC5odG1sP0NvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgYWNjZXNzUHJvcGVydGllcy5kb2N1bWVudElkICsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlpc05ld1BhZ2UgPSByZXNwb25zZS5kYXRhLmVuYWJsZWQ7Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXIgaXNOZXdQYWdlOwo=</text>
+        <text encoding="base64">CQkJCQlpc05ld1BhZ2UgPSByZXNwb25zZS5kYXRhLmVuYWJsZWQ7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQl2YXIgaXNOZXdQYWdlOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb24uaHJlZiA9ICIvRWRpdENvbnRyb2xsZWREb2M/RURJVF9BQ1RJT049MiIgKwogICAgICAgICAgICAgICAgIiZDb250cm9sbGVkRG9jdW1lbnRfcHJvamVjdElEPSIgKyBzZXR0aW5ncy5wcm9qZWN0SWQgKwogICAgICAgICAgICAgICAgIiZDb250cm9sbGVkRG9jdW1lbnRfSUQ9IiArIGFjY2Vzc1Byb3BlcnRpZXMuZG9jdW1lbnRJZCArCiAgICAgICAgICAgICAgICAiJkZST01fUEFHRT0iICsgcmV0dXJuVXJsICsKICAgICAgICAgICAgICAgICImc3VwcGxpZXJEb2NTdXBlcnNlZGVSZXR1cm5Vcmw9IiArIHJldHVyblVybDsK</text>
       </register>
-      <register name="6" type="4">
-        <text>' + this.config.documentId + '</text>
-      </register>
       <register name="7" type="4">
-        <text>document/supersede/index.html?ControlledDocument_ID=</text>
+        <text>' + this.config.documentId + '</text>
       </register>
       <register name="8" type="4">
-        <text>' + this.config.documentId + '</text>
+        <text>document/supersede/index.html?ControlledDocument_ID=</text>
       </register>
       <register name="9" type="4">
-        <text>document/supersede/index.html?ControlledDocument_ID=</text>
+        <text>' + this.config.documentId + '</text>
       </register>
       <register name=":" type="4">
         <text>set rnu!</text>
