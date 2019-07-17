@@ -36,9 +36,6 @@
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="212" />
       </file>
-      <file name="/a.dummy" timestamp="1562680607229">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/AbstractProjectResolver.java" timestamp="1563326551277">
         <mark key="'" line="66" column="20" />
       </file>
@@ -85,9 +82,6 @@
         <mark key="." line="100" column="69" />
         <mark key="^" line="100" column="69" />
       </file>
-      <file name="/JavaScript Console" timestamp="1562906082363">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.tpl.html" timestamp="1562579746322">
         <mark key="'" line="31" column="48" />
         <mark key="[" line="31" column="48" />
@@ -100,9 +94,6 @@
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="/Dummy.vm" timestamp="1562549530491">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1563105532790">
         <mark key="'" line="124" column="17" />
       </file>
@@ -110,11 +101,11 @@
         <mark key="[" line="261" column="8" />
         <mark key="]" line="261" column="116" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562741368850">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="vm:1189" timestamp="1562570141148">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/BaseDocConverterTest.java" timestamp="1563328409093">
+        <mark key="[" line="75" column="68" />
+        <mark key="]" line="75" column="85" />
+        <mark key="." line="75" column="85" />
+        <mark key="^" line="75" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562658329891">
         <mark key="'" line="3" column="44" />
@@ -291,13 +282,13 @@
         <text>' + this.config.documentId + '</text>
       </register>
       <register name="-" type="4">
-        <text>projectId</text>
+        <text>DOC_CONTENT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>Aconex:type=Settings,name=FeatureSwitches,value=DocumentUploadInAngularJs</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGVudGl0eS5nZXREb2NDb250ZW50KCkpLnRoZW5SZXR1cm4oRE9DX0NPTlRFTlQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQlpZiAocmVzcG9uc2UuZW5hYmxlZCkgewoJCQkJCQlsb2NhdGlvbi5yZXBsYWNlKGFjeC5nZXRSZXNvdXJjZVBhdGgoImRvY3VtZW50L3N1cGVyc2VkZS9pbmRleC5odG1sP0NvbnRyb2xsZWREb2N1bWVudF9JRD0iICsgYWNjZXNzUHJvcGVydGllcy5kb2N1bWVudElkICsK</text>
