@@ -321,7 +321,7 @@
         <text>document/supersede/index.html?ControlledDocument_ID=</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>set rnu!</text>
       </register>
     </registers>
     <search>
@@ -371,12 +371,12 @@
         <entry>m .-2</entry>
         <entry>set hls!</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>set rnu!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
         <entry>q</entry>
         <entry>vs</entry>
         <entry>ls</entry>
+        <entry>set rnu!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
