@@ -36,6 +36,9 @@
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="212" />
       </file>
+      <file name="/a.dummy" timestamp="1563330748957">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/AbstractProjectResolver.java" timestamp="1563326551277">
         <mark key="'" line="66" column="20" />
       </file>
@@ -101,11 +104,11 @@
         <mark key="[" line="261" column="8" />
         <mark key="]" line="261" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/BaseDocConverterTest.java" timestamp="1563328409093">
-        <mark key="[" line="75" column="68" />
-        <mark key="]" line="75" column="85" />
-        <mark key="." line="75" column="85" />
-        <mark key="^" line="75" column="85" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/BaseDocConverterTest.java" timestamp="1563331020248">
+        <mark key="[" line="78" column="79" />
+        <mark key="]" line="78" column="83" />
+        <mark key="." line="78" column="83" />
+        <mark key="^" line="78" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormService.js" timestamp="1562658329891">
         <mark key="'" line="3" column="44" />
@@ -282,7 +285,7 @@
         <text>' + this.config.documentId + '</text>
       </register>
       <register name="-" type="4">
-        <text>DOC_CONTENT</text>
+        <text>new CustomFieldValueEntity();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxsYmFja1w+</text>
@@ -328,7 +331,7 @@
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
