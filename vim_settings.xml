@@ -10,7 +10,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" timestamp="1563193506576">
         <mark key="'" line="560" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/EditControlledDocControl.java" timestamp="1563359691900" />
       <file name="/fragment.js" timestamp="1562807930732">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="71" />
@@ -36,6 +35,12 @@
         <mark key="[" line="771" column="41" />
         <mark key="]" line="771" column="113" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleSelectField/singleSelectFieldSpec.js" timestamp="1563399249702">
+        <mark key="[" line="31" column="98" />
+        <mark key="]" line="31" column="99" />
+        <mark key="^" line="31" column="104" />
+        <mark key="." line="31" column="99" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562723609014">
         <mark key="[" line="16" column="49" />
         <mark key="]" line="16" column="50" />
@@ -53,11 +58,9 @@
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/page/FieldBuilder.java" timestamp="1563358912968" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563344947761">
         <mark key="'" line="306" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/documentform/DocumentFormServiceImpl.java" timestamp="1563358828597" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1563105532790">
         <mark key="'" line="124" column="17" />
       </file>
@@ -92,7 +95,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueDataServiceImpl.java" timestamp="1563360596474" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1563356061490">
         <mark key="'" line="0" column="0" />
       </file>
@@ -117,7 +119,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1563324580980">
         <mark key="'" line="602" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/domain/PreferenceBasedDocumentDefaultFieldValueRepository.java" timestamp="1563360506791" />
       <file name="/fragment.java" timestamp="1563254153479">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
@@ -291,7 +292,7 @@
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
