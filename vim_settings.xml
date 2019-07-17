@@ -92,6 +92,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueDataServiceImpl.java" timestamp="1563360596474" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1563356061490">
         <mark key="'" line="0" column="0" />
       </file>
@@ -116,6 +117,7 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1563324580980">
         <mark key="'" line="602" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/domain/PreferenceBasedDocumentDefaultFieldValueRepository.java" timestamp="1563360506791" />
       <file name="/fragment.java" timestamp="1563254153479">
         <mark key="[" line="0" column="39" />
         <mark key="]" line="0" column="39" />
