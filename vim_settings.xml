@@ -35,7 +35,7 @@
         <mark key="[" line="771" column="41" />
         <mark key="]" line="771" column="113" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleSelectField/singleSelectFieldSpec.js" timestamp="1563399249702">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleSelectField/singleSelectFieldSpec.js" timestamp="1563403665485">
         <mark key="[" line="31" column="98" />
         <mark key="]" line="31" column="99" />
         <mark key="^" line="31" column="104" />
@@ -58,8 +58,14 @@
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563344947761">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563403766146">
         <mark key="'" line="306" column="72" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="92" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/CorrConverterTest.java" timestamp="1563404014337">
+        <mark key="[" line="186" column="8" />
+        <mark key="]" line="193" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1563105532790">
         <mark key="'" line="124" column="17" />
@@ -68,10 +74,10 @@
         <mark key="[" line="261" column="8" />
         <mark key="]" line="261" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/BaseDocConverterTest.java" timestamp="1563331020248">
-        <mark key="[" line="78" column="79" />
-        <mark key="]" line="78" column="83" />
-        <mark key="." line="78" column="83" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/BaseDocConverterTest.java" timestamp="1563404024357">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="87" column="11" />
+        <mark key="." line="80" column="0" />
         <mark key="^" line="78" column="83" />
       </file>
       <file name="/Dummy.txt" timestamp="1563350754910">
@@ -250,7 +256,7 @@
         <text encoding="base64">XDxFWENMVURJTkdfQk9PTEVBTl9DVVNUT01fRklFTERTXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>SingleSelectFieldController</text>
+        <text encoding="base64">Yy5zZXRNYWlsRm9ybUZpZWxkVmFsdWVFbnRpdGllcyhMaXN0cy48Q3VzdG9tRmllbGRWYWx1ZUVudGl0eT5uZXdBcnJheUxpc3QoCiAgICAgICAgICAgICAgICBjcmVhdGVNYWlsRm9ybVZhbHVlKGMuZ2V0Q29ycklkKCksIENVU1RPTV9GSUVMRF9OVU1CRVJfTkFNRSwgTUFJTF9GT1JNX0ZJRUxEX05VTUJFUl9WQUxVRSksCiAgICAgICAgICAgICAgICBjcmVhdGVNYWlsRm9ybVZhbHVlKGMuZ2V0Q29ycklkKCksIENVU1RPTV9GSUVMRF9TSU5HTEVfTElORV9URVhUX05BTUUsIE1BSUxfRk9STV9GSUVMRF9TSU5HTEVfTElORV9URVhUX1ZBTFVFKSwKICAgICAgICAgICAgICAgIGNyZWF0ZU1haWxGb3JtVmFsdWUoYy5nZXRDb3JySWQoKSwgQ1VTVE9NX0ZJRUxEX01VTFRJX0xJTkVfVEVYVF9OQU1FLCBNQUlMX0ZPUk1fRklFTERfTVVMVElfTElORV9URVhUX1ZBTFVFKSwKICAgICAgICAgICAgICAgIGNyZWF0ZU1haWxGb3JtVmFsdWUoYy5nZXRDb3JySWQoKSwgQ1VTVE9NX0ZJRUxEX0RBVEVfTkFNRSwgTUFJTF9GT1JNX0ZJRUxEX0RBVEVfVkFMVUUpLAogICAgICAgICAgICAgICAgY3JlYXRlTWFpbEZvcm1WYWx1ZShjLmdldENvcnJJZCgpLCBDVVNUT01fRklFTERfQk9PTEVBTl9OQU1FLCBNQUlMX0ZPUk1fRklFTERfQk9PTEVBTl9WQUxVRSksCiAgICAgICAgICAgICAgICBjcmVhdGVNYWlsRm9ybVZhbHVlKGMuZ2V0Q29ycklkKCksIENVU1RPTV9GSUVMRF9TSU5HTEVfU0VMRUNUX05BTUUsIE1BSUxfRk9STV9GSUVMRF9TSU5HTEVfU0VMRUNUX1ZBTFVFKQogICAgICAgICkpOw==</text>
       </register>
       <register name="1" type="4">
         <text>else {
