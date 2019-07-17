@@ -7,7 +7,6 @@
         <mark key="[" line="115" column="32" />
         <mark key="]" line="115" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/utilities/featureswitch/AbstractListFeatureSwitch.java" timestamp="1563262759515" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/test/helpers/commonMocks.js" timestamp="1562579819193">
         <mark key="'" line="1830" column="82" />
         <mark key="[" line="1673" column="140" />
@@ -39,6 +38,9 @@
       </file>
       <file name="/a.dummy" timestamp="1562680607229">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/AbstractProjectResolver.java" timestamp="1563326551277">
+        <mark key="'" line="66" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" timestamp="1562769651153">
         <mark key="'" line="11" column="30" />
@@ -98,7 +100,6 @@
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/supplierdoc/utils/SupplierDocumentAccessControl.java" timestamp="1563254917570" />
       <file name="/Dummy.vm" timestamp="1562549530491">
         <mark key="[" line="0" column="0" />
       </file>
@@ -122,7 +123,6 @@
         <mark key="^" line="5" column="75" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/AbstractResolver.java" timestamp="1563321094943" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563262483249">
         <mark key="'" line="1271" column="44" />
         <mark key="[" line="202" column="87" />
@@ -156,7 +156,6 @@
         <mark key="]" line="4" column="135" />
         <mark key="." line="4" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/supplierdoc/controller/SupplierDocSearchControl.java" timestamp="1563253830331" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1563324580980">
         <mark key="'" line="602" column="55" />
       </file>
@@ -177,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="380" column="63" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="433" column="60" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="447" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
@@ -277,6 +275,7 @@
       <jump line="925" column="67" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" />
       <jump line="601" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" />
       <jump line="602" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" />
+      <jump line="66" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/AbstractProjectResolver.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -295,7 +294,7 @@
         <text>projectId</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text encoding="base64">XDxjYWxsYmFja1w+</text>
       </register>
       <register name="0" type="4">
         <text>Aconex:type=Settings,name=FeatureSwitches,value=DocumentUploadInAngularJs</text>
@@ -332,17 +331,16 @@
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search encoding="base64">XDxjYWxsYmFja1w+</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsYmFja1w+</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DOC-NEW</entry>
         <entry encoding="base64">XDxfVVJMX0NEX0VESVRcPg==</entry>
         <entry encoding="base64">XDxjb250cm9sbGVkRG9jdW1lbnRDcmVhdGVGb3JtXD4=</entry>
         <entry encoding="base64">XDxmZWF0dXJlU3dpdGNoXD4=</entry>
@@ -362,10 +360,9 @@
         <entry encoding="base64">XDxhamF4XD4=</entry>
         <entry>projectid</entry>
         <entry>index</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/upload/supersede/g</entry>
-        <entry>set hls?</entry>
         <entry>15,18s/&quot;//g</entry>
         <entry>w</entry>
         <entry encoding="base64">JXMvXDx1cGxvYWRcPi9zdXBlcnNlZGUvZw==</entry>
@@ -383,7 +380,9 @@
         <entry>set rnu!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
+        <entry>q</entry>
         <entry>vs</entry>
+        <entry>ls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
