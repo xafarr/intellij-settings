@@ -54,9 +54,6 @@
         <mark key="[" line="771" column="41" />
         <mark key="]" line="771" column="113" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" timestamp="1563321861521">
-        <mark key="'" line="163" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentform/DocumentFormServiceImplTest.java" timestamp="1562743015119">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="54" column="0" />
@@ -160,6 +157,9 @@
         <mark key="." line="4" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/supplierdoc/controller/SupplierDocSearchControl.java" timestamp="1563253830331" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1563324580980">
+        <mark key="'" line="602" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadForm.tpl.html" timestamp="1562743720834">
         <mark key="'" line="21" column="20" />
         <mark key="[" line="0" column="57" />
@@ -177,10 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="88" column="52" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="291" column="52" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
-      <jump line="303" column="106" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="359" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="380" column="63" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
       <jump line="433" column="60" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/uploadForm/uploadFormSpec.js" />
@@ -277,6 +273,10 @@
       <jump line="1272" column="44" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/resolver/DocResolverIntegrationTest.java" />
       <jump line="163" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" />
+      <jump line="65" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" />
+      <jump line="925" column="67" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" />
+      <jump line="601" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" />
+      <jump line="602" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -295,7 +295,7 @@
         <text>projectId</text>
       </register>
       <register name="/" type="4">
-        <text>projectid</text>
+        <text>index</text>
       </register>
       <register name="0" type="4">
         <text>Aconex:type=Settings,name=FeatureSwitches,value=DocumentUploadInAngularJs</text>
@@ -328,21 +328,20 @@
         <text>document/supersede/index.html?ControlledDocument_ID=</text>
       </register>
       <register name=":" type="4">
-        <text>set rnu!</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>projectid</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>projectid</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>digest</entry>
         <entry>DOC-NEW</entry>
         <entry encoding="base64">XDxfVVJMX0NEX0VESVRcPg==</entry>
         <entry encoding="base64">XDxjb250cm9sbGVkRG9jdW1lbnRDcmVhdGVGb3JtXD4=</entry>
@@ -362,6 +361,7 @@
         <entry>acx.ajax</entry>
         <entry encoding="base64">XDxhamF4XD4=</entry>
         <entry>projectid</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>%s/upload/supersede/g</entry>
@@ -381,9 +381,9 @@
         <entry>m .-2</entry>
         <entry>set hls!</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>set rnu!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
-        <entry>set rnu!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
