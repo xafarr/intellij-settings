@@ -45,12 +45,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/AbstractProjectEntity.java" timestamp="1563415803403">
         <mark key="[" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563415385046">
-        <mark key="'" line="135" column="51" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
-        <mark key="^" line="133" column="14" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563416780752">
+        <mark key="'" line="148" column="11" />
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="298" column="5" />
+        <mark key="." line="300" column="0" />
+        <mark key="^" line="123" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/CorrConverterTest.java" timestamp="1563408563617">
         <mark key="'" line="195" column="53" />
@@ -79,12 +79,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" timestamp="1563415242108">
-        <mark key="'" line="252" column="12" />
-        <mark key="[" line="248" column="27" />
-        <mark key="]" line="248" column="0" />
-        <mark key="^" line="364" column="28" />
-        <mark key="." line="248" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" timestamp="1563417406652">
+        <mark key="'" line="346" column="46" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="0" />
+        <mark key="." line="341" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563340925556">
         <mark key="'" line="1038" column="29" />
@@ -94,11 +93,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/AbstractConverter.java" timestamp="1563415536629">
-        <mark key="[" line="40" column="59" />
-        <mark key="]" line="40" column="64" />
-        <mark key="^" line="40" column="64" />
-        <mark key="." line="40" column="64" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/AbstractConverter.java" timestamp="1563416542379">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1563356061490">
         <mark key="'" line="0" column="0" />
@@ -109,11 +107,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/DocConverterTest.java" timestamp="1563410729580">
-        <mark key="[" line="167" column="83" />
-        <mark key="]" line="167" column="90" />
-        <mark key="." line="167" column="90" />
-        <mark key="^" line="167" column="90" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/DocConverterTest.java" timestamp="1563417569658">
+        <mark key="'" line="159" column="37" />
+        <mark key="[" line="159" column="32" />
+        <mark key="]" line="159" column="37" />
+        <mark key="." line="159" column="37" />
+        <mark key="^" line="159" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueValidationResult.java" timestamp="1562886253138">
         <mark key="'" line="17" column="24" />
@@ -136,19 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
-      <jump line="89" column="41" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
-      <jump line="107" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="212" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="209" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="208" column="38" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="205" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="204" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="201" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="200" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="71" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
-      <jump line="509" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
       <jump line="29" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
       <jump line="30" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
       <jump line="65" column="27" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" />
@@ -215,7 +201,6 @@
       <jump line="202" column="130" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
       <jump line="1038" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
       <jump line="122" column="59" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
-      <jump line="306" column="72" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" />
       <jump line="83" column="74" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/BaseDocConverterTest.java" />
       <jump line="92" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/BaseDocConverterTest.java" />
@@ -236,6 +221,20 @@
       <jump line="130" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
       <jump line="135" column="51" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
       <jump line="353" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/CorrEntity.java" />
+      <jump line="348" column="46" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" />
+      <jump line="254" column="35" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="306" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="307" column="90" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="16" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="18" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="112" column="107" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="114" column="52" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="115" column="54" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="120" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="125" column="92" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="147" column="11" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="148" column="11" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="159" column="37" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/DocConverterTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -251,58 +250,56 @@
         <text>' + this.config.documentId + '</text>
       </register>
       <register name="-" type="4">
-        <text>corrEntity</text>
+        <text>luceneFields</text>
       </register>
       <register name="/" type="4">
-        <text>mail</text>
+        <text>custom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhcHBlbmRNYWlsRm9ybUZpZWxkVmFsdWVzKGNvcnJFbnRpdHksIGJ1aWxkZXIpOwo=</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxGaWVsZD4gZ2V0TWFpbEZvcm1GaWVsZHNDb250ZW50VmFsdWVzKENvcnJFbnRpdHkgY29yckVudGl0eSkgewogICAgICAgIHJldHVybiBjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyLmNvbnZlcnQoCiAgICAgICAgICAgICAgICBmcm9tKGNvcnJFbnRpdHkuZ2V0TWFpbEZvcm1GaWVsZFZhbHVlRW50aXRpZXMoKSkuZmlsdGVyKEVYQ0xVRElOR19CT09MRUFOX0NVU1RPTV9GSUVMRFMpKTsKICAgIH0K</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGFwcGVuZE1haWxGb3JtRmllbGRWYWx1ZXMoY29yckVudGl0eSwgYnVpbGRlcik7Cg==</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEb2NDb252ZXJ0ZXIoKSB7CiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiA9IG5ldyBDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyKGNyZWF0ZUN1c3RvbUZpZWxkQ29udmVydGVyTWFwKCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ3VzdG9tRmllbGRWYWx1ZXNUb0x1Y2VuZUNvbnZlcnRlciBjdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXI7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgLy8gQWRkIGN1c3RvbSBmaWVsZHMgKHByb2plY3QgZmllbGRzKSB0byBsdWNlbmUgZG9jdW1lbnQKICAgICAgICBhZGRDdXN0b21GaWVsZFZhbHVlc1RvRG9jdW1lbnQoZG9jLCBkb2NFbnRpdHkuZ2V0RG9jdW1lbnRGb3JtRmllbGRWYWx1ZUVudGl0aWVzKCkpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIExpc3Q8RmllbGQ+IGdldEN1c3RvbUZvcm1GaWVsZHNDb250ZW50VmFsdWVzKFQgZW50aXR5KSB7CiAgICAgICAgcmV0dXJuIGN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXIuY29udmVydCgKICAgICAgICAgICAgICAgIGZyb20oY29yckVudGl0eS5nZXRNYWlsRm9ybUZpZWxkVmFsdWVFbnRpdGllcygpKS5maWx0ZXIoRVhDTFVESU5HX0JPT0xFQU5fQ1VTVE9NX0ZJRUxEUykpOwogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb20oY29yckVudGl0eS5nZXRNYWlsRm9ybUZpZWxkVmFsdWVFbnRpdGllcygpKS5maWx0ZXIoRVhDTFVESU5HX0JPT0xFQU5fQ1VTVE9NX0ZJRUxEUykpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGFkZEN1c3RvbUZpZWxkVmFsdWVzVG9Eb2N1bWVudChEb2N1bWVudCBsdWNlbmVEb2N1bWVudCwgTGlzdDxDdXN0b21GaWVsZFZhbHVlRW50aXR5PiBtYWlsRm9ybUZpZWxkVmFsdWVFbnRpdGllcykgewogICAgICAgIGZvciAoRmllbGQgZmllbGQgOiBjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyLmNvbnZlcnQobWFpbEZvcm1GaWVsZFZhbHVlRW50aXRpZXMpKSB7CiAgICAgICAgICAgIGx1Y2VuZURvY3VtZW50LmFkZChmaWVsZCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxGaWVsZD4gZ2V0TWFpbEZvcm1GaWVsZHNDb250ZW50VmFsdWVzKENvcnJFbnRpdHkgY29yckVudGl0eSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGFic3RyYWN0IGNsYXNzIEFic3RyYWN0Q29udmVydGVyPFQ+IGltcGxlbWVudHMgQ29udmVydGVyPFQgZXh0ZW5kcyBFbnRpdHk+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPERhdGFUeXBlSWRlbnRpZmllciwgQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyPiBjcmVhdGVDdXN0b21GaWVsZFZhbHVlQ29udmVydGVycygpIHsKICAgICAgICBNYXA8RGF0YVR5cGVJZGVudGlmaWVyLCBDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXI+IGNvbnZlcnRlck1hcCA9IG5ld0hhc2hNYXAoKTsKICAgICAgICBwb3B1bGF0ZVdpdGhDb252ZXJ0ZXJzKGNvbnZlcnRlck1hcCk7CiAgICAgICAgcmV0dXJuIGNvbnZlcnRlck1hcDsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgcG9wdWxhdGVXaXRoQ29udmVydGVycyhNYXA8RGF0YVR5cGVJZGVudGlmaWVyLCBDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXI+IGNvbnZlcnRlck1hcCkgewogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLkJPT0xFQU4sIG5ldyBCb29sZWFuQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyKCkpOwogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLkRBVEUsIG5ldyBEYXRlQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyKCkpOwogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLk5VTUJFUiwgbmV3IE51bWJlckN1c3RvbUZpZWxkVmFsdWVUb0x1Y2VuZUNvbnZlcnRlcigpKTsKICAgICAgICBjb252ZXJ0ZXJNYXAucHV0KERhdGFUeXBlSWRlbnRpZmllci5TSU5HTEVfTElORV9URVhULCBuZXcgVGV4dEN1c3RvbUZpZWxkVmFsdWVUb0x1Y2VuZUNvbnZlcnRlcigpKTsKICAgICAgICBjb252ZXJ0ZXJNYXAucHV0KERhdGFUeXBlSWRlbnRpZmllci5NVUxUSV9MSU5FX1RFWFQsIG5ldyBUZXh0Q3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyKCkpOwogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLlNJTkdMRV9TRUxFQ1QsIG5ldyBTaW5nbGVTZWxlY3RDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXIoKSk7CiAgICAgICAgY29udmVydGVyTWFwLnB1dChEYXRhVHlwZUlkZW50aWZpZXIuVVNFUiwgbmV3IFVzZXJDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXIoKSk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGFkZEN1c3RvbUZpZWxkVmFsdWVzVG9Eb2N1bWVudChEb2N1bWVudCBjb3JyRG9jLCBMaXN0PEN1c3RvbUZpZWxkVmFsdWVFbnRpdHk+IG1haWxGb3JtRmllbGRWYWx1ZUVudGl0aWVzKSB7CiAgICAgICAgZm9yIChGaWVsZCBmaWVsZCA6IGN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXIuY29udmVydChtYWlsRm9ybUZpZWxkVmFsdWVFbnRpdGllcykpIHsKICAgICAgICAgICAgY29yckRvYy5hZGQoZmllbGQpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxGaWVsZD4gZ2V0TWFpbEZvcm1GaWVsZHNDb250ZW50VmFsdWVzKENvcnJFbnRpdHkgY29yckVudGl0eSkgewogICAgICAgIHJldHVybiBjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyLmNvbnZlcnQoCiAgICAgICAgICAgICAgICBmcm9tKGNvcnJFbnRpdHkuZ2V0TWFpbEZvcm1GaWVsZFZhbHVlRW50aXRpZXMoKSkuZmlsdGVyKEVYQ0xVRElOR19CT09MRUFOX0NVU1RPTV9GSUVMRFMpKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRDdXN0b21GaWVsZFZhbHVlc1RvRG9jdW1lbnQoZG9jLCBkb2NFbnRpdHkuZ2V0RG9jdW1lbnRGb3JtRmllbGRWYWx1ZUVudGl0aWVzKCkpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEb2NDb252ZXJ0ZXIoKSB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>set rnu!</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>mail</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>mail</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>EditControlledDoc</entry>
-        <entry>acx.ajax</entry>
         <entry encoding="base64">XDxhamF4XD4=</entry>
         <entry>projectid</entry>
         <entry>index</entry>
@@ -321,6 +318,8 @@
         <entry encoding="base64">XDxjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</entry>
         <entry encoding="base64">XDxDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</entry>
         <entry>mail</entry>
+        <entry>addCu</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd>
         <entry>15,18s/&quot;//g</entry>
@@ -337,12 +336,12 @@
         <entry>m .-2</entry>
         <entry>set hls!</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>let @/=''</entry>
-        <entry>noh</entry>
         <entry>q</entry>
         <entry>vs</entry>
         <entry>ls</entry>
         <entry>set rnu!</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
