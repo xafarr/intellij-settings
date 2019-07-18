@@ -43,8 +43,8 @@
         <mark key="'" line="22" column="12" />
         <mark key="]" line="62" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563406096088">
-        <mark key="'" line="156" column="13" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563407760939">
+        <mark key="'" line="134" column="49" />
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="92" />
       </file>
@@ -110,8 +110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/DocControlBaseControl.java" />
-      <jump line="14" column="21" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/partition/bean/BasePartitionBean.java" />
       <jump line="2685" column="53" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
       <jump line="2687" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
       <jump line="2790" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/html/doccontrol/CDSearch.jsp" />
@@ -210,6 +208,8 @@
       <jump line="269" column="67" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/CorrConverterTest.java" />
       <jump line="317" column="43" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/CorrConverterTest.java" />
       <jump line="156" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="309" column="71" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="134" column="49" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -228,7 +228,7 @@
         <text>L</text>
       </register>
       <register name="/" type="4">
-        <text>MAIL_FORM_FIELD_DATE_VALUE_INDEXED</text>
+        <text encoding="base64">XDxDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>DOCUMENT_FORM_FIELD_DATE_VALUE_INDEXED</text>
@@ -275,9 +275,9 @@ createMail</text>
       </register>
     </registers>
     <search>
-      <last-search>MAIL_FORM_FIELD_DATE_VALUE_INDEXED</last-search>
+      <last-search encoding="base64">XDxDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>MAIL_FORM_FIELD_DATE_VALUE_INDEXED</last-pattern>
+      <last-pattern encoding="base64">XDxDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -285,9 +285,6 @@ createMail</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRWYWxpZGF0YWJsZUZpZWxkTWFwXD4=</entry>
-        <entry encoding="base64">XDxwYXJzZVN0cmluZ0FzRGF0ZVw+</entry>
-        <entry>created</entry>
         <entry>date</entry>
         <entry encoding="base64">XDxkYXRlVGltZUZvcm1hdFw+</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
@@ -305,6 +302,9 @@ createMail</text>
         <entry encoding="base64">XDxNQUlMX0ZPUk1fRklFTERfTlVNQkVSX1ZBTFVFXD4=</entry>
         <entry>DOCUMENT_FORM_FIELD_DATE_VALUE_INDEXED</entry>
         <entry>MAIL_FORM_FIELD_DATE_VALUE_INDEXED</entry>
+        <entry encoding="base64">XDxjcmVhdGVDdXN0b21GaWVsZFZhbHVlQ29udmVydGVyc1w+</entry>
+        <entry encoding="base64">XDxjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</entry>
+        <entry encoding="base64">XDxDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>15,18s/&quot;//g</entry>
