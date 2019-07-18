@@ -43,6 +43,7 @@
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/eventlistener/ControlledDocumentEventListener.java" timestamp="1563422083902" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/AbstractProjectEntity.java" timestamp="1563415803403">
         <mark key="[" line="23" column="5" />
       </file>
@@ -74,12 +75,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/CorrEntity.java" timestamp="1563415777971">
         <mark key="'" line="353" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleSelectField/singleSelectField.js" timestamp="1563356105873">
-        <mark key="[" line="23" column="53" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" timestamp="1563421438883">
         <mark key="'" line="346" column="46" />
         <mark key="[" line="341" column="0" />
@@ -102,11 +97,9 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1563356061490">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.tpl.html" timestamp="1562909297021">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-        <mark key="^" line="7" column="16" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/indexerClient.xml" timestamp="1563422515412">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/DocConverterTest.java" timestamp="1563417569658">
         <mark key="'" line="159" column="37" />
@@ -256,8 +249,8 @@
       <register name="/" type="4">
         <text>custom</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxGaWVsZD4gZ2V0TWFpbEZvcm1GaWVsZHNDb250ZW50VmFsdWVzKENvcnJFbnRpdHkgY29yckVudGl0eSkgewogICAgICAgIHJldHVybiBjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyLmNvbnZlcnQoCiAgICAgICAgICAgICAgICBmcm9tKGNvcnJFbnRpdHkuZ2V0TWFpbEZvcm1GaWVsZFZhbHVlRW50aXRpZXMoKSkuZmlsdGVyKEVYQ0xVRElOR19CT09MRUFOX0NVU1RPTV9GSUVMRFMpKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>jms.queue.prefix.destinations</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGFwcGVuZE1haWxGb3JtRmllbGRWYWx1ZXMoY29yckVudGl0eSwgYnVpbGRlcik7Cg==</text>
