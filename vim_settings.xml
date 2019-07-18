@@ -14,7 +14,7 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" timestamp="1562892922436">
         <mark key="'" line="70" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1563330748957">
+      <file name="/a.dummy" timestamp="1563415304444">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/AbstractProjectResolver.java" timestamp="1563326551277">
@@ -37,20 +37,20 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/partition/bean/BasePartitionBean.java" timestamp="1562818949055">
         <mark key="'" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563355644269">
-        <mark key="'" line="22" column="12" />
-        <mark key="]" line="62" column="25" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/WEB-INF/spring/controllersApp.xml" timestamp="1562680748637">
         <mark key="[" line="390" column="0" />
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563414518167">
-        <mark key="'" line="283" column="23" />
-        <mark key="[" line="309" column="0" />
-        <mark key="]" line="309" column="0" />
-        <mark key="." line="309" column="0" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/AbstractProjectEntity.java" timestamp="1563415803403">
+        <mark key="[" line="23" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563415385046">
+        <mark key="'" line="135" column="51" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
+        <mark key="." line="305" column="0" />
+        <mark key="^" line="133" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/CorrConverterTest.java" timestamp="1563408563617">
         <mark key="'" line="195" column="53" />
@@ -70,17 +70,21 @@
       <file name="/Dummy.txt" timestamp="1563411595073">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/CorrEntity.java" timestamp="1563415777971">
+        <mark key="'" line="353" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleSelectField/singleSelectField.js" timestamp="1563356105873">
         <mark key="[" line="23" column="53" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" timestamp="1563414332962">
-        <mark key="'" line="254" column="12" />
-        <mark key="i" line="251" column="56" />
-        <mark key="[" line="342" column="55" />
-        <mark key="^" line="366" column="28" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" timestamp="1563415242108">
+        <mark key="'" line="252" column="12" />
+        <mark key="[" line="248" column="27" />
+        <mark key="]" line="248" column="0" />
+        <mark key="^" line="364" column="28" />
+        <mark key="." line="248" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563340925556">
         <mark key="'" line="1038" column="29" />
@@ -89,6 +93,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/AbstractConverter.java" timestamp="1563415536629">
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="64" />
+        <mark key="^" line="40" column="64" />
+        <mark key="." line="40" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1563356061490">
         <mark key="'" line="0" column="0" />
@@ -126,9 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="41" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
-      <jump line="65" column="8" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
-      <jump line="17" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueValidationResult.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
       <jump line="89" column="41" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
       <jump line="107" column="34" filename="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/DocumentDtoValidator.java" />
@@ -226,6 +233,9 @@
       <jump line="252" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" />
       <jump line="268" column="14" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
       <jump line="283" column="23" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="130" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="135" column="51" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
+      <jump line="353" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/CorrEntity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -241,61 +251,49 @@
         <text>' + this.config.documentId + '</text>
       </register>
       <register name="-" type="4">
-        <text>CustomFieldValueToLuceneConverter</text>
+        <text>corrEntity</text>
       </register>
       <register name="/" type="4">
-        <text>mailformfieldvalues</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhcHBlbmRNYWlsRm9ybUZpZWxkVmFsdWVzKGNvcnJFbnRpdHksIGJ1aWxkZXIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPERhdGFUeXBlSWRlbnRpZmllciwgQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyPiBjcmVhdGVDdXN0b21GaWVsZFZhbHVlQ29udmVydGVycygpIHsKICAgICAgICBNYXA8RGF0YVR5cGVJZGVudGlmaWVyLCBDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXI+IGNvbnZlcnRlck1hcCA9IG5ld0hhc2hNYXAoKTsKICAgICAgICBwb3B1bGF0ZVdpdGhDb252ZXJ0ZXJzKGNvbnZlcnRlck1hcCk7CiAgICAgICAgcmV0dXJuIGNvbnZlcnRlck1hcDsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgcG9wdWxhdGVXaXRoQ29udmVydGVycyhNYXA8RGF0YVR5cGVJZGVudGlmaWVyLCBDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXI+IGNvbnZlcnRlck1hcCkgewogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLkJPT0xFQU4sIG5ldyBCb29sZWFuQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyKCkpOwogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLkRBVEUsIG5ldyBEYXRlQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyKCkpOwogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLk5VTUJFUiwgbmV3IE51bWJlckN1c3RvbUZpZWxkVmFsdWVUb0x1Y2VuZUNvbnZlcnRlcigpKTsKICAgICAgICBjb252ZXJ0ZXJNYXAucHV0KERhdGFUeXBlSWRlbnRpZmllci5TSU5HTEVfTElORV9URVhULCBuZXcgVGV4dEN1c3RvbUZpZWxkVmFsdWVUb0x1Y2VuZUNvbnZlcnRlcigpKTsKICAgICAgICBjb252ZXJ0ZXJNYXAucHV0KERhdGFUeXBlSWRlbnRpZmllci5NVUxUSV9MSU5FX1RFWFQsIG5ldyBUZXh0Q3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyKCkpOwogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLlNJTkdMRV9TRUxFQ1QsIG5ldyBTaW5nbGVTZWxlY3RDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXIoKSk7CiAgICAgICAgY29udmVydGVyTWFwLnB1dChEYXRhVHlwZUlkZW50aWZpZXIuVVNFUiwgbmV3IFVzZXJDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXIoKSk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGFkZEN1c3RvbUZpZWxkVmFsdWVzVG9Eb2N1bWVudChEb2N1bWVudCBjb3JyRG9jLCBMaXN0PEN1c3RvbUZpZWxkVmFsdWVFbnRpdHk+IG1haWxGb3JtRmllbGRWYWx1ZUVudGl0aWVzKSB7CiAgICAgICAgZm9yIChGaWVsZCBmaWVsZCA6IGN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXIuY29udmVydChtYWlsRm9ybUZpZWxkVmFsdWVFbnRpdGllcykpIHsKICAgICAgICAgICAgY29yckRvYy5hZGQoZmllbGQpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxGaWVsZD4gZ2V0TWFpbEZvcm1GaWVsZHNDb250ZW50VmFsdWVzKENvcnJFbnRpdHkgY29yckVudGl0eSkgewogICAgICAgIHJldHVybiBjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyLmNvbnZlcnQoCiAgICAgICAgICAgICAgICBmcm9tKGNvcnJFbnRpdHkuZ2V0TWFpbEZvcm1GaWVsZFZhbHVlRW50aXRpZXMoKSkuZmlsdGVyKEVYQ0xVRElOR19CT09MRUFOX0NVU1RPTV9GSUVMRFMpKTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRDdXN0b21GaWVsZFZhbHVlc1RvRG9jdW1lbnQoZG9jLCBkb2NFbnRpdHkuZ2V0RG9jdW1lbnRGb3JtRmllbGRWYWx1ZUVudGl0aWVzKCkpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEb2NDb252ZXJ0ZXIoKSB7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPERhdGFUeXBlSWRlbnRpZmllciwgQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyPiBjcmVhdGVDdXN0b21GaWVsZENvbnZlcnRlck1hcCgpIHsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLiA9IG5ldyBDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyKGNyZWF0ZUN1c3RvbUZpZWxkQ29udmVydGVyTWFwKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmN1c3RvbUZpZWxkVmFsdWVDb252ZXJ0ZXIgPSBjdXN0b21GaWVsZFZhbHVlQ29udmVydGVyOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ3VzdG9tRmllbGRWYWx1ZXNUb0x1Y2VuZUNvbnZlcnRlciBjdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEb2NDb252ZXJ0ZXIoQ3VzdG9tRmllbGRWYWx1ZUNvbnZlcnRlciBjdXN0b21GaWVsZFZhbHVlQ29udmVydGVyKSB7CiAgICAgICAgdGhpcy5jdXN0b21GaWVsZFZhbHVlQ29udmVydGVyID0gY3VzdG9tRmllbGRWYWx1ZUNvbnZlcnRlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEb2NDb252ZXJ0ZXIoQ3VzdG9tRmllbGRWYWx1ZUNvbnZlcnRlciBjdXN0b21GaWVsZFZhbHVlQ29udmVydGVyKSB7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGFkZEN1c3RvbUZpZWxkVmFsdWVzVG9Eb2N1bWVudChEb2N1bWVudCBsdWNlbmVEb2N1bWVudCwgTGlzdDxDdXN0b21GaWVsZFZhbHVlRW50aXR5PiBtYWlsRm9ybUZpZWxkVmFsdWVFbnRpdGllcykgewogICAgICAgIGZvciAoRmllbGQgZmllbGQgOiBjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyLmNvbnZlcnQobWFpbEZvcm1GaWVsZFZhbHVlRW50aXRpZXMpKSB7CiAgICAgICAgICAgIGx1Y2VuZURvY3VtZW50LmFkZChmaWVsZCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="7" type="8">
-        <text>private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private
-private</text>
+      <register name="7" type="2">
+        <text encoding="base64">cHVibGljIGFic3RyYWN0IGNsYXNzIEFic3RyYWN0Q29udmVydGVyPFQ+IGltcGxlbWVudHMgQ29udmVydGVyPFQgZXh0ZW5kcyBFbnRpdHk+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgdmFsaWRhdGVOb3RTdG9yZWRLZXl3b3JkRmllbGQoZG9jLCByZXN0cmljdGVkRmllbGROYW1lKENVU1RPTV9GSUVMRF9CT09MRUFOX05BTUUpLCAiMCIpOwogICAgICAgIHZhbGlkYXRlTm90U3RvcmVkS2V5d29yZEZpZWxkKGRvYywgcmVzdHJpY3RlZEZpZWxkTmFtZShDVVNUT01fRklFTERfREFURV9OQU1FKSwgUkVTVFJJQ1RFRF9GSUVMRF9EQVRFX1ZBTFVFX0lOREVYRUQpOwogICAgICAgIHZhbGlkYXRlTm90U3RvcmVkS2V5d29yZEZpZWxkKGRvYywgcmVzdHJpY3RlZEZpZWxkTmFtZShDVVNUT01fRklFTERfTlVNQkVSX05BTUUpLCBSRVNUUklDVEVEX0ZJRUxEX05VTUJFUl9WQUxVRSk7CiAgICAgICAgdmFsaWRhdGVOb3RTdG9yZWRUb2tlbml6ZWRGaWVsZChkb2MsIHJlc3RyaWN0ZWRGaWVsZE5hbWUoQ1VTVE9NX0ZJRUxEX1NJTkdMRV9MSU5FX1RFWFRfTkFNRSksIFJFU1RSSUNURURfRklFTERfU0lOR0xFX0xJTkVfVEVYVF9WQUxVRSk7CiAgICAgICAgdmFsaWRhdGVOb3RTdG9yZWRUb2tlbml6ZWRGaWVsZChkb2MsIHJlc3RyaWN0ZWRGaWVsZE5hbWUoQ1VTVE9NX0ZJRUxEX01VTFRJX0xJTkVfVEVYVF9OQU1FKSwgUkVTVFJJQ1RFRF9GSUVMRF9NVUxUSV9MSU5FX1RFWFRfVkFMVUUpOwogICAgICAgIHZhbGlkYXRlTm90U3RvcmVkVG9rZW5pemVkRmllbGQoZG9jLCByZXN0cmljdGVkRmllbGROYW1lKENVU1RPTV9GSUVMRF9TSU5HTEVfU0VMRUNUX05BTUUpLCBSRVNUUklDVEVEX0ZJRUxEX1NJTkdMRV9TRUxFQ1RfVkFMVUUpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTWFwPERhdGFUeXBlSWRlbnRpZmllciwgQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyPiBjcmVhdGVDdXN0b21GaWVsZFZhbHVlQ29udmVydGVycygpIHsKICAgICAgICBNYXA8RGF0YVR5cGVJZGVudGlmaWVyLCBDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXI+IGNvbnZlcnRlck1hcCA9IG5ld0hhc2hNYXAoKTsKICAgICAgICBwb3B1bGF0ZVdpdGhDb252ZXJ0ZXJzKGNvbnZlcnRlck1hcCk7CiAgICAgICAgcmV0dXJuIGNvbnZlcnRlck1hcDsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgcG9wdWxhdGVXaXRoQ29udmVydGVycyhNYXA8RGF0YVR5cGVJZGVudGlmaWVyLCBDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXI+IGNvbnZlcnRlck1hcCkgewogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLkJPT0xFQU4sIG5ldyBCb29sZWFuQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyKCkpOwogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLkRBVEUsIG5ldyBEYXRlQ3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyKCkpOwogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLk5VTUJFUiwgbmV3IE51bWJlckN1c3RvbUZpZWxkVmFsdWVUb0x1Y2VuZUNvbnZlcnRlcigpKTsKICAgICAgICBjb252ZXJ0ZXJNYXAucHV0KERhdGFUeXBlSWRlbnRpZmllci5TSU5HTEVfTElORV9URVhULCBuZXcgVGV4dEN1c3RvbUZpZWxkVmFsdWVUb0x1Y2VuZUNvbnZlcnRlcigpKTsKICAgICAgICBjb252ZXJ0ZXJNYXAucHV0KERhdGFUeXBlSWRlbnRpZmllci5NVUxUSV9MSU5FX1RFWFQsIG5ldyBUZXh0Q3VzdG9tRmllbGRWYWx1ZVRvTHVjZW5lQ29udmVydGVyKCkpOwogICAgICAgIGNvbnZlcnRlck1hcC5wdXQoRGF0YVR5cGVJZGVudGlmaWVyLlNJTkdMRV9TRUxFQ1QsIG5ldyBTaW5nbGVTZWxlY3RDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXIoKSk7CiAgICAgICAgY29udmVydGVyTWFwLnB1dChEYXRhVHlwZUlkZW50aWZpZXIuVVNFUiwgbmV3IFVzZXJDdXN0b21GaWVsZFZhbHVlVG9MdWNlbmVDb252ZXJ0ZXIoKSk7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGFkZEN1c3RvbUZpZWxkVmFsdWVzVG9Eb2N1bWVudChEb2N1bWVudCBjb3JyRG9jLCBMaXN0PEN1c3RvbUZpZWxkVmFsdWVFbnRpdHk+IG1haWxGb3JtRmllbGRWYWx1ZUVudGl0aWVzKSB7CiAgICAgICAgZm9yIChGaWVsZCBmaWVsZCA6IGN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXIuY29udmVydChtYWlsRm9ybUZpZWxkVmFsdWVFbnRpdGllcykpIHsKICAgICAgICAgICAgY29yckRvYy5hZGQoZmllbGQpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGRDdXN0b21GaWVsZFZhbHVlc1RvRG9jdW1lbnQoZG9jLCBkb2NFbnRpdHkuZ2V0RG9jdW1lbnRGb3JtRmllbGRWYWx1ZUVudGl0aWVzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>set rnu!</text>
       </register>
     </registers>
     <search>
-      <last-search>mailformfieldvalues</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>mailformfieldvalues</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -303,7 +301,6 @@ private</text>
     </search>
     <history>
       <history-search>
-        <entry>supplier</entry>
         <entry>EditControlledDoc</entry>
         <entry>acx.ajax</entry>
         <entry encoding="base64">XDxhamF4XD4=</entry>
@@ -317,12 +314,13 @@ private</text>
         <entry>DOCUMENT_FORM_FIELD_DATE_VALUE_INDEXED</entry>
         <entry>MAIL_FORM_FIELD_DATE_VALUE_INDEXED</entry>
         <entry encoding="base64">XDxjcmVhdGVDdXN0b21GaWVsZFZhbHVlQ29udmVydGVyc1w+</entry>
-        <entry encoding="base64">XDxjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</entry>
-        <entry encoding="base64">XDxDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</entry>
         <entry>mailformfieldvalue</entry>
         <entry encoding="base64">XDxmb29fbnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxDVVNUT01fRklFTERfTlVNQkVSX05BTUVcPg==</entry>
         <entry>mailformfieldvalues</entry>
+        <entry encoding="base64">XDxjdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</entry>
+        <entry encoding="base64">XDxDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyXD4=</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry>15,18s/&quot;//g</entry>
