@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/bo/EventListenerBO.java" timestamp="1563421899369" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" timestamp="1563193506576">
         <mark key="'" line="560" column="25" />
       </file>
@@ -30,11 +29,6 @@
         <mark key="^" line="31" column="104" />
         <mark key="." line="31" column="99" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562723609014">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/partition/bean/BasePartitionBean.java" timestamp="1562818949055">
         <mark key="'" line="14" column="21" />
       </file>
@@ -59,21 +53,12 @@
         <mark key="[" line="268" column="0" />
         <mark key="]" line="280" column="137" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1563105532790">
-        <mark key="'" line="124" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/BaseDocConverterTest.java" timestamp="1563409323896">
         <mark key="'" line="105" column="69" />
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="4" />
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563411595073">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/CorrEntity.java" timestamp="1563415777971">
-        <mark key="'" line="353" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" timestamp="1563421438883">
         <mark key="'" line="346" column="46" />
@@ -84,11 +69,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563340925556">
         <mark key="'" line="1038" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentsupersede/DocumentSupersedeControllerTest.java" timestamp="1562626666426">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/AbstractConverter.java" timestamp="1563416542379">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -97,19 +77,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1563356061490">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/indexerClient.xml" timestamp="1563422515412">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/DocConverterTest.java" timestamp="1563417569658">
         <mark key="'" line="159" column="37" />
         <mark key="[" line="159" column="32" />
         <mark key="]" line="159" column="37" />
         <mark key="." line="159" column="37" />
         <mark key="^" line="159" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueValidationResult.java" timestamp="1562886253138">
-        <mark key="'" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/featureSwitchService.js" timestamp="1563195121212">
         <mark key="[" line="4" column="97" />
@@ -119,6 +92,36 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1563324580980">
         <mark key="'" line="602" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/bo/EventListenerBO.java" timestamp="1563421899369" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/db/hibernate/EntityReindexingInterceptor.java" timestamp="1563423994170" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562723609014">
+        <mark key="[" line="16" column="49" />
+        <mark key="]" line="16" column="50" />
+        <mark key="." line="16" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1563105532790">
+        <mark key="'" line="124" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563411595073">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/CorrEntity.java" timestamp="1563415777971">
+        <mark key="'" line="353" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentsupersede/DocumentSupersedeControllerTest.java" timestamp="1562626666426">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/indexer/EntitiesIndexer.java" timestamp="1563423728154" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/indexerClient.xml" timestamp="1563422515412">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueValidationResult.java" timestamp="1562886253138">
+        <mark key="'" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/indexer/FullIndexer.java" timestamp="1563423660521" />
       <file name="/fragment.java" timestamp="1563411595065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
@@ -280,7 +283,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBEb2NDb252ZXJ0ZXIoKSB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>set rnu!</text>
       </register>
     </registers>
     <search>
@@ -290,7 +293,7 @@
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -316,7 +319,6 @@
         <entry>custom</entry>
       </history-search>
       <history-cmd>
-        <entry>15,18s/&quot;//g</entry>
         <entry>w</entry>
         <entry encoding="base64">JXMvXDx1cGxvYWRcPi9zdXBlcnNlZGUvZw==</entry>
         <entry encoding="base64">JXMvXDx1cGxvYWRGb3JtXD4vc3VwZXJzZWRlRm9ybS9n</entry>
@@ -333,9 +335,10 @@
         <entry>q</entry>
         <entry>vs</entry>
         <entry>ls</entry>
-        <entry>set rnu!</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
+        <entry>so ~/.ideavimrc</entry>
+        <entry>set rnu!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
