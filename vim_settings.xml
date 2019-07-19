@@ -42,12 +42,11 @@
         <mark key="]" line="16" column="50" />
         <mark key="." line="16" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1563532393224">
-        <mark key="'" line="91" column="44" />
-        <mark key="[" line="214" column="74" />
-        <mark key="]" line="215" column="85" />
-        <mark key="." line="215" column="85" />
-        <mark key="^" line="215" column="85" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1563535145906">
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="^" line="234" column="28" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/partition/bean/BasePartitionBean.java" timestamp="1562818949055">
         <mark key="'" line="14" column="21" />
@@ -55,12 +54,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/projectFields/projectFields.tpl.html" timestamp="1563517693727">
         <mark key="[" line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563532569312">
-        <mark key="'" line="23" column="56" />
-        <mark key="[" line="107" column="71" />
-        <mark key="]" line="23" column="69" />
-        <mark key="." line="23" column="69" />
-        <mark key="^" line="23" column="69" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563534217895">
+        <mark key="'" line="30" column="32" />
+        <mark key="[" line="107" column="32" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="107" column="38" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" timestamp="1563509854201">
         <mark key="'" line="141" column="28" />
@@ -128,12 +127,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/AbstractConverter.java" timestamp="1563451396391">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="37" column="3" />
-        <mark key="." line="37" column="3" />
-        <mark key="^" line="37" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" timestamp="1563496366131">
         <mark key="'" line="45" column="20" />
       </file>
@@ -162,15 +155,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.js" timestamp="1562915049238">
         <mark key="'" line="8" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/supersede/angular.js" timestamp="1563533483088">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="48" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="45" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" />
-      <jump line="523" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" />
-      <jump line="163" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" />
-      <jump line="154" column="69" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" />
-      <jump line="155" column="14" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" />
-      <jump line="510" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" />
-      <jump line="77" column="58" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" />
       <jump line="41" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/tools/index-maintenance/src/test/java/com/aconex/index/verifier/ControlledDocVerifierIntegrationTest.java" />
       <jump line="346" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" />
       <jump line="355" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" />
@@ -264,6 +254,13 @@
       <jump line="93" column="21" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="151" column="40" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="91" column="44" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="216" column="85" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="247" column="59" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="403" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="17" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="30" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
+      <jump line="228" column="47" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="162" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -279,58 +276,56 @@
         <text>' + this.config.documentId + '</text>
       </register>
       <register name="-" type="4">
-        <text>supplierDocSupersedeReturnUrl</text>
+        <text>toHaveBeenCalledWith</text>
       </register>
       <register name="/" type="4">
-        <text>1234</text>
+        <text encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>$scope.supplierDocSupersedeReturnUrl</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQkJCQltb2NrTG9hZGVyU3RhdGVTZXJ2aWNlLmhpZGUuY2FsbHMucmVzZXQoKTsKCQkJCQkJCQltb2NrQXVpTW9kYWxTZXJ2aWNlLm9wZW4uY2FsbHMucmVzZXQoKTsKCQkJCQkJCQkkcm9vdFNjb3BlLnN1cHBsaWVyRG9jU3VwZXJzZWRlUmV0dXJuVXJsID0gdW5kZWZpbmVkOwoJCQkJCQkJCXNhdmVEZWZlcnJlZC5yZXNvbHZlKHN1cGVyc2VkZWREb2N1bWVudERhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YXIgcHJvamVjdElEID0gMTIzNDsKCQl2YXIgZG9jdW1lbnRJZCA9IDU2Nzg7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJJHJvb3RTY29wZS5zdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybCA9IHVuZGVmaW5lZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXIgcHJvamVjdElEID0gMTIzNDsKCQl2YXIgZG9jdW1lbnRJZCA9IDU2Nzg7Cg==</text>
+        <text encoding="base64">CQkJCQkkcm9vdFNjb3BlLnN1cHBsaWVyRG9jU3VwZXJzZWRlUmV0dXJuVXJsID0gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsZXQgZG9jdW1lbnRJZCA9IGVuY29kZVVSSUNvbXBvbmVudChfcXVlcnlQYXJhbXMuQ29udHJvbGxlZERvY3VtZW50X0lEKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsZXQgZG9jdW1lbnRJZCA9IGVuY29kZVVSSUNvbXBvbmVudChfcXVlcnlQYXJhbXMuQ29udHJvbGxlZERvY3VtZW50X0lEKTsK</text>
+        <text encoding="base64">CQkJCQkJCWl0KCdoaWRlcyB0aGUgbG9hZGVyJywgZnVuY3Rpb24gKCkgewoJCQkJCQkJCWV4cGVjdChtb2NrTG9hZGVyU3RhdGVTZXJ2aWNlLmhpZGUpLnRvSGF2ZUJlZW5DYWxsZWQoKTsKCQkJCQkJCX0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQlhdWlNb2RhbFNlcnZpY2Uub3Blbih7CgkJCQkJCQkJCXRlbXBsYXRlVXJsOiAnZG9jdW1lbnQvc3VwZXJzZWRlL2RpcmVjdGl2ZXMvc3VwZXJzZWRlRm9ybS9jb25maXJtYXRpb25EaWFsb2cudHBsLmh0bWwnLAoJCQkJCQkJCQlrZXlib2FyZDogZmFsc2UsCgkJCQkJCQkJCXNjb3BlOiAkc2NvcGUKCQkJCQkJCQl9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTwhLS0JPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJhdWlCdXR0b24iIG5nLWNsaWNrPSJ3aW5kb3cubG9jYXRpb24uaHJlZj0nL1NlYXJjaENvbnRyb2xsZWREb2MnIj57eyA6OididG5Db25maXJtYXRpb25EaWFsb2dEb25lLnRleHQnIHwgaTE4biB9fTwvYnV0dG9uPi0tPgo=</text>
+        <text encoding="base64">CQkJCQkJCWl0KCdzaG91bGQgbm90IG9wZW4gY29uZmlybWF0aW9uIG1vZGFsIGlmIHN1cHBsaWVyIGRvYycsIGZ1bmN0aW9uICgpIHsKCQkJCQkJCX0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CTxwPnt7IDo6J0RvYy5BY3Rpb25HdWlkZS5WaWV3SW5SZWcuVGV4dCcgfCBpMThuIH19PC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PCEtLQk8ZGl2IGNsYXNzPSJhdWlNb2RhbC1jbG9zZSIgbmctY2xpY2s9IiRkaXNtaXNzKCkiPjwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">CQkJCQkJCQkkcm9vdFNjb3BlLiRhcHBseSgpOwoJCQkJCQkJCWV4cGVjdChtb2NrQXVpTW9kYWxTZXJ2aWNlLm9wZW4pLm5vdC50b0hhdmVCZWVuQ2FsbGVkKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyIGdldEN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXIoKSB7CiAgICAgICAgcmV0dXJuIGN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">CQkJCQkJCWl0KCdzaG91bGQgbm90IG9wZW4gY29uZmlybWF0aW9uIG1vZGFsIGlmIHN1cHBsaWVyIGRvYycsIGZ1bmN0aW9uICgpIHsKCQkJCQkJCQkkcm9vdFNjb3BlLiRhcHBseSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>m .+1</text>
+        <text>noh</text>
       </register>
     </registers>
     <search>
-      <last-search>1234</last-search>
+      <last-search encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</last-search>
       <last-offset />
-      <last-pattern>1234</last-pattern>
+      <last-pattern encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXREb2N1bWVudEZvcm1GaWVsZHNDb250ZW50VmFsdWVzXD4=</entry>
-        <entry encoding="base64">XDxtYXJrdXBMYXN0TW9kaWZpZWREYXRlc1w+</entry>
         <entry encoding="base64">XDxwYWNrYWdlTnVtYmVyTGlzdFw+</entry>
         <entry>setdocument</entry>
         <entry>process</entry>
@@ -347,8 +342,10 @@
         <entry encoding="base64">XDxtb2NrVXRpbHNcPg==</entry>
         <entry>opens a confirmation modal</entry>
         <entry encoding="base64">XDxpdFJlZ2lzdGVyc1RoZURvY3VtZW50XD4=</entry>
-        <entry encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</entry>
         <entry>1234</entry>
+        <entry>confiden</entry>
+        <entry>suppl</entry>
+        <entry encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxtb2NrVXBsb2FkRm9ybVNlcnZpY2VcPi9tb2NrU3VwZXJzZWRlRm9ybVNlcnZpY2UvZw==</entry>
@@ -367,10 +364,10 @@
         <entry>w</entry>
         <entry>set rnu!</entry>
         <entry>set showcmd?</entry>
-        <entry>let @/=''</entry>
-        <entry>noh</entry>
         <entry>m .-2</entry>
         <entry>m .+1</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
       </history-cmd>
       <history-expr />
       <history-input />
