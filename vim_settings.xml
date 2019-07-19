@@ -45,6 +45,9 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/partition/bean/BasePartitionBean.java" timestamp="1562818949055">
         <mark key="'" line="14" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/projectFields/projectFields.tpl.html" timestamp="1563517693727">
+        <mark key="[" line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563516850197">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="106" column="64" />
@@ -76,6 +79,9 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/Doc_en.properties" timestamp="1563499368056">
         <mark key="'" line="614" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/styles.less" timestamp="1563517708401">
+        <mark key="[" line="54" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563452401137">
         <mark key="[" line="0" column="0" />
@@ -126,10 +132,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1563356061490">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/indexerClient.xml" timestamp="1563422515412">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="62" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/action/notification/ExportFailedNotificationDataContractTest.java" timestamp="1563496216488">
         <mark key="'" line="56" column="16" />
       </file>
@@ -143,10 +145,6 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1563324580980">
         <mark key="'" line="602" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/indexUtils.xml" timestamp="1563426260438">
-        <mark key="[" line="75" column="41" />
-        <mark key="]" line="75" column="136" />
       </file>
       <file name="/DocResolver.java" timestamp="1563450522591">
         <mark key="[" line="140" column="69" />
