@@ -23,8 +23,8 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/search/bean/DefaultSearchResults.java" timestamp="1563254225967">
         <mark key="'" line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" timestamp="1563450541253">
-        <mark key="'" line="77" column="58" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" timestamp="1563494337112">
+        <mark key="'" line="503" column="19" />
         <mark key="[" line="154" column="69" />
         <mark key="]" line="154" column="78" />
         <mark key="." line="154" column="69" />
@@ -72,7 +72,7 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/CorrEntity.java" timestamp="1563415777971">
         <mark key="'" line="353" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" timestamp="1563485313966">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" timestamp="1563494542240">
         <mark key="'" line="355" column="15" />
         <mark key="[" line="347" column="15" />
         <mark key="]" line="347" column="49" />
@@ -82,7 +82,7 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563340925556">
         <mark key="'" line="1038" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" timestamp="1563485524405">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" timestamp="1563494163486">
         <mark key="'" line="144" column="61" />
         <mark key="[" line="144" column="72" />
         <mark key="]" line="144" column="66" />
@@ -133,7 +133,7 @@
         <mark key="[" line="140" column="69" />
         <mark key="]" line="140" column="77" />
       </file>
-      <file name="/fragment.java" timestamp="1563452401152">
+      <file name="/fragment.java" timestamp="1563494526024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
@@ -143,7 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" />
       <jump line="560" column="25" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
       <jump line="187" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
@@ -243,6 +242,7 @@
       <jump line="661" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="662" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="144" column="61" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
+      <jump line="503" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -261,7 +261,7 @@
         <text>customFieldValuesToLuceneConverter</text>
       </register>
       <register name="/" type="4">
-        <text>setdocument</text>
+        <text>process</text>
       </register>
       <register name="0" type="4">
         <text>rowMapper</text>
@@ -298,9 +298,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setdocument</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern>setdocument</last-pattern>
+      <last-pattern>process</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -308,7 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DOCUMENT_FORM_FIELD_DATE_VALUE_INDEXED</entry>
         <entry>MAIL_FORM_FIELD_DATE_VALUE_INDEXED</entry>
         <entry encoding="base64">XDxjcmVhdGVDdXN0b21GaWVsZFZhbHVlQ29udmVydGVyc1w+</entry>
         <entry>mailformfieldvalue</entry>
@@ -328,6 +327,7 @@
         <entry encoding="base64">XDxtYXJrdXBMYXN0TW9kaWZpZWREYXRlc1w+</entry>
         <entry encoding="base64">XDxwYWNrYWdlTnVtYmVyTGlzdFw+</entry>
         <entry>setdocument</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDx1cGxvYWRcPi9zdXBlcnNlZGUvZw==</entry>
