@@ -45,12 +45,15 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/partition/bean/BasePartitionBean.java" timestamp="1562818949055">
         <mark key="'" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563507906130">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563510576442">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="24" column="90" />
-        <mark key="]" line="24" column="90" />
-        <mark key="^" line="22" column="55" />
-        <mark key="." line="24" column="90" />
+        <mark key="[" line="24" column="123" />
+        <mark key="]" line="24" column="146" />
+        <mark key="^" line="24" column="146" />
+        <mark key="." line="24" column="146" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" timestamp="1563509854201">
+        <mark key="'" line="141" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/WEB-INF/spring/controllersApp.xml" timestamp="1562680748637">
         <mark key="[" line="390" column="0" />
@@ -173,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="52" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
       <jump line="115" column="54" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
       <jump line="120" column="55" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
       <jump line="125" column="92" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" />
@@ -273,6 +275,7 @@
       <jump line="33" column="59" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
       <jump line="52" column="9" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
       <jump line="187" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" />
+      <jump line="141" column="28" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -291,7 +294,7 @@
         <text>/SearchControlledDoc</text>
       </register>
       <register name="/" type="4">
-        <text>EditContro</text>
+        <text encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</text>
       </register>
       <register name="0" type="4">
         <text>/SearchControlledDoc&quot;</text>
@@ -328,9 +331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>EditContro</last-search>
+      <last-search encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</last-search>
       <last-offset />
-      <last-pattern>EditContro</last-pattern>
+      <last-pattern encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addCu</entry>
         <entry>custom</entry>
         <entry encoding="base64">XDxjZEJPXD4=</entry>
         <entry>convert</entry>
@@ -358,6 +360,7 @@
         <entry>confirmationDialog</entry>
         <entry>document</entry>
         <entry>EditContro</entry>
+        <entry encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDxtb2NrVXBsb2FkRm9ybVNlcnZpY2VcPi9tb2NrU3VwZXJzZWRlRm9ybVNlcnZpY2UvZw==</entry>
