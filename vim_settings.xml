@@ -45,12 +45,12 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/partition/bean/BasePartitionBean.java" timestamp="1562818949055">
         <mark key="'" line="14" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563510576442">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563511670481">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="24" column="123" />
-        <mark key="]" line="24" column="146" />
-        <mark key="^" line="24" column="146" />
-        <mark key="." line="24" column="146" />
+        <mark key="[" line="106" column="64" />
+        <mark key="]" line="76" column="4" />
+        <mark key="." line="76" column="4" />
+        <mark key="^" line="76" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" timestamp="1563509854201">
         <mark key="'" line="141" column="28" />
@@ -76,13 +76,6 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/Doc_en.properties" timestamp="1563499368056">
         <mark key="'" line="614" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/BaseDocConverterTest.java" timestamp="1563409323896">
-        <mark key="'" line="105" column="69" />
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="4" />
-        <mark key="." line="28" column="4" />
-        <mark key="^" line="28" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1563452401137">
         <mark key="[" line="0" column="0" />
@@ -136,13 +129,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/indexerClient.xml" timestamp="1563422515412">
         <mark key="[" line="6" column="34" />
         <mark key="]" line="6" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/index/converter/DocConverterTest.java" timestamp="1563417569658">
-        <mark key="'" line="159" column="37" />
-        <mark key="[" line="159" column="32" />
-        <mark key="]" line="159" column="37" />
-        <mark key="." line="159" column="37" />
-        <mark key="^" line="159" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/action/notification/ExportFailedNotificationDataContractTest.java" timestamp="1563496216488">
         <mark key="'" line="56" column="16" />
@@ -291,7 +277,7 @@
         <text>' + this.config.documentId + '</text>
       </register>
       <register name="-" type="4">
-        <text>/SearchControlledDoc</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</text>
@@ -300,31 +286,31 @@
         <text>/SearchControlledDoc&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTwhLS0JPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJhdWlCdXR0b24iIG5nLWNsaWNrPSJ3aW5kb3cubG9jYXRpb24uaHJlZj0nL1NlYXJjaENvbnRyb2xsZWREb2MnIj57eyA6OididG5Db25maXJtYXRpb25EaWFsb2dEb25lLnRleHQnIHwgaTE4biB9fTwvYnV0dG9uPi0tPgo=</text>
+        <text encoding="base64">CQkJCQkJCQlhdWlNb2RhbFNlcnZpY2Uub3Blbih7CgkJCQkJCQkJCXRlbXBsYXRlVXJsOiAnZG9jdW1lbnQvc3VwZXJzZWRlL2RpcmVjdGl2ZXMvc3VwZXJzZWRlRm9ybS9jb25maXJtYXRpb25EaWFsb2cudHBsLmh0bWwnLAoJCQkJCQkJCQlrZXlib2FyZDogZmFsc2UsCgkJCQkJCQkJCXNjb3BlOiAkc2NvcGUKCQkJCQkJCQl9KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTxwPnt7IDo6J0RvYy5BY3Rpb25HdWlkZS5WaWV3SW5SZWcuVGV4dCcgfCBpMThuIH19PC9wPgo=</text>
+        <text encoding="base64">CTwhLS0JPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJhdWlCdXR0b24iIG5nLWNsaWNrPSJ3aW5kb3cubG9jYXRpb24uaHJlZj0nL1NlYXJjaENvbnRyb2xsZWREb2MnIj57eyA6OididG5Db25maXJtYXRpb25EaWFsb2dEb25lLnRleHQnIHwgaTE4biB9fTwvYnV0dG9uPi0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLQk8ZGl2IGNsYXNzPSJhdWlNb2RhbC1jbG9zZSIgbmctY2xpY2s9IiRkaXNtaXNzKCkiPjwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">CTxwPnt7IDo6J0RvYy5BY3Rpb25HdWlkZS5WaWV3SW5SZWcuVGV4dCcgfCBpMThuIH19PC9wPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyIGdldEN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXIoKSB7CiAgICAgICAgcmV0dXJuIGN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">PCEtLQk8ZGl2IGNsYXNzPSJhdWlNb2RhbC1jbG9zZSIgbmctY2xpY2s9IiRkaXNtaXNzKCkiPjwvZGl2Pi0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGFkZEN1c3RvbUZpZWxkVmFsdWVzVG9Eb2N1bWVudChEb2N1bWVudCBsdWNlbmVEb2N1bWVudCwgTGlzdDxDdXN0b21GaWVsZFZhbHVlRW50aXR5PiBjdXN0b21GaWVsZFZhbHVlRW50aXRpZXMpIHsKICAgICAgICBmb3IgKEZpZWxkIGZpZWxkIDogY3VzdG9tRmllbGRWYWx1ZXNUb0x1Y2VuZUNvbnZlcnRlci5jb252ZXJ0KGN1c3RvbUZpZWxkVmFsdWVFbnRpdGllcykpIHsKICAgICAgICAgICAgbHVjZW5lRG9jdW1lbnQuYWRkKGZpZWxkKTsKICAgICAgICB9CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBDdXN0b21GaWVsZFZhbHVlc1RvTHVjZW5lQ29udmVydGVyIGdldEN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXIoKSB7CiAgICAgICAgcmV0dXJuIGN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXI7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFwcGVuZE1haWxGb3JtRmllbGRWYWx1ZXMoY29yckVudGl0eSwgYnVpbGRlcik7Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCB2b2lkIGFkZEN1c3RvbUZpZWxkVmFsdWVzVG9Eb2N1bWVudChEb2N1bWVudCBsdWNlbmVEb2N1bWVudCwgTGlzdDxDdXN0b21GaWVsZFZhbHVlRW50aXR5PiBjdXN0b21GaWVsZFZhbHVlRW50aXRpZXMpIHsKICAgICAgICBmb3IgKEZpZWxkIGZpZWxkIDogY3VzdG9tRmllbGRWYWx1ZXNUb0x1Y2VuZUNvbnZlcnRlci5jb252ZXJ0KGN1c3RvbUZpZWxkVmFsdWVFbnRpdGllcykpIHsKICAgICAgICAgICAgbHVjZW5lRG9jdW1lbnQuYWRkKGZpZWxkKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGFwcGVuZE1haWxGb3JtRmllbGRWYWx1ZXMoY29yckVudGl0eSwgYnVpbGRlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gQWRkIGN1c3RvbSBmaWVsZHMgKHByb2plY3QgZmllbGRzKSB0byBsdWNlbmUgZG9jdW1lbnQKICAgICAgICBhZGRDdXN0b21GaWVsZFZhbHVlc1RvRG9jdW1lbnQoZG9jLCBkb2NFbnRpdHkuZ2V0RG9jdW1lbnRGb3JtRmllbGRWYWx1ZUVudGl0aWVzKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIExpc3Q8RmllbGQ+IGdldEN1c3RvbUZvcm1GaWVsZHNDb250ZW50VmFsdWVzKFQgZW50aXR5KSB7CiAgICAgICAgcmV0dXJuIGN1c3RvbUZpZWxkVmFsdWVzVG9MdWNlbmVDb252ZXJ0ZXIuY29udmVydCgKICAgICAgICAgICAgICAgIGZyb20oY29yckVudGl0eS5nZXRNYWlsRm9ybUZpZWxkVmFsdWVFbnRpdGllcygpKS5maWx0ZXIoRVhDTFVESU5HX0JPT0xFQU5fQ1VTVE9NX0ZJRUxEUykpOwogICAgfQo=</text>
+        <text encoding="base64">CiAgICAgICAgLy8gQWRkIGN1c3RvbSBmaWVsZHMgKHByb2plY3QgZmllbGRzKSB0byBsdWNlbmUgZG9jdW1lbnQKICAgICAgICBhZGRDdXN0b21GaWVsZFZhbHVlc1RvRG9jdW1lbnQoZG9jLCBkb2NFbnRpdHkuZ2V0RG9jdW1lbnRGb3JtRmllbGRWYWx1ZUVudGl0aWVzKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
@@ -337,7 +323,7 @@
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -380,9 +366,9 @@
         <entry>m .-2</entry>
         <entry>w</entry>
         <entry>set rnu!</entry>
+        <entry>set showcmd?</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
-        <entry>set showcmd?</entry>
       </history-cmd>
       <history-expr />
       <history-input />
