@@ -1,32 +1,124 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxwYWNrYWdlTnVtYmVyTGlzdFw+</entry>
+        <entry>setdocument</entry>
+        <entry>process</entry>
+        <entry encoding="base64">XDxNRVNTQUdFXD4=</entry>
+        <entry encoding="base64">XDxNZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+        <entry>done</entry>
+        <entry>text</entry>
+        <entry>confirmation</entry>
+        <entry>confirmationDialog</entry>
+        <entry>document</entry>
+        <entry>EditContro</entry>
+        <entry encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</entry>
+        <entry encoding="base64">XDxtb2NrVXRpbHNcPg==</entry>
+        <entry>opens a confirmation modal</entry>
+        <entry encoding="base64">XDxpdFJlZ2lzdGVyc1RoZURvY3VtZW50XD4=</entry>
+        <entry>1234</entry>
+        <entry>confiden</entry>
+        <entry>suppl</entry>
+        <entry encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JXMvXDxtb2NrVXBsb2FkRm9ybVNlcnZpY2VcPi9tb2NrU3VwZXJzZWRlRm9ybVNlcnZpY2UvZw==</entry>
+        <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
+        <entry>h Y</entry>
+        <entry encoding="base64">JXMvXDxmaWxlVHlwZVw+L2ZpbGV0eXBlL2c=</entry>
+        <entry encoding="base64">JXMvXDxmaWxldHlwZVw+L2ZpbGVUeXBlL2c=</entry>
+        <entry>reg</entry>
+        <entry>set hls!</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>q</entry>
+        <entry>vs</entry>
+        <entry>ls</entry>
+        <entry>so ~/.ideavimrc</entry>
+        <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
+        <entry>w</entry>
+        <entry>set rnu!</entry>
+        <entry>set showcmd?</entry>
+        <entry>m .-2</entry>
+        <entry>m .+1</entry>
+        <entry>let @/=''</entry>
+        <entry>noh</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/RegisterControlledDocControl.java" timestamp="1563425316459">
-        <mark key="'" line="523" column="32" />
-      </file>
-      <file name="/fragment.js" timestamp="1562807930732">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="71" />
-        <mark key="." line="0" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/main/java/com/aconex/doccontrol/representation/DocumentDto.java" timestamp="1562892922436">
-        <mark key="'" line="70" column="19" />
-      </file>
-      <file name="/a.dummy" timestamp="1563415304444">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/AbstractProjectResolver.java" timestamp="1563326551277">
-        <mark key="'" line="66" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/confirmationDialog.tpl.html" timestamp="1563507927535">
         <mark key="[" line="23" column="16" />
         <mark key="]" line="23" column="16" />
         <mark key="." line="23" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/search/bean/DefaultSearchResults.java" timestamp="1563254225967">
-        <mark key="'" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" timestamp="1563494337112">
         <mark key="'" line="503" column="19" />
@@ -37,19 +129,11 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/tools/index-maintenance/src/test/java/com/aconex/index/verifier/ControlledDocVerifierIntegrationTest.java" timestamp="1563485179438">
         <mark key="'" line="41" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/singleFileUpload/singleFileUpload.tpl.html" timestamp="1562723609014">
-        <mark key="[" line="16" column="49" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1563535145906">
         <mark key="[" line="230" column="0" />
         <mark key="]" line="230" column="0" />
         <mark key="^" line="234" column="28" />
         <mark key="." line="230" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/partition/bean/BasePartitionBean.java" timestamp="1562818949055">
-        <mark key="'" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/projectFields/projectFields.tpl.html" timestamp="1563517693727">
         <mark key="[" line="0" column="42" />
@@ -64,14 +148,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" timestamp="1563509854201">
         <mark key="'" line="141" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/webapp/WEB-INF/spring/controllersApp.xml" timestamp="1562680748637">
-        <mark key="[" line="390" column="0" />
-        <mark key="]" line="390" column="0" />
-        <mark key="." line="390" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/AbstractProjectEntity.java" timestamp="1563415803403">
-        <mark key="[" line="23" column="5" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563451336464">
         <mark key="'" line="148" column="11" />
         <mark key="[" line="296" column="15" />
@@ -79,17 +155,11 @@
         <mark key="." line="296" column="15" />
         <mark key="^" line="123" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-contracts/src/main/resources/com/aconex/contracts/internal/document/Documents.specs.md" timestamp="1563105532790">
-        <mark key="'" line="124" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/Doc_en.properties" timestamp="1563499368056">
         <mark key="'" line="614" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1563844863405">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/CorrEntity.java" timestamp="1563415777971">
-        <mark key="'" line="353" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" timestamp="1563499629927">
         <mark key="'" line="622" column="34" />
@@ -122,38 +192,19 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/ui/src/test/java/com/aconex/documentsupersede/DocumentSupersedeControllerTest.java" timestamp="1562626666426">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="/" timestamp="1586848762940">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" timestamp="1563496366131">
         <mark key="'" line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/multiSelectField/multiSelectField.js" timestamp="1563356061490">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/action/notification/ExportFailedNotificationDataContractTest.java" timestamp="1563496216488">
         <mark key="'" line="56" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/DocumentFieldValueValidationResult.java" timestamp="1562886253138">
-        <mark key="'" line="17" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/common/services/featureSwitchService.js" timestamp="1563195121212">
-        <mark key="[" line="4" column="97" />
-        <mark key="]" line="4" column="135" />
-        <mark key="." line="4" column="97" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1563324580980">
-        <mark key="'" line="602" column="55" />
       </file>
       <file name="/fragment.java" timestamp="1563494526024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/upload/directives/dateField/dateField.js" timestamp="1562915049238">
-        <mark key="'" line="8" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/supersede/angular.js" timestamp="1563533483088">
         <mark key="[" line="123" column="0" />
@@ -262,6 +313,8 @@
       <jump line="228" column="47" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="162" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="4">
         <text>^</text>
@@ -315,6 +368,8 @@
         <text>noh</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</last-search>
       <last-offset />
@@ -324,112 +379,12 @@
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">XDxwYWNrYWdlTnVtYmVyTGlzdFw+</entry>
-        <entry>setdocument</entry>
-        <entry>process</entry>
-        <entry encoding="base64">XDxNRVNTQUdFXD4=</entry>
-        <entry encoding="base64">XDxNZXNzYWdlXD4=</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
-        <entry>done</entry>
-        <entry>text</entry>
-        <entry>confirmation</entry>
-        <entry>confirmationDialog</entry>
-        <entry>document</entry>
-        <entry>EditContro</entry>
-        <entry encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</entry>
-        <entry encoding="base64">XDxtb2NrVXRpbHNcPg==</entry>
-        <entry>opens a confirmation modal</entry>
-        <entry encoding="base64">XDxpdFJlZ2lzdGVyc1RoZURvY3VtZW50XD4=</entry>
-        <entry>1234</entry>
-        <entry>confiden</entry>
-        <entry>suppl</entry>
-        <entry encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</entry>
-      </history-search>
-      <history-cmd>
-        <entry encoding="base64">JXMvXDxtb2NrVXBsb2FkRm9ybVNlcnZpY2VcPi9tb2NrU3VwZXJzZWRlRm9ybVNlcnZpY2UvZw==</entry>
-        <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
-        <entry>h Y</entry>
-        <entry encoding="base64">JXMvXDxmaWxlVHlwZVw+L2ZpbGV0eXBlL2c=</entry>
-        <entry encoding="base64">JXMvXDxmaWxldHlwZVw+L2ZpbGVUeXBlL2c=</entry>
-        <entry>reg</entry>
-        <entry>set hls!</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>q</entry>
-        <entry>vs</entry>
-        <entry>ls</entry>
-        <entry>so ~/.ideavimrc</entry>
-        <entry encoding="base64">JzwsJz5tICc+KzE=</entry>
-        <entry>w</entry>
-        <entry>set rnu!</entry>
-        <entry>set showcmd?</entry>
-        <entry>m .-2</entry>
-        <entry>m .+1</entry>
-        <entry>let @/=''</entry>
-        <entry>noh</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>shift ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>shift ctrl pressed 6</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="false" />
-    </editor>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>

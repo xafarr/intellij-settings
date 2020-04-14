@@ -6,9 +6,10 @@
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Hack Nerd Font" />
-    <option name="SECONDARY_FONT_FAMILY" value="Menlo" />
+    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_FAMILY" value="FuraCode Nerd Font" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="JetBrains Mono" />
   </component>
   <component name="EditorSettings">
     <option name="IS_CARET_BLINKING" value="false" />
