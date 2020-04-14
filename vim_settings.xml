@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWNrYWdlTnVtYmVyTGlzdFw+</entry>
         <entry>setdocument</entry>
         <entry>process</entry>
         <entry encoding="base64">XDxNRVNTQUdFXD4=</entry>
@@ -27,9 +26,9 @@
         <entry>confiden</entry>
         <entry>suppl</entry>
         <entry encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</entry>
+        <entry>updateRegis</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXDxtb2NrVXBsb2FkRm9ybVNlcnZpY2VcPi9tb2NrU3VwZXJzZWRlRm9ybVNlcnZpY2UvZw==</entry>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
         <entry>h Y</entry>
         <entry encoding="base64">JXMvXDxmaWxlVHlwZVw+L2ZpbGV0eXBlL2c=</entry>
@@ -49,6 +48,7 @@
         <entry>m .+1</entry>
         <entry>let @/=''</entry>
         <entry>noh</entry>
+        <entry>cla</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -148,13 +148,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" timestamp="1563509854201">
         <mark key="'" line="141" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/CorrConverter.java" timestamp="1563451336464">
-        <mark key="'" line="148" column="11" />
-        <mark key="[" line="296" column="15" />
-        <mark key="]" line="296" column="15" />
-        <mark key="." line="296" column="15" />
-        <mark key="^" line="123" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/Doc_en.properties" timestamp="1563499368056">
         <mark key="'" line="614" column="28" />
       </file>
@@ -192,7 +185,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/" timestamp="1586848762940">
+      <file name="/" timestamp="1586851646830">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" timestamp="1563496366131">
@@ -200,6 +193,9 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/action/notification/ExportFailedNotificationDataContractTest.java" timestamp="1563496216488">
         <mark key="'" line="56" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" timestamp="1586851630478">
+        <mark key="'" line="60" column="13" />
       </file>
       <file name="/fragment.java" timestamp="1563494526024">
         <mark key="[" line="0" column="0" />
@@ -212,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/tools/index-maintenance/src/test/java/com/aconex/index/verifier/ControlledDocVerifierIntegrationTest.java" />
       <jump line="346" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" />
       <jump line="355" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" />
       <jump line="114" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
@@ -312,6 +307,7 @@
       <jump line="30" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" />
       <jump line="228" column="47" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="162" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
+      <jump line="60" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,7 +328,7 @@
         <text>toHaveBeenCalledWith</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</text>
+        <text>updateRegis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCQltb2NrTG9hZGVyU3RhdGVTZXJ2aWNlLmhpZGUuY2FsbHMucmVzZXQoKTsKCQkJCQkJCQltb2NrQXVpTW9kYWxTZXJ2aWNlLm9wZW4uY2FsbHMucmVzZXQoKTsKCQkJCQkJCQkkcm9vdFNjb3BlLnN1cHBsaWVyRG9jU3VwZXJzZWRlUmV0dXJuVXJsID0gdW5kZWZpbmVkOwoJCQkJCQkJCXNhdmVEZWZlcnJlZC5yZXNvbHZlKHN1cGVyc2VkZWREb2N1bWVudERhdGEpOwo=</text>
@@ -365,15 +361,15 @@
         <text encoding="base64">CQkJCQkJCWl0KCdzaG91bGQgbm90IG9wZW4gY29uZmlybWF0aW9uIG1vZGFsIGlmIHN1cHBsaWVyIGRvYycsIGZ1bmN0aW9uICgpIHsKCQkJCQkJCQkkcm9vdFNjb3BlLiRhcHBseSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>cla</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</last-search>
+      <last-search>updateRegis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</last-pattern>
+      <last-pattern>updateRegis</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
