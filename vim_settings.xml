@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>setdocument</entry>
-        <entry>process</entry>
         <entry encoding="base64">XDxNRVNTQUdFXD4=</entry>
         <entry encoding="base64">XDxNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
@@ -27,6 +25,8 @@
         <entry>suppl</entry>
         <entry encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</entry>
         <entry>updateRegis</entry>
+        <entry>docLo</entry>
+        <entry>acqui</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
@@ -110,6 +110,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -160,10 +166,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/tools/index-maintenance/src/test/java/com/aconex/index/verifier/ControlledDocVerifierIntegrationTest.java" timestamp="1563485179438">
-        <mark key="'" line="41" column="33" />
-      </file>
-      <file name="/" timestamp="1586852440145">
+      <file name="/" timestamp="1586855590629">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" timestamp="1563496366131">
@@ -191,8 +194,11 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" timestamp="1563509854201">
         <mark key="'" line="141" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" timestamp="1586851630478">
-        <mark key="'" line="60" column="13" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1586855485423">
+        <mark key="'" line="524" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" timestamp="1586855444436">
+        <mark key="'" line="465" column="30" />
       </file>
       <file name="/fragment.java" timestamp="1563494526024">
         <mark key="[" line="0" column="0" />
@@ -208,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="346" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" />
-      <jump line="355" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/converter/DocConverter.java" />
       <jump line="114" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="850" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="854" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
@@ -308,6 +312,8 @@
       <jump line="228" column="47" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="162" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" />
       <jump line="60" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" />
+      <jump line="465" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" />
+      <jump line="524" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,7 +334,7 @@
         <text>toHaveBeenCalledWith</text>
       </register>
       <register name="/" type="4">
-        <text>updateRegis</text>
+        <text>acqui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCQltb2NrTG9hZGVyU3RhdGVTZXJ2aWNlLmhpZGUuY2FsbHMucmVzZXQoKTsKCQkJCQkJCQltb2NrQXVpTW9kYWxTZXJ2aWNlLm9wZW4uY2FsbHMucmVzZXQoKTsKCQkJCQkJCQkkcm9vdFNjb3BlLnN1cHBsaWVyRG9jU3VwZXJzZWRlUmV0dXJuVXJsID0gdW5kZWZpbmVkOwoJCQkJCQkJCXNhdmVEZWZlcnJlZC5yZXNvbHZlKHN1cGVyc2VkZWREb2N1bWVudERhdGEpOwo=</text>
@@ -367,12 +373,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>updateRegis</last-search>
+      <last-search>acqui</last-search>
       <last-offset />
-      <last-pattern>updateRegis</last-pattern>
+      <last-pattern>acqui</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
