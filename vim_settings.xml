@@ -132,6 +132,7 @@
         <mark key="]" line="76" column="41" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaMemberDto.java" timestamp="1586913966056" />
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1563535145906">
         <mark key="[" line="230" column="0" />
         <mark key="]" line="230" column="0" />
@@ -150,9 +151,6 @@
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" timestamp="1563509854201">
         <mark key="'" line="141" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/Doc_en.properties" timestamp="1563499368056">
-        <mark key="'" line="614" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1563844863405">
         <mark key="[" line="0" column="0" />
@@ -174,14 +172,14 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586914407008">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="59" />
+        <mark key="^" line="8" column="59" />
+        <mark key="." line="8" column="58" />
+      </file>
       <file name="/" timestamp="1586855590629">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" timestamp="1563496366131">
-        <mark key="'" line="45" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/action/notification/ExportFailedNotificationDataContractTest.java" timestamp="1563496216488">
-        <mark key="'" line="56" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1586855485423">
         <mark key="'" line="524" column="31" />
@@ -189,12 +187,16 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" timestamp="1586855444436">
         <mark key="'" line="465" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586910895543">
-        <mark key="'" line="73" column="44" />
-        <mark key="[" line="89" column="30" />
-        <mark key="]" line="88" column="44" />
-        <mark key="^" line="88" column="44" />
-        <mark key="." line="88" column="43" />
+      <file name="/fragment.java" timestamp="1586914364606">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586914266623">
+        <mark key="[" line="73" column="1" />
+        <mark key="]" line="73" column="67" />
+        <mark key="^" line="73" column="67" />
+        <mark key="." line="73" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/supersede/angular.js" timestamp="1563533483088">
         <mark key="[" line="123" column="0" />
@@ -316,10 +318,10 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="*" type="4">
-        <text>o == null || getClass() != o.getClass()</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIGZ1bGx5UXVhbGlmaWVkTmFtZSk7</text>
       </register>
       <register name="-" type="4">
-        <text>o == null || getClass() != o.getClass()</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIGZ1bGx5UXVhbGlmaWVkTmFtZSk7</text>
       </register>
       <register name="/" type="4">
         <text>Suppre</text>
@@ -328,31 +330,31 @@
         <text>CyclomaticComplexity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgaWYgKE9iamVjdHMuZXF1YWxzKHRoaXMsIG8pKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBpZiAoZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgICBDdXN0b21GaWVsZFNjaGVtYUR0byB0aGF0ID0gKEN1c3RvbUZpZWxkU2NoZW1hRHRvKSBvOwogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYXBwZW5kKGlkLCB0aGF0LmlkKQogICAgICAgICAgICAgICAgLmFwcGVuZChmdWxseVF1YWxpZmllZE5hbWUsIHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKQogICAgICAgICAgICAgICAgLmlzRXF1YWxzKCk7CiAgICB9CiovCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJjaGVja3N0eWxlOkN5Y2xvbWF0aWNDb21wbGV4aXR5IikK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSB7IHJldHVybiB0cnVlOyB9CgogICAgICAgIGlmIChjbGFzc0VxdWFsaXR5Q2hlY2sobykpIHsgcmV0dXJuIGZhbHNlOyB9CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYXBwZW5kKGlkLCB0aGF0LmlkKQogICAgICAgICAgICAgICAgLmFwcGVuZChmdWxseVF1YWxpZmllZE5hbWUsIHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKQogICAgICAgICAgICAgICAgLmlzRXF1YWxzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9IiIK</text>
+        <text encoding="base64">LyoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgaWYgKE9iamVjdHMuZXF1YWxzKHRoaXMsIG8pKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBpZiAoZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgICBDdXN0b21GaWVsZFNjaGVtYUR0byB0aGF0ID0gKEN1c3RvbUZpZWxkU2NoZW1hRHRvKSBvOwogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYXBwZW5kKGlkLCB0aGF0LmlkKQogICAgICAgICAgICAgICAgLmFwcGVuZChmdWxseVF1YWxpZmllZE5hbWUsIHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKQogICAgICAgICAgICAgICAgLmlzRXF1YWxzKCk7CiAgICB9CiovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkJJHJvb3RTY29wZS5zdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybCA9IHVuZGVmaW5lZDsK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJjaGVja3N0eWxlOkN5Y2xvbWF0aWNDb21wbGV4aXR5IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkkcm9vdFNjb3BlLnN1cHBsaWVyRG9jU3VwZXJzZWRlUmV0dXJuVXJsID0gdW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnR5IG5hbWU9IiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJJHJvb3RTY29wZS5zdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybCA9IHVuZGVmaW5lZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCWl0KCdoaWRlcyB0aGUgbG9hZGVyJywgZnVuY3Rpb24gKCkgewoJCQkJCQkJCWV4cGVjdChtb2NrTG9hZGVyU3RhdGVTZXJ2aWNlLmhpZGUpLnRvSGF2ZUJlZW5DYWxsZWQoKTsKCQkJCQkJCX0pOwo=</text>
+        <text encoding="base64">CQkJCQkkcm9vdFNjb3BlLnN1cHBsaWVyRG9jU3VwZXJzZWRlUmV0dXJuVXJsID0gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCWl0KCdzaG91bGQgbm90IG9wZW4gY29uZmlybWF0aW9uIG1vZGFsIGlmIHN1cHBsaWVyIGRvYycsIGZ1bmN0aW9uICgpIHsKCQkJCQkJCX0pOwo=</text>
+        <text encoding="base64">CQkJCQkJCWl0KCdoaWRlcyB0aGUgbG9hZGVyJywgZnVuY3Rpb24gKCkgewoJCQkJCQkJCWV4cGVjdChtb2NrTG9hZGVyU3RhdGVTZXJ2aWNlLmhpZGUpLnRvSGF2ZUJlZW5DYWxsZWQoKTsKCQkJCQkJCX0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>cla</text>
