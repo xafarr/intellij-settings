@@ -154,13 +154,6 @@
         <mark key="[" line="208" column="29" />
         <mark key="]" line="208" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" timestamp="1563494163486">
-        <mark key="'" line="144" column="61" />
-        <mark key="[" line="144" column="72" />
-        <mark key="]" line="144" column="66" />
-        <mark key="^" line="144" column="66" />
-        <mark key="." line="144" column="66" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormServiceSpec.js" timestamp="1563531641382">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -205,6 +198,10 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586908144753">
+        <mark key="'" line="53" column="0" />
+        <mark key="^" line="86" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/Doc_en.properties" timestamp="1563499368056">
         <mark key="'" line="614" column="28" />
       </file>
@@ -214,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="29" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="850" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="854" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="855" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
@@ -314,6 +310,7 @@
       <jump line="60" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" />
       <jump line="465" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" />
       <jump line="524" column="31" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
