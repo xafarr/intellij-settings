@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>text</entry>
         <entry>confirmation</entry>
         <entry>confirmationDialog</entry>
         <entry>document</entry>
@@ -27,6 +26,7 @@
         <entry>Suppre</entry>
         <entry>in</entry>
         <entry encoding="base64">XDxsb2dvblBhZ2VNYXRjaGVyXD4=</entry>
+        <entry>Cycl</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
@@ -129,8 +129,8 @@
         <mark key="]" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/quality-rules/com/aconex/coderules/checkstyle.xml" timestamp="1586909881889">
-        <mark key="'" line="100" column="18" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/quality-rules/com/aconex/coderules/checkstyle.xml" timestamp="1586932303048">
+        <mark key="'" line="96" column="16" />
         <mark key="[" line="76" column="22" />
         <mark key="]" line="76" column="41" />
         <mark key="." line="79" column="0" />
@@ -168,12 +168,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586924933550">
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586932935063">
         <mark key="'" line="16" column="45" />
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="16" column="46" />
-        <mark key="." line="16" column="45" />
-        <mark key="^" line="16" column="46" />
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="77" />
+        <mark key="." line="12" column="76" />
+        <mark key="^" line="12" column="77" />
       </file>
       <file name="/" timestamp="1586855590629">
         <mark key="[" line="0" column="0" />
@@ -189,12 +189,11 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586918596817">
-        <mark key="'" line="71" column="77" />
-        <mark key="[" line="71" column="92" />
-        <mark key="]" line="71" column="92" />
-        <mark key="." line="71" column="91" />
-        <mark key="^" line="71" column="92" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586932905758">
+        <mark key="[" line="73" column="8" />
+        <mark key="]" line="73" column="39" />
+        <mark key="." line="73" column="38" />
+        <mark key="^" line="73" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/supersede/angular.js" timestamp="1563533483088">
         <mark key="[" line="123" column="0" />
@@ -202,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="661" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="662" column="33" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="144" column="61" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="503" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" />
@@ -302,6 +300,7 @@
       <jump line="16" column="45" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" />
       <jump line="42" column="14" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/filters.xml" />
       <jump line="49" column="30" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/filters.xml" />
+      <jump line="96" column="16" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/quality-rules/com/aconex/coderules/checkstyle.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,43 +315,43 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="*" type="4">
-        <text>includedParams</text>
+        <text encoding="base64">Q29sbGVjdGlvbjxTdHJpbmc+IGluY2x1ZGVkUGFyYW1z</text>
       </register>
       <register name="-" type="4">
-        <text>includedParams</text>
+        <text encoding="base64">Q29sbGVjdGlvbjxTdHJpbmc+IGluY2x1ZGVkUGFyYW1z</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dvblBhZ2VNYXRjaGVyXD4=</text>
+        <text>Cycl</text>
       </register>
       <register name="0" type="4">
         <text>CyclomaticComplexity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYSA9PSBiKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KCiAgICAgICAgaWYgKGIgPT0gbnVsbCB8fCBhLmdldENsYXNzKCkgIT0gYi5nZXRDbGFzcygpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIGI7CiAgICAgICAgRXF1YWxzQnVpbGRlciBlcXVhbHNCdWlsZGVyID0gbmV3IEVxdWFsc0J1aWxkZXIoKTsKICAgICAgICAgICAgICAgIGVxdWFsc0J1aWxkZXIuCiAgICAgICAgcmV0dXJuIG5ldyBFcXVhbHNCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5hcHBlbmQoaWQsIHRoYXQuaWQpCiAgICAgICAgICAgICAgICAuYXBwZW5kKGZ1bGx5UXVhbGlmaWVkTmFtZSwgdGhhdC5mdWxseVF1YWxpZmllZE5hbWUpCiAgICAgICAgICAgICAgICAuaXNFcXVhbHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRXF1YWxzQnVpbGRlci5yZWZsZWN0aW9uRXF1YWxzKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoY2hlY2tDbGFzc0VxdWFsaXR5KG8pKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcmR7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoY2hlY2tDbGFzc0VxdWFsaXR5KG8pKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcmR7CiAgICB9CgogICAgcHJpdmF0ZSBib29sZWFuIGNoZWNrQ2xhc3NFcXVhbGl0eShPYmplY3QgbykgewogICAgICAgIHJldHVybiBvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIGZ1bGx5UXVhbGlmaWVkTmFtZSk7CiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0KICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWlkLmVxdWFscyh0aGF0LmlkKSkgcmV0dXJuIGZhbHNlOwogICAgICAgIHJldHVybiBmdWxseVF1YWxpZmllZE5hbWUuZXF1YWxzKHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgamoKCiAgICAvLyBFeGlzdHMgdG8gYXZvaWQgQ3ljbG9tYXRpYyBDb21wbGV4aXR5CiAgICBwcml2YXRlIGJvb2xlYW4gY2xhc3NFcXVhbGl0eUNoZWNrKE9iamVjdCBvKSB7CiAgICAgICAgcmV0dXJuIG8gPT0gbnVsbCB8fCBnZXRDbGFzcygpICE9IG8uZ2V0Q2xhc3MoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gaWQuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGZ1bGx5UXVhbGlmaWVkTmFtZS5oYXNoQ29kZSgpOwogICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYSA9PSBiKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KCiAgICAgICAgaWYgKGIgPT0gbnVsbCB8fCBhLmdldENsYXNzKCkgIT0gYi5nZXRDbGFzcygpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIGI7CiAgICAgICAgRXF1YWxzQnVpbGRlciBlcXVhbHNCdWlsZGVyID0gbmV3IEVxdWFsc0J1aWxkZXIoKTsKICAgICAgICAgICAgICAgIGVxdWFsc0J1aWxkZXIuCiAgICAgICAgcmV0dXJuIG5ldyBFcXVhbHNCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5hcHBlbmQoaWQsIHRoYXQuaWQpCiAgICAgICAgICAgICAgICAuYXBwZW5kKGZ1bGx5UXVhbGlmaWVkTmFtZSwgdGhhdC5mdWxseVF1YWxpZmllZE5hbWUpCiAgICAgICAgICAgICAgICAuaXNFcXVhbHMoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSB7IHJldHVybiB0cnVlOyB9CgogICAgICAgIGlmIChjbGFzc0VxdWFsaXR5Q2hlY2sobykpIHsgcmV0dXJuIGZhbHNlOyB9CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYXBwZW5kKGlkLCB0aGF0LmlkKQogICAgICAgICAgICAgICAgLmFwcGVuZChmdWxseVF1YWxpZmllZE5hbWUsIHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKQogICAgICAgICAgICAgICAgLmlzRXF1YWxzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHBhcmFtcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgaWYgKE9iamVjdHMuZXF1YWxzKHRoaXMsIG8pKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KICAgICAgICBpZiAoZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCkpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KICAgICAgICBDdXN0b21GaWVsZFNjaGVtYUR0byB0aGF0ID0gKEN1c3RvbUZpZWxkU2NoZW1hRHRvKSBvOwogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYXBwZW5kKGlkLCB0aGF0LmlkKQogICAgICAgICAgICAgICAgLmFwcGVuZChmdWxseVF1YWxpZmllZE5hbWUsIHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKQogICAgICAgICAgICAgICAgLmlzRXF1YWxzKCk7CiAgICB9CiovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJjaGVja3N0eWxlOkN5Y2xvbWF0aWNDb21wbGV4aXR5IikK</text>
+        <text encoding="base64">ICAgIH0KICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>cla</text>
@@ -361,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxsb2dvblBhZ2VNYXRjaGVyXD4=</last-search>
+      <last-search>Cycl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dvblBhZ2VNYXRjaGVyXD4=</last-pattern>
+      <last-pattern>Cycl</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
