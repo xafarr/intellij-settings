@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry>done</entry>
         <entry>text</entry>
         <entry>confirmation</entry>
@@ -27,6 +26,7 @@
         <entry>acqui</entry>
         <entry>Cyclo</entry>
         <entry>Suppre</entry>
+        <entry>in</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
@@ -152,7 +152,7 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" timestamp="1563509854201">
         <mark key="'" line="141" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563844863405">
+      <file name="/Dummy.txt" timestamp="1586917966380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" timestamp="1563499629927">
@@ -172,11 +172,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586915139496">
-        <mark key="[" line="8" column="52" />
-        <mark key="]" line="8" column="66" />
-        <mark key="." line="8" column="65" />
-        <mark key="^" line="8" column="66" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586918968931">
+        <mark key="'" line="16" column="45" />
+        <mark key="[" line="17" column="52" />
+        <mark key="]" line="17" column="52" />
+        <mark key="." line="17" column="52" />
+        <mark key="^" line="16" column="46" />
       </file>
       <file name="/" timestamp="1586855590629">
         <mark key="[" line="0" column="0" />
@@ -192,12 +193,12 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586915208993">
-        <mark key="'" line="69" column="77" />
-        <mark key="[" line="69" column="78" />
-        <mark key="]" line="69" column="77" />
-        <mark key="." line="69" column="76" />
-        <mark key="^" line="69" column="77" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586918596817">
+        <mark key="'" line="71" column="77" />
+        <mark key="[" line="71" column="92" />
+        <mark key="]" line="71" column="92" />
+        <mark key="." line="71" column="91" />
+        <mark key="^" line="71" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/supersede/angular.js" timestamp="1563533483088">
         <mark key="[" line="123" column="0" />
@@ -205,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="651" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="655" column="12" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="656" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
       <jump line="661" column="56" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/entity/DocEntity.java" />
@@ -305,6 +305,7 @@
       <jump line="71" column="38" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
       <jump line="73" column="44" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
       <jump line="69" column="77" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
+      <jump line="16" column="45" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,13 +320,13 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="*" type="4">
-        <text>params</text>
+        <text>includedParams</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>includedParams</text>
       </register>
       <register name="/" type="4">
-        <text>Suppre</text>
+        <text>in</text>
       </register>
       <register name="0" type="4">
         <text>CyclomaticComplexity</text>
@@ -364,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Suppre</last-search>
+      <last-search>in</last-search>
       <last-offset />
-      <last-pattern>Suppre</last-pattern>
+      <last-pattern>in</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
