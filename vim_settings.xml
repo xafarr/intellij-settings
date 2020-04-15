@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>document</entry>
         <entry>EditContro</entry>
         <entry encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</entry>
         <entry encoding="base64">XDxtb2NrVXRpbHNcPg==</entry>
@@ -27,6 +26,7 @@
         <entry>Cycl</entry>
         <entry>fulluquali</entry>
         <entry>fullyQuali</entry>
+        <entry>eclipse</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
@@ -322,7 +322,7 @@
         <text>HashCodeBuilder.reflectionHashCode(this)</text>
       </register>
       <register name="/" type="4">
-        <text>fullyQuali</text>
+        <text>eclipse</text>
       </register>
       <register name="0" type="4">
         <text>fullyQualifiedName</text>
@@ -361,12 +361,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fullyQuali</last-search>
+      <last-search>eclipse</last-search>
       <last-offset />
-      <last-pattern>fullyQuali</last-pattern>
+      <last-pattern>eclipse</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
