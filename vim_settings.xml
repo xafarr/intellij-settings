@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>EditContro</entry>
         <entry encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</entry>
         <entry encoding="base64">XDxtb2NrVXRpbHNcPg==</entry>
         <entry>opens a confirmation modal</entry>
@@ -27,6 +26,7 @@
         <entry>fulluquali</entry>
         <entry>fullyQuali</entry>
         <entry>eclipse</entry>
+        <entry>err</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
@@ -121,6 +121,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/target/analysis/checkstyle.xml" timestamp="1586949490325">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/filters.xml" timestamp="1586929283416">
         <mark key="'" line="49" column="30" />
       </file>
@@ -168,12 +171,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586948047427">
-        <mark key="'" line="16" column="45" />
-        <mark key="[" line="12" column="86" />
-        <mark key="]" line="12" column="86" />
-        <mark key="." line="12" column="86" />
-        <mark key="^" line="12" column="72" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586993526392">
+        <mark key="'" line="20" column="45" />
+        <mark key="[" line="20" column="46" />
+        <mark key="]" line="21" column="41" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="41" />
       </file>
       <file name="/" timestamp="1586855590629">
         <mark key="[" line="0" column="0" />
@@ -202,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="19" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/index/resolver/DocResolver.java" />
       <jump line="56" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/action/notification/ExportFailedNotificationDataContractTest.java" />
       <jump line="32" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
       <jump line="74" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
@@ -302,6 +304,7 @@
       <jump line="96" column="16" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/quality-rules/com/aconex/coderules/checkstyle.xml" />
       <jump line="60" column="71" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
       <jump line="43" column="15" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/target/analysis/checkstyle.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +325,7 @@
         <text>HashCodeBuilder.reflectionHashCode(this)</text>
       </register>
       <register name="/" type="4">
-        <text>eclipse</text>
+        <text>err</text>
       </register>
       <register name="0" type="4">
         <text>fullyQualifiedName</text>
@@ -361,9 +364,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>eclipse</last-search>
+      <last-search>err</last-search>
       <last-offset />
-      <last-pattern>eclipse</last-pattern>
+      <last-pattern>err</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
