@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2NrVXRpbHNcPg==</entry>
-        <entry>opens a confirmation modal</entry>
-        <entry encoding="base64">XDxpdFJlZ2lzdGVyc1RoZURvY3VtZW50XD4=</entry>
         <entry>1234</entry>
         <entry>confiden</entry>
         <entry>suppl</entry>
@@ -27,11 +24,11 @@
         <entry>eclipse</entry>
         <entry>err</entry>
         <entry>check</entry>
+        <entry>id</entry>
+        <entry encoding="base64">XDxmdWxseVF1YWxpZmllZE5hbWVcPg==</entry>
+        <entry>CustomFieldSchemaDto</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
-        <entry>h Y</entry>
-        <entry encoding="base64">JXMvXDxmaWxlVHlwZVw+L2ZpbGV0eXBlL2c=</entry>
         <entry encoding="base64">JXMvXDxmaWxldHlwZVw+L2ZpbGVUeXBlL2c=</entry>
         <entry>reg</entry>
         <entry>set hls!</entry>
@@ -49,6 +46,9 @@
         <entry>let @/=''</entry>
         <entry>noh</entry>
         <entry>cla</entry>
+        <entry>%s/id/value/g</entry>
+        <entry encoding="base64">JXMvXDxmdWxseVF1YWxpZmllZE5hbWVcPi9zaG9ydENvZGUvZw==</entry>
+        <entry>%s/CustomFieldSchemaDto/SingleSelectOptionDto/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -155,27 +155,29 @@
         <mark key="." line="107" column="38" />
         <mark key="^" line="23" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/SingleSelectOptionDto.java" timestamp="1586998495233">
+        <mark key="'" line="33" column="37" />
+        <mark key="[" line="46" column="44" />
+        <mark key="]" line="46" column="65" />
+        <mark key="." line="46" column="64" />
+        <mark key="^" line="46" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/controller/SearchControlledDocControl.java" timestamp="1563509854201">
         <mark key="'" line="141" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1586917966380">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/supplierDocs/suppDocsWorkFlowBase.js" timestamp="1563507649832">
-        <mark key="'" line="187" column="20" />
-        <mark key="[" line="208" column="29" />
-        <mark key="]" line="208" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormServiceSpec.js" timestamp="1563531641382">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586993526392">
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586997783620">
         <mark key="'" line="20" column="45" />
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="21" column="41" />
-        <mark key="." line="21" column="40" />
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="22" column="61" />
+        <mark key="." line="22" column="61" />
         <mark key="^" line="21" column="41" />
       </file>
       <file name="/" timestamp="1586855590629">
@@ -192,12 +194,12 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586997688327">
-        <mark key="'" line="55" column="37" />
-        <mark key="[" line="59" column="16" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="58" column="61" />
-        <mark key="^" line="72" column="16" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586998274161">
+        <mark key="'" line="57" column="52" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="73" column="5" />
+        <mark key="." line="57" column="50" />
+        <mark key="^" line="59" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/supersede/angular.js" timestamp="1563533483088">
         <mark key="[" line="123" column="0" />
@@ -205,10 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
-      <jump line="74" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
-      <jump line="76" column="151" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
-      <jump line="82" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
       <jump line="84" column="151" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
       <jump line="90" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
       <jump line="92" column="151" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
@@ -304,7 +302,11 @@
       <jump line="60" column="71" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
       <jump line="43" column="15" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/target/analysis/checkstyle.xml" />
-      <jump line="57" column="37" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
+      <jump line="56" column="39" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
+      <jump line="57" column="52" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
+      <jump line="36" column="6" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/SingleSelectOptionDto.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/SingleSelectOptionDto.java" />
+      <jump line="32" column="37" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/SingleSelectOptionDto.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,57 +320,57 @@
       <register name="b" type="4">
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQuZXF1YWxzKHRoYXQuaWQpICYmCiAgICAgICAgICAgICAgICBmdWxseVF1YWxpZmllZE5hbWUuZXF1YWxzKHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKTsK</text>
+      <register name="*" type="4">
+        <text>CustomFieldSchemaDto</text>
       </register>
       <register name="-" type="4">
-        <text>o == null || getClass() != o.getClass()</text>
+        <text>CustomFieldSchemaDto</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text>CustomFieldSchemaDto</text>
       </register>
-      <register name="0" type="4">
-        <text>fullyQualifiedName</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgaWYgKHRoaXMgPT0gbykgeyByZXR1cm4gdHJ1ZTsgfQogICAgICAgIGlmIChjaGVja0NsYXNzRXF1YWxpdHkobykpIHsgcmV0dXJuIGZhbHNlOyB9CiAgICAgICAgQ3VzdG9tRmllbGRTY2hlbWFEdG8gdGhhdCA9IChDdXN0b21GaWVsZFNjaGVtYUR0bykgbzsKICAgICAgICByZXR1cm4gY2hlY2tQcm9wZXJ0aWVzRXF1YWxpdHkodGhhdCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIGZ1bGx5UXVhbGlmaWVkTmFtZSk7CiAgICB9CgogICAgcHJpdmF0ZSBib29sZWFuIGNoZWNrQ2xhc3NFcXVhbGl0eShPYmplY3QgbykgewogICAgICAgIHJldHVybiBvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCk7CiAgICB9CgogICAgcHJpdmF0ZSBib29sZWFuIGNoZWNrUHJvcGVydGllc0VxdWFsaXR5KEN1c3RvbUZpZWxkU2NoZW1hRHRvIG8pIHsKICAgICAgICByZXR1cm4gT2JqZWN0cy5lcXVhbHMoaWQsIG8uaWQpICYmIE9iamVjdHMuZXF1YWxzKGZ1bGx5UXVhbGlmaWVkTmFtZSwgby5mdWxseVF1YWxpZmllZE5hbWUpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQuZXF1YWxzKHRoYXQuaWQpICYmCiAgICAgICAgICAgICAgICBmdWxseVF1YWxpZmllZE5hbWUuZXF1YWxzKHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKTsK</text>
+        <text encoding="base64">ICAgIEBPdmVycnZhbHVlZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBjaGVja0NsYXNzRXF1YWxpdHkoT2JqZWN0IG8pIHsKICAgICAgICByZXR1cm4gbyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgcmV0dXJuIEVxdWFsc0J1aWxkZXIucmVmbGVjdGlvbkVxdWFscyh0aGlzLCBvKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgaGFzaENvZGUoKSB7CiAgICAgICAgcmV0dXJuIEhhc2hDb2RlQnVpbGRlci5yZWZsZWN0aW9uSGFzaENvZGUodGhpcyk7CiAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gaWQuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGZ1bGx5UXVhbGlmaWVkTmFtZS5oYXNoQ29kZSgpOwogICAgICAgIHJldHVybiByZXN1bHQ7</text>
+      <register name="3" type="2">
+        <text encoding="base64">LyoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgaWYgKHRoaXMgPT0gbykgewogICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICB9CiAgICAgICAgaWYgKGNoZWNrQ2xhc3NFcXVhbGl0eShvKSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CiAgICAgICAgcmV0dXJuIG5ldyBFcXVhbHNCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5hcHBlbmQoaWQsIHRoYXQuaWQpCiAgICAgICAgICAgICAgICAuYXBwZW5kKGZ1bGx5UXVhbGlmaWVkTmFtZSwgdGhhdC5mdWxseVF1YWxpZmllZE5hbWUpCiAgICAgICAgICAgICAgICAuaXNFcXVhbHMoKTsKICAgIH0KCgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIGZ1bGx5UXVhbGlmaWVkTmFtZSk7CiAgICB9CiovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIGlmICghaWQuZXF1YWxzKHRoYXQuaWQpKSByZXR1cm4gZmFsc2U7CiAgICAgICAgcmV0dXJuIGZ1bGx5UXVhbGlmaWVkTmFtZS5lcXVhbHModGhhdC5mdWxseVF1YWxpZmllZE5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQuZXF1YWxzKHRoYXQuaWQpICYmCiAgICAgICAgICAgICAgICBmdWxseVF1YWxpZmllZE5hbWUuZXF1YWxzKHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU3RhdHVzKCkgewogICAgICAgIHJldHVybiBzdGF0dXM7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaXNTb3J0aW5nT3JkZXIoKSB7CiAgICAgICAgcmV0dXJuIHNvcnRpbmdPcmRlcjsKICAgIH0KCgo9PT09PT09CiAgICBwdWJsaWMgYm9vbGVhbiBpc1N0YXR1cygpIHsKICAgICAgICByZXR1cm4gc3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGlzU29ydGluZ09yZGVyKCkgewogICAgICAgIHJldHVybiBzb3J0aW5nT3JkZXI7CiAgICB9Cgo+Pj4+Pj4+IDdiOTlmNThkMi4uLiBBQ1hTLTE1NzogQ2hhbmdlIGhhc2hjb2RlIGFuZCBlcXVhbHMgaW1wbGVtZW50YXRpb24gb2YgQ3VzdG9tRmllbGRTY2hlbWFEdG8gZm9yIHBlcmZvcm1hbmNlIHJlYXNvbnMK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBjaGVja0NsYXNzRXF1YWxpdHkoT2JqZWN0IG8pIHsKICAgICAgICByZXR1cm4gbyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpOwogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">fHx8fHx8fCBwYXJlbnQgb2YgN2I5OWY1OGQyLi4uIEFDWFMtMTU3OiBDaGFuZ2UgaGFzaGNvZGUgYW5kIGVxdWFscyBpbXBsZW1lbnRhdGlvbiBvZiBDdXN0b21GaWVsZFNjaGVtYUR0byBmb3IgcGVyZm9ybWFuY2UgcmVhc29ucwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gaWQuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGZ1bGx5UXVhbGlmaWVkTmFtZS5oYXNoQ29kZSgpOwogICAgICAgIHJldHVybiByZXN1bHQ7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIGlmICghaWQuZXF1YWxzKHRoYXQuaWQpKSByZXR1cm4gZmFsc2U7CiAgICAgICAgcmV0dXJuIGZ1bGx5UXVhbGlmaWVkTmFtZS5lcXVhbHModGhhdC5mdWxseVF1YWxpZmllZE5hbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRXF1YWxzQnVpbGRlci5yZWZsZWN0aW9uRXF1YWxzKCkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU3RhdHVzKCkgewogICAgICAgIHJldHVybiBzdGF0dXM7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaXNTb3J0aW5nT3JkZXIoKSB7CiAgICAgICAgcmV0dXJuIHNvcnRpbmdPcmRlcjsKICAgIH0KCgo9PT09PT09CiAgICBwdWJsaWMgYm9vbGVhbiBpc1N0YXR1cygpIHsKICAgICAgICByZXR1cm4gc3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGlzU29ydGluZ09yZGVyKCkgewogICAgICAgIHJldHVybiBzb3J0aW5nT3JkZXI7CiAgICB9Cgo+Pj4+Pj4+IDdiOTlmNThkMi4uLiBBQ1hTLTE1NzogQ2hhbmdlIGhhc2hjb2RlIGFuZCBlcXVhbHMgaW1wbGVtZW50YXRpb24gb2YgQ3VzdG9tRmllbGRTY2hlbWFEdG8gZm9yIHBlcmZvcm1hbmNlIHJlYXNvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoY2hlY2tDbGFzc0VxdWFsaXR5KG8pKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcmR7Cg==</text>
+        <text encoding="base64">fHx8fHx8fCBwYXJlbnQgb2YgN2I5OWY1OGQyLi4uIEFDWFMtMTU3OiBDaGFuZ2UgaGFzaGNvZGUgYW5kIGVxdWFscyBpbXBsZW1lbnRhdGlvbiBvZiBDdXN0b21GaWVsZFNjaGVtYUR0byBmb3IgcGVyZm9ybWFuY2UgcmVhc29ucwo=</text>
       </register>
       <register name=":" type="4">
-        <text>cla</text>
+        <text>%s/CustomFieldSchemaDto/SingleSelectOptionDto/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>check</last-search>
+      <last-search>CustomFieldSchemaDto</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
-      <last-replace>fileType</last-replace>
-      <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
+      <last-pattern>CustomFieldSchemaDto</last-pattern>
+      <last-replace>SingleSelectOptionDto</last-replace>
+      <last-substitute>CustomFieldSchemaDto</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
