@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDRE9DX0RJU1BMQVlfTkVXX1NFQVJDSF9SRVNVTFRTXD4=</entry>
         <entry encoding="base64">XDxtb2NrVXRpbHNcPg==</entry>
         <entry>opens a confirmation modal</entry>
         <entry encoding="base64">XDxpdFJlZ2lzdGVyc1RoZURvY3VtZW50XD4=</entry>
@@ -27,6 +26,7 @@
         <entry>fullyQuali</entry>
         <entry>eclipse</entry>
         <entry>err</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXDx1cGxvYWRlZERvY3VtZW50RGF0YVw+L3N1cGVyc2VkZWREb2N1bWVudERhdGEvZw==</entry>
@@ -192,12 +192,12 @@
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586948811396">
-        <mark key="'" line="41" column="15" />
-        <mark key="[" line="63" column="15" />
-        <mark key="]" line="63" column="65" />
-        <mark key="." line="63" column="64" />
-        <mark key="^" line="63" column="65" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1586997688327">
+        <mark key="'" line="55" column="37" />
+        <mark key="[" line="59" column="16" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="58" column="61" />
+        <mark key="^" line="72" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/supersede/angular.js" timestamp="1563533483088">
         <mark key="[" line="123" column="0" />
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/action/notification/ExportFailedNotificationDataContractTest.java" />
       <jump line="32" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
       <jump line="74" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
       <jump line="76" column="151" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/test/java/com/aconex/imap/service/FileExternalRepliesNotificationDataContractTest.java" />
@@ -305,6 +304,7 @@
       <jump line="60" column="71" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
       <jump line="43" column="15" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/target/analysis/checkstyle.xml" />
+      <jump line="57" column="37" filename="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,44 +318,44 @@
       <register name="b" type="4">
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
-      <register name="*" type="4">
-        <text>HashCodeBuilder.reflectionHashCode(this)</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQuZXF1YWxzKHRoYXQuaWQpICYmCiAgICAgICAgICAgICAgICBmdWxseVF1YWxpZmllZE5hbWUuZXF1YWxzKHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>HashCodeBuilder.reflectionHashCode(this)</text>
+        <text>o == null || getClass() != o.getClass()</text>
       </register>
       <register name="/" type="4">
-        <text>err</text>
+        <text>check</text>
       </register>
       <register name="0" type="4">
         <text>fullyQualifiedName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU3RhdHVzKCkgewogICAgICAgIHJldHVybiBzdGF0dXM7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaXNTb3J0aW5nT3JkZXIoKSB7CiAgICAgICAgcmV0dXJuIHNvcnRpbmdPcmRlcjsKICAgIH0KCgo9PT09PT09CiAgICBwdWJsaWMgYm9vbGVhbiBpc1N0YXR1cygpIHsKICAgICAgICByZXR1cm4gc3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGlzU29ydGluZ09yZGVyKCkgewogICAgICAgIHJldHVybiBzb3J0aW5nT3JkZXI7CiAgICB9Cgo+Pj4+Pj4+IDdiOTlmNThkMi4uLiBBQ1hTLTE1NzogQ2hhbmdlIGhhc2hjb2RlIGFuZCBlcXVhbHMgaW1wbGVtZW50YXRpb24gb2YgQ3VzdG9tRmllbGRTY2hlbWFEdG8gZm9yIHBlcmZvcm1hbmNlIHJlYXNvbnMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWQuZXF1YWxzKHRoYXQuaWQpICYmCiAgICAgICAgICAgICAgICBmdWxseVF1YWxpZmllZE5hbWUuZXF1YWxzKHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fHx8fHx8fCBwYXJlbnQgb2YgN2I5OWY1OGQyLi4uIEFDWFMtMTU3OiBDaGFuZ2UgaGFzaGNvZGUgYW5kIGVxdWFscyBpbXBsZW1lbnRhdGlvbiBvZiBDdXN0b21GaWVsZFNjaGVtYUR0byBmb3IgcGVyZm9ybWFuY2UgcmVhc29ucwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBjaGVja0NsYXNzRXF1YWxpdHkoT2JqZWN0IG8pIHsKICAgICAgICByZXR1cm4gbyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpOwogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gaWQuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGZ1bGx5UXVhbGlmaWVkTmFtZS5oYXNoQ29kZSgpOwogICAgICAgIHJldHVybiByZXN1bHQ7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRXF1YWxzQnVpbGRlci5yZWZsZWN0aW9uRXF1YWxzKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIGlmICghaWQuZXF1YWxzKHRoYXQuaWQpKSByZXR1cm4gZmFsc2U7CiAgICAgICAgcmV0dXJuIGZ1bGx5UXVhbGlmaWVkTmFtZS5lcXVhbHModGhhdC5mdWxseVF1YWxpZmllZE5hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoY2hlY2tDbGFzc0VxdWFsaXR5KG8pKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcmR7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzU3RhdHVzKCkgewogICAgICAgIHJldHVybiBzdGF0dXM7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaXNTb3J0aW5nT3JkZXIoKSB7CiAgICAgICAgcmV0dXJuIHNvcnRpbmdPcmRlcjsKICAgIH0KCgo9PT09PT09CiAgICBwdWJsaWMgYm9vbGVhbiBpc1N0YXR1cygpIHsKICAgICAgICByZXR1cm4gc3RhdHVzOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGlzU29ydGluZ09yZGVyKCkgewogICAgICAgIHJldHVybiBzb3J0aW5nT3JkZXI7CiAgICB9Cgo+Pj4+Pj4+IDdiOTlmNThkMi4uLiBBQ1hTLTE1NzogQ2hhbmdlIGhhc2hjb2RlIGFuZCBlcXVhbHMgaW1wbGVtZW50YXRpb24gb2YgQ3VzdG9tRmllbGRTY2hlbWFEdG8gZm9yIHBlcmZvcm1hbmNlIHJlYXNvbnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoY2hlY2tDbGFzc0VxdWFsaXR5KG8pKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcmR7CiAgICB9CgogICAgcHJpdmF0ZSBib29sZWFuIGNoZWNrQ2xhc3NFcXVhbGl0eShPYmplY3QgbykgewogICAgICAgIHJldHVybiBvID09IG51bGwgfHwgZ2V0Q2xhc3MoKSAhPSBvLmdldENsYXNzKCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIHJldHVybiBPYmplY3RzLmhhc2goaWQsIGZ1bGx5UXVhbGlmaWVkTmFtZSk7CiAgICB9</text>
+        <text encoding="base64">fHx8fHx8fCBwYXJlbnQgb2YgN2I5OWY1OGQyLi4uIEFDWFMtMTU3OiBDaGFuZ2UgaGFzaGNvZGUgYW5kIGVxdWFscyBpbXBsZW1lbnRhdGlvbiBvZiBDdXN0b21GaWVsZFNjaGVtYUR0byBmb3IgcGVyZm9ybWFuY2UgcmVhc29ucwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWlkLmVxdWFscyh0aGF0LmlkKSkgcmV0dXJuIGZhbHNlOwogICAgICAgIHJldHVybiBmdWxseVF1YWxpZmllZE5hbWUuZXF1YWxzKHRoYXQuZnVsbHlRdWFsaWZpZWROYW1lKTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gaWQuaGFzaENvZGUoKTsKICAgICAgICByZXN1bHQgPSAzMSAqIHJlc3VsdCArIGZ1bGx5UXVhbGlmaWVkTmFtZS5oYXNoQ29kZSgpOwogICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRXF1YWxzQnVpbGRlci5yZWZsZWN0aW9uRXF1YWxzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYSA9PSBiKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0KCiAgICAgICAgaWYgKGIgPT0gbnVsbCB8fCBhLmdldENsYXNzKCkgIT0gYi5nZXRDbGFzcygpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIGI7CiAgICAgICAgRXF1YWxzQnVpbGRlciBlcXVhbHNCdWlsZGVyID0gbmV3IEVxdWFsc0J1aWxkZXIoKTsKICAgICAgICAgICAgICAgIGVxdWFsc0J1aWxkZXIuCiAgICAgICAgcmV0dXJuIG5ldyBFcXVhbHNCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5hcHBlbmQoaWQsIHRoYXQuaWQpCiAgICAgICAgICAgICAgICAuYXBwZW5kKGZ1bGx5UXVhbGlmaWVkTmFtZSwgdGhhdC5mdWxseVF1YWxpZmllZE5hbWUpCiAgICAgICAgICAgICAgICAuaXNFcXVhbHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAoY2hlY2tDbGFzc0VxdWFsaXR5KG8pKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIHJldHVybiBuZXcgRXF1YWxzQnVpbGRlcmR7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>cla</text>
@@ -364,9 +364,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>err</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>err</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>fileType</last-replace>
       <last-substitute encoding="base64">XDxmaWxldHlwZVw+</last-substitute>
       <last-dir>1</last-dir>
