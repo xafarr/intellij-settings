@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdXBwbGllckRvY1N1cGVyc2VkZVJldHVyblVybFw+</entry>
         <entry>updateRegis</entry>
         <entry>docLo</entry>
         <entry>acqui</entry>
@@ -27,6 +26,7 @@
         <entry>clas</entry>
         <entry>custom-fields</entry>
         <entry>getCustom</entry>
+        <entry>customfields</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
@@ -124,9 +124,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/target/analysis/checkstyle.xml" timestamp="1586949490325">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586917966380">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/filters.xml" timestamp="1586929283416">
         <mark key="'" line="49" column="30" />
       </file>
@@ -136,49 +133,18 @@
         <mark key="]" line="76" column="41" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/pom.xml" timestamp="1587037744144">
-        <mark key="'" line="1234" column="36" />
-        <mark key="[" line="69" column="34" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/pom.xml" timestamp="1587435864823">
+        <mark key="'" line="39" column="32" />
+        <mark key="[" line="69" column="30" />
         <mark key="]" line="69" column="36" />
         <mark key="." line="69" column="35" />
         <mark key="^" line="69" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/services/SupersedeFormServiceSpec.js" timestamp="1563531641382">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586997783620">
-        <mark key="'" line="20" column="45" />
-        <mark key="[" line="22" column="61" />
-        <mark key="]" line="22" column="61" />
-        <mark key="." line="22" column="61" />
-        <mark key="^" line="21" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/search/utils/MailSearchColumnManagerImpl.java" timestamp="1587428739613">
-        <mark key="'" line="33" column="13" />
-      </file>
-      <file name="/" timestamp="1586855590629">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.aws/config" timestamp="1587431216695">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeFormSpec.js" timestamp="1563535145906">
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="0" />
-        <mark key="^" line="234" column="28" />
-        <mark key="." line="230" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/src/rsrc/document/supersede/directives/supersedeForm/supersedeForm.js" timestamp="1563534217895">
-        <mark key="'" line="30" column="32" />
-        <mark key="[" line="107" column="32" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="107" column="38" />
-        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/SingleSelectOptionDto.java" timestamp="1587026176263">
         <mark key="'" line="31" column="12" />
@@ -187,11 +153,18 @@
         <mark key="." line="46" column="37" />
         <mark key="^" line="46" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/bo/UpdatingControlledDocBO.java" timestamp="1586855485423">
-        <mark key="'" line="524" column="31" />
+      <file name="/Dummy.txt" timestamp="1586917966380">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/doccontrol/application/ControlledDocumentServiceImpl.java" timestamp="1586855444436">
-        <mark key="'" line="465" column="30" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586997783620">
+        <mark key="'" line="20" column="45" />
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="22" column="61" />
+        <mark key="." line="22" column="61" />
+        <mark key="^" line="21" column="41" />
+      </file>
+      <file name="/" timestamp="1586855590629">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1586924966088">
         <mark key="[" line="0" column="0" />
@@ -205,14 +178,8 @@
         <mark key="." line="59" column="32" />
         <mark key="^" line="59" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/webapp-src/stage/rsrc/document/supersede/angular.js" timestamp="1563533483088">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="48" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
-      <jump line="3" column="16" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="7" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="10" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="14" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
@@ -311,6 +278,8 @@
       <jump line="139" column="24" filename="$USER_HOME$/Documents/IdeaProjects/babylon/pom.xml" />
       <jump line="1234" column="36" filename="$USER_HOME$/Documents/IdeaProjects/babylon/pom.xml" />
       <jump line="33" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/java/com/aconex/search/utils/MailSearchColumnManagerImpl.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/Documents/IdeaProjects/babylon/pom.xml" />
+      <jump line="39" column="32" filename="$USER_HOME$/Documents/IdeaProjects/babylon/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,13 +294,13 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="*" type="4">
-        <text>com.aconex.customfields.application.api.dto.</text>
+        <text>1.1.3288</text>
       </register>
       <register name="-" type="4">
-        <text>com.aconex.customfields.application.api.dto.</text>
+        <text>1.1.3288</text>
       </register>
       <register name="/" type="4">
-        <text>getCustom</text>
+        <text>customfields</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgaWYgKHRoaXMgPT0gbykgeyByZXR1cm4gdHJ1ZTsgfQogICAgICAgIGlmIChpc0NsYXNzTm90RXF1YWwobykpIHsgcmV0dXJuIGZhbHNlOyB9CiAgICAgICAgQ3VzdG9tRmllbGRTY2hlbWFEdG8gdGhhdCA9IChDdXN0b21GaWVsZFNjaGVtYUR0bykgbzsKICAgICAgICByZXR1cm4gYXJlUHJvcGVydGllc0VxdWFsKHRoYXQpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICByZXR1cm4gT2JqZWN0cy5oYXNoKGlkLCBmdWxseVF1YWxpZmllZE5hbWUpOwogICAgfQoKICAgIHByaXZhdGUgYm9vbGVhbiBpc0NsYXNzTm90RXF1YWwoT2JqZWN0IG8pIHsKICAgICAgICByZXR1cm4gbyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpOwogICAgfQoKICAgIHByaXZhdGUgYm9vbGVhbiBhcmVQcm9wZXJ0aWVzRXF1YWwoQ3VzdG9tRmllbGRTY2hlbWFEdG8gbykgewogICAgICAgIHJldHVybiBPYmplY3RzLmVxdWFscyhpZCwgby5pZCkgJiYgT2JqZWN0cy5lcXVhbHMoZnVsbHlRdWFsaWZpZWROYW1lLCBvLmZ1bGx5UXVhbGlmaWVkTmFtZSk7CiAgICB9Cg==</text>
@@ -370,9 +339,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getCustom</last-search>
+      <last-search>customfields</last-search>
       <last-offset />
-      <last-pattern>getCustom</last-pattern>
+      <last-pattern>customfields</last-pattern>
       <last-replace>SingleSelectOptionDto</last-replace>
       <last-substitute>CustomFieldSchemaDto</last-substitute>
       <last-dir>1</last-dir>
