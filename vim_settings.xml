@@ -32,7 +32,6 @@
         <entry>reg</entry>
         <entry>set hls!</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>q</entry>
         <entry>vs</entry>
         <entry>ls</entry>
         <entry>so ~/.ideavimrc</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JXMvXDxmdWxseVF1YWxpZmllZE5hbWVcPi9zaG9ydENvZGUvZw==</entry>
         <entry>%s/CustomFieldSchemaDto/SingleSelectOptionDto/g</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -142,6 +142,16 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/pom.xml" timestamp="1587435864823">
         <mark key="'" line="39" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586997783620">
+        <mark key="'" line="20" column="45" />
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="22" column="61" />
+        <mark key="." line="22" column="61" />
+        <mark key="^" line="21" column="41" />
+      </file>
+      <file name="/" timestamp="1587608226074">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.aws/config" timestamp="1587431216695">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="3" column="0" />
@@ -154,16 +164,6 @@
         <mark key="]" line="46" column="38" />
         <mark key="." line="46" column="37" />
         <mark key="^" line="46" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586997783620">
-        <mark key="'" line="20" column="45" />
-        <mark key="[" line="22" column="61" />
-        <mark key="]" line="22" column="61" />
-        <mark key="." line="22" column="61" />
-        <mark key="^" line="21" column="41" />
-      </file>
-      <file name="/" timestamp="1587608226074">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1586924966088">
         <mark key="[" line="0" column="0" />
@@ -332,7 +332,7 @@
         <text encoding="base64">ICAgICAgICBpZiAodGhpcyA9PSBvKSByZXR1cm4gdHJ1ZTsKICAgICAgICBpZiAobyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpKSByZXR1cm4gZmFsc2U7CgogICAgICAgIEN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoQ3VzdG9tRmllbGRTY2hlbWFEdG8pIG87CgogICAgICAgIGlmICghaWQuZXF1YWxzKHRoYXQuaWQpKSByZXR1cm4gZmFsc2U7CiAgICAgICAgcmV0dXJuIGZ1bGx5UXVhbGlmaWVkTmFtZS5lcXVhbHModGhhdC5mdWxseVF1YWxpZmllZE5hbWUpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
   </component>
