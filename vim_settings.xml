@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>docLo</entry>
         <entry>acqui</entry>
         <entry>Cyclo</entry>
         <entry>Suppre</entry>
@@ -27,6 +26,7 @@
         <entry>getCustom</entry>
         <entry>customfields</entry>
         <entry encoding="base64">XDxIRUFQU0laRVw+</entry>
+        <entry>mem</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
@@ -127,6 +127,9 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-application/app-rpm/src/main/bin/start-app.sh" timestamp="1587470267127">
         <mark key="'" line="26" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-custom-fields-implementation/src/main/java/com/aconex/customfields/babylon/persistence/marshallers/PersistentToDomainCustomFieldGroupMarshaller.java" timestamp="1587608610699">
+        <mark key="'" line="30" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/filters.xml" timestamp="1586929283416">
         <mark key="'" line="49" column="30" />
       </file>
@@ -152,15 +155,15 @@
         <mark key="." line="46" column="37" />
         <mark key="^" line="46" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586917966380">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/utils/EqualsHashcodeUtil.java" timestamp="1586997783620">
         <mark key="'" line="20" column="45" />
         <mark key="[" line="22" column="61" />
         <mark key="]" line="22" column="61" />
         <mark key="." line="22" column="61" />
         <mark key="^" line="21" column="41" />
+      </file>
+      <file name="/" timestamp="1587608226074">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1586924966088">
         <mark key="[" line="0" column="0" />
@@ -176,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="22" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="26" column="15" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="30" column="21" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
@@ -276,6 +278,7 @@
       <jump line="57" column="6" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-application/app-rpm/src/main/bin/start-app.sh" />
       <jump line="58" column="6" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-application/app-rpm/src/main/bin/start-app.sh" />
       <jump line="26" column="22" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-application/app-rpm/src/main/bin/start-app.sh" />
+      <jump line="30" column="61" filename="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-custom-fields-implementation/src/main/java/com/aconex/customfields/babylon/persistence/marshallers/PersistentToDomainCustomFieldGroupMarshaller.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,7 +299,7 @@
         <text>1.1.3288</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIRUFQU0laRVw+</text>
+        <text>mem</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gZXF1YWxzKE9iamVjdCBvKSB7CiAgICAgICAgaWYgKHRoaXMgPT0gbykgeyByZXR1cm4gdHJ1ZTsgfQogICAgICAgIGlmIChpc0NsYXNzTm90RXF1YWwobykpIHsgcmV0dXJuIGZhbHNlOyB9CiAgICAgICAgQ3VzdG9tRmllbGRTY2hlbWFEdG8gdGhhdCA9IChDdXN0b21GaWVsZFNjaGVtYUR0bykgbzsKICAgICAgICByZXR1cm4gYXJlUHJvcGVydGllc0VxdWFsKHRoYXQpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICByZXR1cm4gT2JqZWN0cy5oYXNoKGlkLCBmdWxseVF1YWxpZmllZE5hbWUpOwogICAgfQoKICAgIHByaXZhdGUgYm9vbGVhbiBpc0NsYXNzTm90RXF1YWwoT2JqZWN0IG8pIHsKICAgICAgICByZXR1cm4gbyA9PSBudWxsIHx8IGdldENsYXNzKCkgIT0gby5nZXRDbGFzcygpOwogICAgfQoKICAgIHByaXZhdGUgYm9vbGVhbiBhcmVQcm9wZXJ0aWVzRXF1YWwoQ3VzdG9tRmllbGRTY2hlbWFEdG8gbykgewogICAgICAgIHJldHVybiBPYmplY3RzLmVxdWFscyhpZCwgby5pZCkgJiYgT2JqZWN0cy5lcXVhbHMoZnVsbHlRdWFsaWZpZWROYW1lLCBvLmZ1bGx5UXVhbGlmaWVkTmFtZSk7CiAgICB9Cg==</text>
@@ -335,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxIRUFQU0laRVw+</last-search>
+      <last-search>mem</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIRUFQU0laRVw+</last-pattern>
+      <last-pattern>mem</last-pattern>
       <last-replace>SingleSelectOptionDto</last-replace>
       <last-substitute>CustomFieldSchemaDto</last-substitute>
       <last-dir>1</last-dir>
