@@ -124,10 +124,10 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/target/analysis/checkstyle.xml" timestamp="1586949490325">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-application/app-rpm/src/main/bin/start-app.sh" timestamp="1588827297538">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-application/app-rpm/src/main/bin/start-app.sh" timestamp="1588831433530">
         <mark key="'" line="26" column="22" />
-        <mark key="[" line="54" column="2" />
-        <mark key="]" line="54" column="14" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-custom-fields-implementation/src/main/java/com/aconex/customfields/babylon/persistence/marshallers/PersistentToDomainCustomFieldGroupMarshaller.java" timestamp="1587608610699">
         <mark key="'" line="30" column="61" />
@@ -304,7 +304,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="*" type="4">
-        <text>JAVA_SECURITY</text>
+        <text>-XX:PermSize</text>
       </register>
       <register name="-" type="4">
         <text>1.1.3288</text>
@@ -313,7 +313,7 @@
         <text>activemq</text>
       </register>
       <register name="0" type="4">
-        <text>JAVA_SECURITY</text>
+        <text>-XX:PermSize</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb20uYWNvbmV4LmN1c3RvbWZpZWxkcy5hcHBsaWNhdGlvbi5hcGkuZHRvLkN1c3RvbUZpZWxkU2NoZW1hRHRvIHRoYXQgPSAoY29tLmFjb25leC5jdXN0b21maWVsZHMuYXBwbGljYXRpb24uYXBpLmR0by5DdXN0b21GaWVsZFNjaGVtYUR0bykgbzsKICAgICAgICByZXR1cm4gYXJlUHJvcGVydGllc0VxdWFsKHRoYXQpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICByZXR1cm4gT2JqZWN0cy5oYXNoKGlkLCBmdWxseVF1YWxpZmllZE5hbWUpOwogICAgfQoK</text>
