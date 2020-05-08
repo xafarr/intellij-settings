@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>fulluquali</entry>
         <entry>fullyQuali</entry>
         <entry>eclipse</entry>
         <entry>err</entry>
@@ -27,6 +26,7 @@
         <entry>activemq</entry>
         <entry>threadconte</entry>
         <entry>threadcontention</entry>
+        <entry>contention</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
@@ -309,7 +309,7 @@
         <text>1.1.3288</text>
       </register>
       <register name="/" type="4">
-        <text>threadcontention</text>
+        <text>contention</text>
       </register>
       <register name="0" type="4">
         <text>-XX:PermSize</text>
@@ -348,9 +348,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>threadcontention</last-search>
+      <last-search>contention</last-search>
       <last-offset />
-      <last-pattern>threadcontention</last-pattern>
+      <last-pattern>contention</last-pattern>
       <last-replace>SingleSelectOptionDto</last-replace>
       <last-substitute>CustomFieldSchemaDto</last-substitute>
       <last-dir>1</last-dir>
