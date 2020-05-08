@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dvblBhZ2VNYXRjaGVyXD4=</entry>
-        <entry>Cycl</entry>
         <entry>fulluquali</entry>
         <entry>fullyQuali</entry>
         <entry>eclipse</entry>
@@ -27,6 +25,8 @@
         <entry>au1</entry>
         <entry>enqueue_count</entry>
         <entry>activemq</entry>
+        <entry>threadconte</entry>
+        <entry>threadcontention</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
@@ -158,6 +158,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/pcp-streaming/collector/src/conf/collectors.json" timestamp="1588220379661" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" timestamp="1588920924930">
+        <mark key="'" line="95" column="11" />
+      </file>
       <file name="$USER_HOME$/.aws/config" timestamp="1587431216695">
         <mark key="[" line="1" column="23" />
         <mark key="]" line="3" column="0" />
@@ -177,11 +180,6 @@
         <mark key="^" line="46" column="38" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java" timestamp="1588910097326" />
-      <file name="/fragment.java" timestamp="1586924966088">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
-      </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/custom-fields/custom-fields-api/src/main/java/com/aconex/customfields/application/api/dto/CustomFieldSchemaDto.java" timestamp="1587037812070">
         <mark key="'" line="57" column="52" />
         <mark key="[" line="54" column="0" />
@@ -191,8 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="21" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
-      <jump line="53" column="7" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="54" column="51" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="55" column="61" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="58" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
@@ -291,6 +287,8 @@
       <jump line="231" column="27" filename="$USER_HOME$/Documents/IdeaProjects/pcp-streaming/collector/src/conf/au1_tmuxifier.json" />
       <jump line="310" column="27" filename="$USER_HOME$/Documents/IdeaProjects/pcp-streaming/collector/src/conf/au1_tmuxifier.json" />
       <jump line="405" column="27" filename="$USER_HOME$/Documents/IdeaProjects/pcp-streaming/collector/src/conf/au1_tmuxifier.json" />
+      <jump line="123" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" />
+      <jump line="95" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,7 +309,7 @@
         <text>1.1.3288</text>
       </register>
       <register name="/" type="4">
-        <text>activemq</text>
+        <text>threadcontention</text>
       </register>
       <register name="0" type="4">
         <text>-XX:PermSize</text>
@@ -350,9 +348,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>activemq</last-search>
+      <last-search>threadcontention</last-search>
       <last-offset />
-      <last-pattern>activemq</last-pattern>
+      <last-pattern>threadcontention</last-pattern>
       <last-replace>SingleSelectOptionDto</last-replace>
       <last-substitute>CustomFieldSchemaDto</last-substitute>
       <last-dir>1</last-dir>
