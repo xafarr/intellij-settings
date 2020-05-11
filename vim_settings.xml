@@ -159,6 +159,9 @@
         <mark key="." line="22" column="61" />
         <mark key="^" line="21" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/monitoring.xml" timestamp="1589157362825">
+        <mark key="'" line="723" column="70" />
+      </file>
       <file name="/" timestamp="1588905001038">
         <mark key="[" line="0" column="0" />
       </file>
@@ -192,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="61" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="58" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="62" column="17" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="66" column="20" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
@@ -292,6 +294,7 @@
       <jump line="123" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" />
       <jump line="95" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" />
       <jump line="385" column="16" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" />
+      <jump line="723" column="70" filename="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/common/monitoring.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,7 +315,7 @@
         <text>1.1.3288</text>
       </register>
       <register name="/" type="4">
-        <text>contention</text>
+        <text>true</text>
       </register>
       <register name="0" type="4">
         <text>hreadContentionMonitoring</text>
@@ -351,9 +354,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>contention</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>contention</last-pattern>
+      <last-pattern>true</last-pattern>
       <last-replace>SingleSelectOptionDto</last-replace>
       <last-substitute>CustomFieldSchemaDto</last-substitute>
       <last-dir>1</last-dir>
