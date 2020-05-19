@@ -187,7 +187,7 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/tika-config.xml" timestamp="1589855927880">
+      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/tika-config.xml" timestamp="1589858092297">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="12" column="13" />
         <mark key="." line="0" column="0" />
@@ -195,15 +195,15 @@
       <file name="/fragment.java" timestamp="1589856769314">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/main/java/com/aconex/contentextractor/ContentExtractorApplication.java" timestamp="1589856560499">
-        <mark key="[" line="54" column="109" />
-        <mark key="]" line="54" column="131" />
-        <mark key="^" line="54" column="131" />
-        <mark key="." line="54" column="130" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/main/java/com/aconex/contentextractor/ContentExtractorApplication.java" timestamp="1589857784401">
+        <mark key="'" line="56" column="47" />
+        <mark key="[" line="73" column="61" />
+        <mark key="]" line="73" column="61" />
+        <mark key="^" line="73" column="61" />
+        <mark key="." line="73" column="60" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="102" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="106" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="110" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
@@ -303,6 +303,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/pom.xml" />
       <jump line="46" column="24" filename="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/pom.xml" />
       <jump line="45" column="32" filename="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/pom.xml" />
+      <jump line="56" column="47" filename="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/main/java/com/aconex/contentextractor/ContentExtractorApplication.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
