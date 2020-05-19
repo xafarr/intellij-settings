@@ -132,7 +132,6 @@
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-custom-fields-implementation/src/main/java/com/aconex/customfields/babylon/persistence/marshallers/PersistentToDomainCustomFieldGroupMarshaller.java" timestamp="1587608610699">
         <mark key="'" line="30" column="61" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.14/tika-core-1.14.jar!/org/apache/tika/parser/AutoDetectParser.class" timestamp="1589851782894" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar!/sun/management/VMManagementImpl.class" timestamp="1588937779856">
         <mark key="[" line="49" column="22" />
         <mark key="]" line="49" column="46" />
@@ -148,6 +147,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/aconex/custom-fields/custom-fields-core/1.1.3286/custom-fields-core-1.1.3286.jar!/com/aconex/customfields/application/CustomFieldsSchemaDelegatingService.class" timestamp="1587618067548">
         <mark key="'" line="78" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.14/tika-core-1.14.jar!/org/apache/tika/Tika.class" timestamp="1589853660525">
+        <mark key="'" line="32" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/pom.xml" timestamp="1587435864823">
         <mark key="'" line="39" column="32" />
@@ -202,9 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
-      <jump line="78" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
-      <jump line="82" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="86" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="90" column="13" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
       <jump line="94" column="18" filename="$USER_HOME$/Documents/IdeaProjects/babylon/resource-bundles/src/main/resources/com/aconex/i18n/resourceBundles/DocAconexButtons_en.properties" />
@@ -302,6 +301,9 @@
       <jump line="390" column="4" filename="$USER_HOME$/Documents/IdeaProjects/pcp-streaming/collector/src/conf/collectors.json" />
       <jump line="127" column="8" filename="$USER_HOME$/Documents/IdeaProjects/pcp-streaming/collector/src/conf/collectors.json" />
       <jump line="11" column="8" filename="$USER_HOME$/Documents/IdeaProjects/pcp-streaming/collector/src/conf/collectors.json" />
+      <jump line="315" column="0" filename="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.14/tika-core-1.14.jar!/org/apache/tika/Tika.class" />
+      <jump line="15" column="18" filename="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.14/tika-core-1.14.jar!/org/apache/tika/Tika.class" />
+      <jump line="32" column="18" filename="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.14/tika-core-1.14.jar!/org/apache/tika/Tika.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +324,7 @@
         <text>1.1.3288</text>
       </register>
       <register name="/" type="4">
-        <text>acon</text>
+        <text>getDe</text>
       </register>
       <register name="0" type="4">
         <text>hreadContentionMonitoring</text>
@@ -361,9 +363,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>acon</last-search>
+      <last-search>getDe</last-search>
       <last-offset />
-      <last-pattern>acon</last-pattern>
+      <last-pattern>getDe</last-pattern>
       <last-replace>SingleSelectOptionDto</last-replace>
       <last-substitute>CustomFieldSchemaDto</last-substitute>
       <last-dir>1</last-dir>
