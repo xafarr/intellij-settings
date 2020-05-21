@@ -121,12 +121,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-application/app-rpm/src/main/bin/start-app.sh" timestamp="1588831433530">
-        <mark key="'" line="26" column="22" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-application/app-rpm/src/main/cron/tmp-search-cleanup" timestamp="1590018860911">
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/babylon-application/app-rpm/src/main/cron/tmp-search-cleanup" timestamp="1590022642765">
         <mark key="'" line="0" column="104" />
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="63" />
@@ -142,6 +137,7 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/management/ThreadMXBean.java" timestamp="1588936407363">
         <mark key="'" line="385" column="16" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/tika/tika-parsers/1.14/tika-parsers-1.14.jar!/org/apache/tika/parser/microsoft/ooxml/OOXMLParser.class" timestamp="1590021084145" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.14/tika-core-1.14.jar!/org/apache/tika/config/TikaConfig.class" timestamp="1589855559793" />
       <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/main/java/com/aconex/contentextractor/ContentExtractorConfiguration.java" timestamp="1589856953205">
         <mark key="[" line="47" column="25" />
@@ -179,18 +175,18 @@
         <mark key="^" line="21" column="84" />
         <mark key="." line="21" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/content-extractor.yml" timestamp="1589856042809">
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="27" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/content-extractor.yml" timestamp="1590022249728">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
         <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="26" />
+        <mark key="." line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/tika-config.xml" timestamp="1589858092297">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="13" />
+      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/tika-config.xml" timestamp="1590021767251">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="47" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1589856769314">
+      <file name="/fragment.java" timestamp="1590022429066">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/main/java/com/aconex/contentextractor/ContentExtractorApplication.java" timestamp="1589857784401">
@@ -319,7 +315,7 @@
         <text>/bin/find /tmp/search -type f -mmin +$((24*60))</text>
       </register>
       <register name="-" type="4">
-        <text>-iname &quot;*.tmp&quot;</text>
+        <text>ika-config.xml</text>
       </register>
       <register name="/" type="4">
         <text>00</text>
