@@ -131,9 +131,6 @@
       <file name="/a.dummy" timestamp="1590041491021">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.14/tika-core-1.14.jar!/org/apache/tika/Tika.class" timestamp="1589853660525">
-        <mark key="'" line="32" column="18" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tika/tika-parsers/1.14/tika-parsers-1.14.jar!/org/apache/tika/parser/microsoft/ooxml/OOXMLParser.class" timestamp="1590021084145" />
       <file name="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.14/tika-core-1.14.jar!/org/apache/tika/config/TikaConfig.class" timestamp="1589855559793" />
       <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/main/java/com/aconex/contentextractor/ContentExtractorConfiguration.java" timestamp="1590042601818">
@@ -167,16 +164,20 @@
         <mark key="^" line="21" column="88" />
         <mark key="." line="21" column="87" />
       </file>
+      <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/indexCallbacks.xml" timestamp="1590123488169">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="41" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.15/tika-core-1.15-sources.jar!/org/apache/tika/config/TikaConfig.java" timestamp="1590039805054">
         <mark key="'" line="847" column="12" />
         <mark key="n" line="314" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/content-extractor.yml" timestamp="1590109586103">
+      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/content-extractor.yml" timestamp="1590123717984">
         <mark key="'" line="19" column="68" />
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="18" column="1" />
-        <mark key="." line="19" column="13" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/main/java/com/aconex/contentextractor/service/TikaExtractor.java" timestamp="1590038620819">
         <mark key="[" line="3" column="20" />
@@ -317,16 +318,16 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="*" type="4">
-        <text>Waiting for database.</text>
+        <text>contentStoreUri</text>
       </register>
       <register name="-" type="4">
-        <text>brokerUrl</text>
+        <text>contentStoreUri</text>
       </register>
       <register name="/" type="4">
         <text>br</text>
       </register>
       <register name="0" type="4">
-        <text>Waiting for database.</text>
+        <text>contentIndexingFeatureSwitch</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBicm9rZXJVcmw6IGZhaWxvdmVyOih0Y3A6Ly9jYW5kaWRhdGUtcXVldWU6NjE2MTYpP3RpbWVvdXQ9MzAwMAo=</text>
