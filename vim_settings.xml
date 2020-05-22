@@ -161,11 +161,11 @@
         <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/provisioning/install-extra-au1.yml" timestamp="1590019277975" />
-      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/test/java/com/aconex/contentextractor/ContentExtractorApplicationTest.java" timestamp="1589856591181">
+      <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/test/java/com/aconex/contentextractor/ContentExtractorApplicationTest.java" timestamp="1590108338221">
         <mark key="[" line="21" column="83" />
-        <mark key="]" line="21" column="84" />
-        <mark key="^" line="21" column="84" />
-        <mark key="." line="21" column="83" />
+        <mark key="]" line="21" column="88" />
+        <mark key="^" line="21" column="88" />
+        <mark key="." line="21" column="87" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/tika/tika-core/1.15/tika-core-1.15-sources.jar!/org/apache/tika/config/TikaConfig.java" timestamp="1590039805054">
         <mark key="'" line="847" column="12" />
