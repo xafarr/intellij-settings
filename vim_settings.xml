@@ -151,8 +151,8 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="34" column="2" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590038905680">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1590112892806">
+        <mark key="[" line="0" column="256" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/babylon/core/src/main/resources/com/aconex/config/app/temporarySearchFileLocation.xml" timestamp="1589938892621" />
       <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/pom.xml" timestamp="1589857112523">
@@ -193,7 +193,7 @@
         <mark key="[" line="87" column="21" />
         <mark key="]" line="87" column="56" />
       </file>
-      <file name="/fragment.java" timestamp="1590110531037">
+      <file name="/fragment.java" timestamp="1590112255378">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/IdeaProjects/content-extractor/content-extractor-application/src/main/java/com/aconex/contentextractor/ContentExtractorApplication.java" timestamp="1590042996625">
@@ -317,7 +317,7 @@
         <text encoding="base64">c3VwZXJzZWRlZENvbmZpZGVudGlhbGl0eSA=</text>
       </register>
       <register name="*" type="4">
-        <text>brokerUrl</text>
+        <text>Waiting for database.</text>
       </register>
       <register name="-" type="4">
         <text>brokerUrl</text>
@@ -325,8 +325,8 @@
       <register name="/" type="4">
         <text>br</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2VydmljZUxvYWRlciBzZXJ2aWNlTG9hZGVyID0gbmV3IFNlcnZpY2VMb2FkZXIoKTsKICAgICAgICAgICAgTWltZVR5cGVzIG1pbWVUeXBlcyA9IE1pbWVUeXBlcy5nZXREZWZhdWx0TWltZVR5cGVzKHNlcnZpY2VMb2FkZXIuZ2V0Q2xhc3MoKS5nZXRDbGFzc0xvYWRlcigpKTsKICAgICAgICAgICAgRGV0ZWN0b3IgZGV0ZWN0b3IgPSBuZXcgRGVmYXVsdERldGVjdG9yKG1pbWVUeXBlcywgc2VydmljZUxvYWRlcik7CiAgICAgICAgICAgIFBhcnNlciBkZWZhdWx0UGFyc2VyID0gbmV3IERlZmF1bHRQYXJzZXIobWltZVR5cGVzLmdldE1lZGlhVHlwZVJlZ2lzdHJ5KCksIHNlcnZpY2VMb2FkZXIpOwogICAgICAgICAgICBPT1hNTFBhcnNlciBvb3htbFBhcnNlciA9IG5ldyBPT1hNTFBhcnNlcigpOwogICAgICAgICAgICBvb3htbFBhcnNlci5zZXRVc2VTQVhEb2N4RXh0cmFjdG9yKHRydWUpOwogICAgICAgICAgICBvb3htbFBhcnNlci5zZXRVc2VTQVhQcHR4RXh0cmFjdG9yKHRydWUpOwogICAgICAgICAgICBvb3htbFBhcnNlci5zZXRJbmNsdWRlTW92ZUZyb21Db250ZW50KHRydWUpOwogICAgICAgICAgICBBdXRvRGV0ZWN0UGFyc2VyIGF1dG9EZXRlY3RQYXJzZXIgPSBuZXcgQXV0b0RldGVjdFBhcnNlcihkZXRlY3RvciwgZGVmYXVsdFBhcnNlciwgb294bWxQYXJzZXIpOwogICAgICAgICAgICBUaWthIHRpa2EgPSBuZXcgVGlrYShkZXRlY3RvciwgYXV0b0RldGVjdFBhcnNlcik7Cg==</text>
+      <register name="0" type="4">
+        <text>Waiting for database.</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBicm9rZXJVcmw6IGZhaWxvdmVyOih0Y3A6Ly9jYW5kaWRhdGUtcXVldWU6NjE2MTYpP3RpbWVvdXQ9MzAwMAo=</text>
