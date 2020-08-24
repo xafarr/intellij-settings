@@ -1,3 +1,0 @@
-<application>
-  <component name="MavenVersion" vmOptions="-Xmx4096m" embedderJdk="#JAVA_HOME" mavenHome="/usr/local/opt/maven@3.5/libexec" />
-</application>
