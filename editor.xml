@@ -1,0 +1,18 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="17" />
+    <option name="FONT_FAMILY" value="FuraCode Nerd Font" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="JetBrains Mono" />
+  </component>
+  <component name="EditorSettings">
+    <option name="IS_CARET_BLINKING" value="false" />
+  </component>
+</application>
