@@ -17,7 +17,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="101">
+        <list size="102">
           <item index="0" class="java.lang.String" itemvalue="factory-boy" />
           <item index="1" class="java.lang.String" itemvalue="pyramid-storage" />
           <item index="2" class="java.lang.String" itemvalue="pickleshare" />
@@ -119,6 +119,7 @@
           <item index="98" class="java.lang.String" itemvalue="pyramid" />
           <item index="99" class="java.lang.String" itemvalue="Weasyprint" />
           <item index="100" class="java.lang.String" itemvalue="plaster-pastedeploy" />
+          <item index="101" class="java.lang.String" itemvalue="SQLAlchemy" />
         </list>
       </value>
     </option>
