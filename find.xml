@@ -13,5 +13,6 @@
     <mask>*_en.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.*ignore</mask>
   </component>
 </application>
