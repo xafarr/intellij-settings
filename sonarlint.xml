@@ -1,5 +1,15 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df93dfccdf9edf98dfccdfc8df99dfcfdf9fdfcedfccdfcfdfcfdfcbdf9bdf9bdf9fdf9bdfc8dfcfdf9bdf9fdf98dfcbdf9edf9bdf92dfccdf9adf9adf9cdfcbdf98df98df9fdf9cdf9bdf98df99dfcc</token>
+          <option name="name" value="Sonarcloud" />
+          <organizationKey>rendercode</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
