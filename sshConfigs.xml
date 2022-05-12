@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="iress-dev-box" id="21db7303-43f1-48c3-af20-69676eb073c5" keyPath="$USER_HOME$/.ssh/iress_dev_key" port="22" nameFormat="DESCRIPTIVE" username="dev-usr" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
