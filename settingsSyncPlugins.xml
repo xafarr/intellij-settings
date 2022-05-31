@@ -61,7 +61,6 @@
                   <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -112,6 +111,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.jax.ws">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.jetbrains.plugins.ini4idea">
