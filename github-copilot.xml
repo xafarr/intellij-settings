@@ -1,6 +1,13 @@
 <application>
   <component name="github-copilot">
     <option name="signinNotificationShown" value="true" />
+    <disabledLanguages>
+      <option value="Git" />
+      <option value="GitIgnore" />
+      <option value="JAVA" />
+      <option value="JVM" />
+      <option value="kotlin" />
+    </disabledLanguages>
     <option name="showIdeCompletions" value="true" />
   </component>
 </application>
