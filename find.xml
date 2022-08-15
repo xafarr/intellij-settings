@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'iie-dx-orderpad-app'" />
-    <option name="defaultScopeName" value="Project 'iie-dx-orderpad-app'" />
-    <option name="SEARCH_SCOPE" value="Project 'iie-dx-orderpad-app'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.md</mask>
     <mask>General_en.properties</mask>
     <mask>*_en.properties</mask>
